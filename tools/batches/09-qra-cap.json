@@ -1,0 +1,620 @@
+[
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "QRA Saipan",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "trigger_zone": "QRA-Saipan",
+   "position": {
+    "x": 173000,
+    "y": 96000
+   },
+   "radius": 46300,
+   "groups": [
+    {
+     "name": "QRA-Saipan-MiG29",
+     "units": [
+      {
+       "type": "MiG-29S",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 173000,
+      "y": 96000
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "payload": "R-73*4,R-27R*2"
+    },
+    {
+     "name": "QRA-Saipan-J11",
+     "units": [
+      {
+       "type": "J-11A",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 173000,
+      "y": 96000
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "pylons": {
+      "1": {
+       "CLSID": "{RKL609_L}"
+      },
+      "2": {
+       "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+      },
+      "3": {
+       "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+      },
+      "5": {
+       "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+      },
+      "6": {
+       "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+      },
+      "8": {
+       "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+      },
+      "9": {
+       "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+      },
+      "10": {
+       "CLSID": "{RKL609_R}"
+      }
+     }
+    },
+    {
+     "name": "QRA-Saipan-Su30",
+     "units": [
+      {
+       "type": "Su-30",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 173000,
+      "y": 96000
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "payload": "R-73*4,R-77*6"
+    },
+    {
+     "name": "QRA-Saipan-Su27",
+     "units": [
+      {
+       "type": "Su-27",
+       "count": 4
+      }
+     ],
+     "position": {
+      "x": 173000,
+      "y": 96000
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "payload": "R-73*4,R-27ER*6"
+    }
+   ],
+   "enemy_coalitions": [
+    "BLUE"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-Saipan-MiG29",
+       "QRA-Saipan-J11"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-Saipan-Su30",
+       "QRA-Saipan-Su27"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Saipan Intl"
+   }
+  }
+ },
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "QRA Pagan",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "trigger_zone": "QRA-Pagan",
+   "position": {
+    "x": 512410,
+    "y": 107565
+   },
+   "radius": 55560,
+   "groups": [
+    {
+     "name": "QRA-Pagan-MiG29",
+     "units": [
+      {
+       "type": "MiG-29S",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 512410,
+      "y": 107565
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "payload": "R-73*4,R-27R*2"
+    },
+    {
+     "name": "QRA-Pagan-J11",
+     "units": [
+      {
+       "type": "J-11A",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 512410,
+      "y": 107565
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "pylons": {
+      "1": {
+       "CLSID": "{RKL609_L}"
+      },
+      "2": {
+       "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+      },
+      "3": {
+       "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+      },
+      "5": {
+       "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+      },
+      "6": {
+       "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+      },
+      "8": {
+       "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+      },
+      "9": {
+       "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+      },
+      "10": {
+       "CLSID": "{RKL609_R}"
+      }
+     }
+    },
+    {
+     "name": "QRA-Pagan-MiG31",
+     "units": [
+      {
+       "type": "MiG-31",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 512410,
+      "y": 107565
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "payload": "R-40R*2,R-33*4"
+    },
+    {
+     "name": "QRA-Pagan-Su30",
+     "units": [
+      {
+       "type": "Su-30",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 512410,
+      "y": 107565
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "payload": "R-73*4,R-77*6"
+    }
+   ],
+   "enemy_coalitions": [
+    "BLUE"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-Pagan-MiG29",
+       "QRA-Pagan-J11"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-Pagan-MiG31",
+       "QRA-Pagan-Su30"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Pagan Airstrip"
+   }
+  }
+ },
+ {
+  "name": "create_qra",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "QRA Guam",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "trigger_zone": "QRA-Guam",
+   "position": {
+    "x": 5000,
+    "y": 2000
+   },
+   "radius": 55560,
+   "groups": [
+    {
+     "name": "QRA-Guam-F16",
+     "units": [
+      {
+       "type": "F-16C bl.50",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 5000,
+      "y": 2000
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "payload": "AIM-120C*4, AIM-9M*2, Fuel"
+    },
+    {
+     "name": "QRA-Guam-F15",
+     "units": [
+      {
+       "type": "F-15C",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 5000,
+      "y": 2000
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "payload": "AIM-9*4,AIM-120*4,Fuel"
+    },
+    {
+     "name": "QRA-Guam-F15x4",
+     "units": [
+      {
+       "type": "F-15C",
+       "count": 4
+      }
+     ],
+     "position": {
+      "x": 5000,
+      "y": 2000
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "payload": "AIM-9*4,AIM-120*4,Fuel"
+    },
+    {
+     "name": "QRA-Guam-F14",
+     "units": [
+      {
+       "type": "F-14A",
+       "count": 2
+      }
+     ],
+     "position": {
+      "x": 5000,
+      "y": 2000
+     },
+     "altitude_ft": 15000,
+     "speed_kt": 400,
+     "task": "CAP",
+     "payload": "AIM-54C*4,AIM-9*2,AIM-7*2"
+    }
+   ],
+   "enemy_coalitions": [
+    "RED"
+   ],
+   "qra": {
+    "groups_by_enemy_count": [
+     {
+      "enemy_count": 1,
+      "groups": [
+       "QRA-Guam-F16",
+       "QRA-Guam-F15"
+      ],
+      "random_pick": 1
+     },
+     {
+      "enemy_count": 3,
+      "groups": [
+       "QRA-Guam-F15x4",
+       "QRA-Guam-F14"
+      ],
+      "random_pick": 1
+     }
+    ],
+    "delay_before_activating": 90,
+    "delay_before_rearming": 600,
+    "react_on_helicopters": false,
+    "airport_link": "Andersen AFB"
+   }
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "mission_name": "CAP-Tinian-MiG29",
+   "units": [
+    {
+     "type": "MiG-29S",
+     "count": 2
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "position": {
+    "x": 163000,
+    "y": 84000
+   },
+   "route": [
+    {
+     "x": 176000,
+     "y": 96000,
+     "altitude_ft": 22000
+    }
+   ],
+   "altitude_ft": 22000,
+   "speed_kt": 420,
+   "cap": {
+    "menu_name": "CAP rouge MiG-29 (Fox 1) — Tinian — FL220",
+    "briefing": "Deux MiG-29S armés de R-27R et R-73 patrouillent au-dessus de Tinian et d'Aguijan, au FL220. Emport : R-73*4,R-27R*2."
+   },
+   "payload": "R-73*4,R-27R*2"
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "mission_name": "CAP-Saipan-J11",
+   "units": [
+    {
+     "type": "J-11A",
+     "count": 2
+    }
+   ],
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "position": {
+    "x": 186000,
+    "y": 116000
+   },
+   "route": [
+    {
+     "x": 204000,
+     "y": 118000,
+     "altitude_ft": 25000
+    }
+   ],
+   "altitude_ft": 25000,
+   "speed_kt": 440,
+   "cap": {
+    "menu_name": "CAP rouge J-11A (Fox 3) — Saipan — FL250",
+    "briefing": "Deux J-11A armés de R-77 et R-73 patrouillent à l'est de Saipan, au FL250."
+   },
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "mission_name": "CAP-Anatahan-MiG31",
+   "units": [
+    {
+     "type": "MiG-31",
+     "count": 2
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "position": {
+    "x": 300000,
+    "y": 92000
+   },
+   "route": [
+    {
+     "x": 345000,
+     "y": 92000,
+     "altitude_ft": 40000
+    }
+   ],
+   "altitude_ft": 40000,
+   "speed_kt": 520,
+   "cap": {
+    "menu_name": "CAP rouge MiG-31 (intercepteur haut et rapide) — Anatahan — FL400",
+    "briefing": "Deux MiG-31 patrouillent haut et vite entre Anatahan et Sarigan, au FL400. Emport : R-40R*2,R-33*4."
+   },
+   "payload": "R-40R*2,R-33*4"
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "mission_name": "Raid-Saipan-Tu22",
+   "units": [
+    {
+     "type": "Tu-22M3",
+     "count": 2
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "position": {
+    "x": 215000,
+    "y": 98000
+   },
+   "route": [
+    {
+     "x": 245000,
+     "y": 98000,
+     "altitude_ft": 25000
+    }
+   ],
+   "altitude_ft": 25000,
+   "speed_kt": 450,
+   "cap": {
+    "menu_name": "Raid rouge Tu-22M3 à intercepter — nord de Saipan — FL250",
+    "briefing": "Deux Tu-22M3 chargés de bombes tournent au nord de Saipan, au FL250, prêts à frapper Guam : les intercepter. Emport : FAB-250*69."
+   },
+   "payload": "FAB-250*69"
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "mission_name": "CAP-Guam-F16",
+   "units": [
+    {
+     "type": "F-16C bl.50",
+     "count": 2
+    }
+   ],
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "position": {
+    "x": 20000,
+    "y": 8000
+   },
+   "route": [
+    {
+     "x": 40000,
+     "y": 22000,
+     "altitude_ft": 22000
+    }
+   ],
+   "altitude_ft": 22000,
+   "speed_kt": 420,
+   "cap": {
+    "menu_name": "CAP bleue F-16 (Fox 3) — nord de Guam — FL220",
+    "briefing": "Deux F-16C patrouillent au nord de Guam, entre North West Field et le détroit de Rota, au FL220. Emport : AIM-120C*4, AIM-9M*2, Fuel."
+   },
+   "payload": "AIM-120C*4, AIM-9M*2, Fuel"
+  }
+ },
+ {
+  "name": "create_cap_mission",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "mission_name": "CAP-Tarawa-F15",
+   "units": [
+    {
+     "type": "F-15C",
+     "count": 2
+    }
+   ],
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "position": {
+    "x": 110000,
+    "y": 90000
+   },
+   "route": [
+    {
+     "x": 130000,
+     "y": 100000,
+     "altitude_ft": 25000
+    }
+   ],
+   "altitude_ft": 25000,
+   "speed_kt": 440,
+   "cap": {
+    "menu_name": "CAP bleue F-15 (Fox 3) — Tarawa — FL250",
+    "briefing": "Deux F-15C couvrent le groupe amphibie du Tarawa, au nord-est de Rota, au FL250. Emport : AIM-9*4,AIM-120*4,Fuel."
+   },
+   "payload": "AIM-9*4,AIM-120*4,Fuel"
+  }
+ }
+]

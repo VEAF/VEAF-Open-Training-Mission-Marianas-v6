@@ -1,0 +1,97 @@
+[
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Hard-H3-3"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "H3-3",
+   "position": {
+    "x": -17000,
+    "y": -4000
+   },
+   "units": [
+    {
+     "type": "SA-18 Igla manpad",
+     "name": "#command=\"-sa18\" #spawngroup=\"H3MP\" #spawncount=1 #H3-3"
+    }
+   ],
+   "for_combat_zone": "combatZone_Talofofo_Hard",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Hard-H3-4"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "H3-4",
+   "position": {
+    "x": -19816,
+    "y": -4479
+   },
+   "units": [
+    {
+     "type": "SA-18 Igla manpad",
+     "name": "#command=\"-sa18\" #spawngroup=\"H3MP\" #spawncount=1 #H3-4"
+    }
+   ],
+   "for_combat_zone": "combatZone_Talofofo_Hard",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Protect-Overlord-J11",
+   "operation": "add_task",
+   "index": 1,
+   "task_position": 1,
+   "task": "attack_group",
+   "task_params": {
+    "group_id": 21
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Defense-Andersen-SEAD",
+   "operation": "add_task",
+   "index": 1,
+   "task_position": 1,
+   "task": "engage_targets_in_zone",
+   "task_params": {
+    "position": {
+     "x": 10575,
+     "y": 14549
+    },
+    "radius_m": 25000,
+    "target_types": [
+     "Air Defence"
+    ]
+   }
+  }
+ }
+]

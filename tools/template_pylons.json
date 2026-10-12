@@ -1,0 +1,187 @@
+{
+ "F-15C Template": {
+  "1": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  },
+  "2": {
+   "CLSID": "{E1F29B21-F291-4589-9FD8-3272EEC69506}"
+  },
+  "3": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  },
+  "4": {
+   "CLSID": "{C8E06185-7CD6-4C90-959F-044679E90751}"
+  },
+  "5": {
+   "CLSID": "{C8E06185-7CD6-4C90-959F-044679E90751}"
+  },
+  "6": {
+   "CLSID": "{E1F29B21-F291-4589-9FD8-3272EEC69506}"
+  },
+  "7": {
+   "CLSID": "{C8E06185-7CD6-4C90-959F-044679E90751}"
+  },
+  "8": {
+   "CLSID": "{C8E06185-7CD6-4C90-959F-044679E90751}"
+  },
+  "9": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  },
+  "10": {
+   "CLSID": "{E1F29B21-F291-4589-9FD8-3272EEC69506}"
+  },
+  "11": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  }
+ },
+ "F-16CM Template": {
+  "1": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  },
+  "2": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  },
+  "3": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  },
+  "4": {
+   "CLSID": "{F376DBEE-4CAE-41BA-ADD9-B2910AC95DEC}"
+  },
+  "5": {
+   "CLSID": "ALQ_184_Long"
+  },
+  "6": {
+   "CLSID": "{F376DBEE-4CAE-41BA-ADD9-B2910AC95DEC}"
+  },
+  "7": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  },
+  "8": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  },
+  "9": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  },
+  "11": {
+   "CLSID": "{A111396E-D3E8-4b9c-8AC9-2432489304D5}"
+  }
+ },
+ "F/A-18C Template": {
+  "1": {
+   "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}",
+   "settings": {
+    "NFP_PRESID": "MDRN_M_A_AIM9",
+    "NFP_VIS_DrawArgNo_57": 0.1
+   }
+  },
+  "2": {
+   "CLSID": "LAU_117_AGM_65F"
+  },
+  "3": {
+   "CLSID": "{BRU33_2X_GBU-12}",
+   "settings": {
+    "01_prfx_arm_delay_ctrl_FMU139CB_LD": 4,
+    "01_prfx_function_delay_ctrl_FMU139CB_LD": 0,
+    "NFP_PRESID": "Paveway_II",
+    "NFP_PRESVER": 2,
+    "NFP_VIS_DrawArgNo_57": 0,
+    "NFP_fuze_type_tail": "FMU139CB_LD",
+    "laser_code": 1688
+   }
+  },
+  "4": {
+   "CLSID": "{AAQ-28_LEFT}"
+  },
+  "5": {
+   "CLSID": "{BRU33_2X_CBU-99}",
+   "settings": {
+    "NFP_PRESID": "MDRN_CC_A_CBU199",
+    "NFP_PRESVER": 2,
+    "NFP_fuze_type_nose": "Mk339Mod1",
+    "function_delay_ctrl_00_Mk339Mod1": 1.2,
+    "function_delay_ctrl_01_Mk339Mod1": 4
+   }
+  },
+  "6": {
+   "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+  },
+  "7": {
+   "CLSID": "{BRU33_2X_GBU-12}",
+   "settings": {
+    "01_prfx_arm_delay_ctrl_FMU139CB_LD": 4,
+    "01_prfx_function_delay_ctrl_FMU139CB_LD": 0,
+    "NFP_PRESID": "Paveway_II",
+    "NFP_PRESVER": 2,
+    "NFP_VIS_DrawArgNo_57": 0,
+    "NFP_fuze_type_tail": "FMU139CB_LD",
+    "laser_code": 1688
+   }
+  },
+  "8": {
+   "CLSID": "LAU_117_AGM_65F"
+  },
+  "9": {
+   "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}",
+   "settings": {
+    "NFP_PRESID": "MDRN_M_A_AIM9",
+    "NFP_VIS_DrawArgNo_57": 0.1
+   }
+  }
+ },
+ "J-11A Template Red": {},
+ "Mig-29S Template Red": {
+  "1": {
+   "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+  },
+  "2": {
+   "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+  },
+  "3": {
+   "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+  },
+  "4": {
+   "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+  },
+  "5": {
+   "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+  },
+  "6": {
+   "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+  },
+  "7": {
+   "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+  }
+ },
+ "Su-27 Template Red": {
+  "1": {
+   "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+  },
+  "2": {
+   "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+  },
+  "3": {
+   "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+  },
+  "4": {
+   "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+  },
+  "5": {
+   "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+  },
+  "6": {
+   "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+  },
+  "7": {
+   "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+  },
+  "8": {
+   "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+  },
+  "9": {
+   "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+  },
+  "10": {
+   "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+  }
+ }
+}

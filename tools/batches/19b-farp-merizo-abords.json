@@ -1,0 +1,4 @@
+[
+ {"name": "set_group_properties", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6", "group_name": "FARP Merizo - Ammo", "move_to": {"x": -23450, "y": -12100}}},
+ {"name": "set_group_properties", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6", "group_name": "AD Merizo Stinger", "move_to": {"x": -23355, "y": -12200}}}
+]

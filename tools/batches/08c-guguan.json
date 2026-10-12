@@ -1,0 +1,75 @@
+[
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Medinilla-Z04-1"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Medinilla-Z04-2"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Medinilla",
+   "position": {
+    "x": 422349,
+    "y": 115380
+   },
+   "radius": 1500,
+   "new_name": "combatZone_Guguan"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Z04-1",
+   "position": {
+    "x": 422349,
+    "y": 115380
+   },
+   "units": [
+    {
+     "type": "SA-11 Buk LN 9A310M1",
+     "name": "#command=\"-sa11\" #Z04-1"
+    }
+   ],
+   "for_combat_zone": "combatZone_Guguan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Z04-2",
+   "position": {
+    "x": 422149,
+    "y": 115726
+   },
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#command=\"-sa15\" #Z04-2"
+    }
+   ],
+   "for_combat_zone": "combatZone_Guguan",
+   "keep_position": true
+  }
+ }
+]

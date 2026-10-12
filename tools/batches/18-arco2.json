@@ -1,0 +1,48 @@
+[
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Arco 2",
+   "move_to": {
+    "x": 70000,
+    "y": 135000
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Arco 2 - Escort",
+   "move_to": {
+    "x": 67000,
+    "y": 132000
+   }
+  }
+ },
+ {
+  "name": "edit_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "name": "Piste Arco 2",
+   "position": {
+    "x": 70000,
+    "y": 135000
+   }
+  }
+ },
+ {
+  "name": "edit_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "name": "Piste Arco 2 étiquette",
+   "position": {
+    "x": 100000,
+    "y": 141000
+   }
+  }
+ }
+]

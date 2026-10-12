@@ -1,0 +1,118 @@
+# Plans de vol injectés dans les groupes joueurs (Open Training Mariannes) — écrit par tools/gen_13_waypoints.py.
+# TX1/AR1/TX2/AR2 = début de piste des ravitailleurs bleus ; SH1 = ravitailleur rouge ; RNG_H/A/S = champs de tir
+# hélicoptères (Talofofo), attaque (North West Field), SEAD (Rota) ; FARP_MRZ = FARP Merizo. Le build ajoute le
+# BULLSEYE (Aguijan) à chaque plan.
+waypoints:
+  TX1:
+    type: Turning Point
+    action: Turning Point
+    alt: 6706
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: 30000
+    y: -70000
+    name: TX1
+  AR1:
+    type: Turning Point
+    action: Turning Point
+    alt: 5486
+    alt_type: BARO
+    speed: 144.0
+    speed_type: TAS
+    x: -30000
+    y: -50000
+    name: AR1
+  TX2:
+    type: Turning Point
+    action: Turning Point
+    alt: 7315
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: 190000
+    y: 265000
+    name: TX2
+  AR2:
+    type: Turning Point
+    action: Turning Point
+    alt: 6096
+    alt_type: BARO
+    speed: 144.0
+    speed_type: TAS
+    x: 70000
+    y: 135000
+    name: AR2
+  SH1:
+    type: Turning Point
+    action: Turning Point
+    alt: 6096
+    alt_type: BARO
+    speed: 154.3
+    speed_type: TAS
+    x: 250000
+    y: 60000
+    name: SH1
+  RNG_A:
+    type: Turning Point
+    action: Turning Point
+    alt: 914
+    alt_type: BARO
+    speed: 128.6
+    speed_type: TAS
+    x: 15200
+    y: 5500
+    name: RNG_A
+  RNG_S:
+    type: Turning Point
+    action: Turning Point
+    alt: 4572
+    alt_type: BARO
+    speed: 180.1
+    speed_type: TAS
+    x: 73500
+    y: 44500
+    name: RNG_S
+  RNG_H:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: -18500
+    y: -4000
+    name: RNG_H
+  FARP_MRZ:
+    type: Turning Point
+    action: Turning Point
+    alt: 152
+    alt_type: BARO
+    speed: 51.4
+    speed_type: TAS
+    x: -22300
+    y: -12450
+    name: FARP_MRZ
+settings:
+  blue_planes:
+    category: plane
+    coalition: blue
+    waypoints:
+    - TX1
+    - AR1
+    - TX2
+    - AR2
+    - RNG_A
+    - RNG_S
+  blue_helicopters:
+    category: helicopter
+    coalition: blue
+    waypoints:
+    - FARP_MRZ
+    - RNG_H
+    - RNG_A
+  red_planes:
+    category: plane
+    coalition: red
+    waypoints:
+    - SH1

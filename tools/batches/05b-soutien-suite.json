@@ -1,0 +1,458 @@
+[
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "Shell 1 - Escort",
+   "unit_type": "J-11A",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 247000,
+    "y": 57000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 380,
+   "frequency_mhz": 294.0,
+   "task": "Escort",
+   "skill": "High",
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Shell 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Shell 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Shell 1",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "name": "Wizard 1",
+   "unit_type": "KJ-2000",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 330000,
+    "y": 60000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 284.0,
+   "task": "AWACS",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Wizard 1",
+   "operation": "add",
+   "position": {
+    "x": 400000,
+    "y": 60000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Wizard 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Wizard 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "awacs",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Wizard 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "eplrs",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Wizard 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 30000,
+    "speed_kt": 360
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "name": "Wizard 1 - Escort",
+   "unit_type": "J-11A",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 327000,
+    "y": 57000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 284.0,
+   "task": "Escort",
+   "skill": "High",
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Wizard 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Wizard 1 - Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "Wizard 1",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Darkstar 1",
+   "unit_type": "E-3A",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 130000,
+    "y": -430000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 285.0,
+   "task": "AWACS",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Darkstar 1",
+   "operation": "add",
+   "position": {
+    "x": 130000,
+    "y": -470000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Darkstar 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Darkstar 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "awacs",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Darkstar 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "eplrs",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Darkstar 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 30000,
+    "speed_kt": 360
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "Focus 1",
+   "unit_type": "A-50",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 300000,
+    "y": -430000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360,
+   "frequency_mhz": 286.0,
+   "task": "AWACS",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Focus 1",
+   "operation": "add",
+   "position": {
+    "x": 300000,
+    "y": -470000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 360
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Focus 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "set_unlimited_fuel",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Focus 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "awacs",
+   "task_params": {}
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Focus 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "eplrs",
+   "task_params": {
+    "value": true
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Focus 1",
+   "operation": "add_task",
+   "index": 1,
+   "task": "orbit",
+   "task_params": {
+    "pattern": "Race-Track",
+    "altitude_ft": 30000,
+    "speed_kt": 360
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Reaper 1",
+   "unit_type": "MQ-9 Reaper",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 15471,
+    "y": 6727
+   },
+   "altitude_ft": 10000,
+   "speed_kt": 110,
+   "task": "AFAC",
+   "skill": "High"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Reaper 2",
+   "unit_type": "MQ-9 Reaper",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": -26000,
+    "y": -15000
+   },
+   "altitude_ft": 10000,
+   "speed_kt": 110,
+   "task": "AFAC",
+   "skill": "High"
+  }
+ }
+]

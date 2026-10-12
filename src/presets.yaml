@@ -1,0 +1,286 @@
+# Plan radio de l'Open Training Mariannes — écrit par tools/gen_12_presets.py, ne pas éditer à la main.
+# Hors bande des tours : les tours des Mariannes occupent UHF 250.0-256.9 et 340.2, VHF 118.1-126.2,
+# FM 38.4-38.6 (describe_airfield_channels, 11/10/2026). AWACS 282-286, ravitailleurs 290-296 (dernier chiffre
+# = TACAN), porte-avions 305-307, patrouilles VHF 135-136.5 / UHF 390-395.5, FARP Merizo FM 40.0.
+# Les canaux d'aérodromes (collection `bases`) viennent de set_airfield_channels : fréquences DCS.
+channel_lists:
+  blue:
+    primary_1:
+      1: &id001
+        title: Guard/UHF
+        channel: Guard
+      2: Magic-1
+      3: Overlord-1
+      4: Texaco-1
+      5: Arco-1
+      6: Texaco-2
+      7: Arco-2
+      8: Stennis
+      9: Roosevelt
+      10: Tarawa
+      11: Base-Andersen AFB
+      12: Base-Antonio B. Won Pat Intl
+      13: S3B-Stennis
+      14: S3B-Roosevelt
+      15: Darkstar-1
+    primary_2:
+      1: &id002
+        title: Guard/VHF
+        channel: Guard
+      2: Archer
+      3: Arctic
+      4: Astro
+      5: Nickel
+      6: Nitro
+      7: Ninja
+      8: Pinder
+      9: Bengal
+      10: Blade
+      11: Gordon
+      12: Base-Andersen AFB
+      13: Base-Antonio B. Won Pat Intl
+    fm_supplement:
+      1: 30
+      2: 31
+      3: 32
+      4: 33
+      5: 34
+      6: 35
+      7: 36
+      8: 37
+      9: 38
+      10: 39
+      11: FARP-Merizo
+      12: 41
+      13: 42
+      14: 43
+      15: 44
+      16: 45
+      17: 46
+      18: 47
+      19: 48
+      20: 49
+      21: 50
+      22: 51
+      23: 52
+      24: 53
+      25: 54
+      26: 55
+      27: 56
+      28: 57
+      29: 58
+      30: 59
+  red:
+    primary_1:
+      1: *id001
+      2: Wizard-1
+      3: Shell-1
+      4: Focus-1
+      5: Base-Saipan Intl
+      6: Base-Tinian Intl
+    primary_2:
+      1: *id002
+      2: Berkut
+      3: Sokol
+      4: Strizh
+      5: Orel
+      6: Yastreb
+      7: Grach
+      8: Base-Saipan Intl
+      9: Base-Tinian Intl
+    fm_supplement:
+      1: 30
+      2: 31
+      3: 32
+      4: 33
+      5: 34
+      6: 35
+      7: 36
+      8: 37
+      9: 38
+      10: 39
+      11: 40
+      12: 41
+      13: 42
+      14: 43
+      15: 44
+      16: 45
+      17: 46
+      18: 47
+      19: 48
+      20: 49
+      21: 50
+      22: 51
+      23: 52
+      24: 53
+      25: 54
+      26: 55
+      27: 56
+      28: 57
+      29: 58
+      30: 59
+channels_collection:
+  tactical:
+    Guard:
+      title: Guard
+      freqs:
+        uhf: 243
+        vhf: 121.5
+    Magic-1:
+      title: Magic 1 AWACS ouest
+      freqs:
+        uhf: 282.0
+    Overlord-1:
+      title: Overlord 1 AWACS est
+      freqs:
+        uhf: 283.0
+    Wizard-1:
+      title: Wizard 1 AWACS
+      freqs:
+        uhf: 284.0
+    Darkstar-1:
+      title: Darkstar 1 Arène
+      freqs:
+        uhf: 285.0
+    Focus-1:
+      title: Focus 1 Arène
+      freqs:
+        uhf: 286.0
+    Texaco-1:
+      title: Texaco 1/BS/50Y
+      freqs:
+        uhf: 290.0
+    Arco-1:
+      title: Arco 1/BM/51Y
+      freqs:
+        uhf: 291.0
+    Texaco-2:
+      title: Texaco 2/BS/52Y
+      freqs:
+        uhf: 292.0
+    Arco-2:
+      title: Arco 2/BM/53Y
+      freqs:
+        uhf: 293.0
+    Shell-1:
+      title: Shell 1 IL-78
+      freqs:
+        uhf: 294.0
+    S3B-Stennis:
+      title: Shell 5 S-3B/55Y
+      freqs:
+        uhf: 295.0
+    S3B-Roosevelt:
+      title: Shell 6 S-3B/56Y
+      freqs:
+        uhf: 296.0
+    Stennis:
+      title: Stennis/74X/ICLS11
+      freqs:
+        uhf: 305.0
+    Roosevelt:
+      title: Roosevelt/71X/ICLS12
+      freqs:
+        uhf: 306.0
+    Tarawa:
+      title: Tarawa/73X/ICLS13
+      freqs:
+        uhf: 307.0
+    FARP-Merizo:
+      title: FARP Merizo
+      freqs:
+        fm: 40.0
+  flights:
+    Archer:
+      title: Archer
+      freqs:
+        vhf: 135.0
+        uhf: 390.0
+    Arctic:
+      title: Arctic
+      freqs:
+        vhf: 135.1
+        uhf: 390.1
+    Astro:
+      title: Astro
+      freqs:
+        vhf: 135.2
+        uhf: 390.2
+    Nickel:
+      title: Nickel
+      freqs:
+        vhf: 135.3
+        uhf: 390.3
+    Nitro:
+      title: Nitro
+      freqs:
+        vhf: 135.4
+        uhf: 390.4
+    Ninja:
+      title: Ninja
+      freqs:
+        vhf: 135.5
+        uhf: 390.5
+    Pinder:
+      title: Pinder
+      freqs:
+        vhf: 135.6
+        uhf: 390.6
+    Bengal:
+      title: Bengal
+      freqs:
+        vhf: 135.7
+        uhf: 390.7
+    Blade:
+      title: Blade
+      freqs:
+        vhf: 135.8
+        uhf: 390.8
+    Gordon:
+      title: Gordon
+      freqs:
+        vhf: 135.9
+        uhf: 390.9
+    Berkut:
+      title: Berkut
+      freqs:
+        vhf: 136.0
+        uhf: 395.0
+    Sokol:
+      title: Sokol
+      freqs:
+        vhf: 136.1
+        uhf: 395.1
+    Strizh:
+      title: Strizh
+      freqs:
+        vhf: 136.2
+        uhf: 395.2
+    Orel:
+      title: Orel
+      freqs:
+        vhf: 136.3
+        uhf: 395.3
+    Yastreb:
+      title: Yastreb
+      freqs:
+        vhf: 136.4
+        uhf: 395.4
+    Grach:
+      title: Grach
+      freqs:
+        vhf: 136.5
+        uhf: 395.5
+  bases:
+    Base-Andersen AFB:
+      title: Andersen AFB / 54X
+      freqs: {uhf: 250.1, vhf: 126.2, fm: 38.6}
+    Base-Antonio B. Won Pat Intl:
+      title: Antonio B. Won Pat Intl
+      freqs: {uhf: 340.2, vhf: 118.1, fm: 38.55}
+    Base-Saipan Intl:
+      title: Saipan Intl
+      freqs: {uhf: 256.9, vhf: 125.7, fm: 38.45}
+    Base-Tinian Intl:
+      title: Tinian Intl
+      freqs: {uhf: 250.05, vhf: 123.65, fm: 38.5}

@@ -1,0 +1,242 @@
+{
+ "Merizo, Guam": {
+  "x": -23858,
+  "y": -13756,
+  "osm": "hamlet",
+  "name": "Merizo, Malesso’ Municipality, Guam, United States"
+ },
+ "Umatac, Guam": {
+  "x": -3821,
+  "y": -4349,
+  "osm": "island",
+  "name": "Guam, Chalan Pago-Ordot Municipality, Guam, United States"
+ },
+ "Inarajan, Guam": {
+  "x": -22659,
+  "y": -6089,
+  "osm": "river",
+  "name": "Inarajan River, Inalåhan, Inalåhan Municipality, Guam, United States"
+ },
+ "Mount Lamlam": {
+  "x": -16153,
+  "y": -14321,
+  "osm": "peak",
+  "name": "Mount Lamlam, Hågat Municipality, Guam, 96928, United States"
+ },
+ "Ritidian Point": {
+  "x": 18249,
+  "y": 7177,
+  "osm": "peak",
+  "name": "Ritidian Point, Yigo Municipality, Guam, United States"
+ },
+ "Mount Santa Rosa, Guam": {
+  "x": 5517,
+  "y": 12642,
+  "osm": "peak",
+  "name": "Mount Santa Rosa, Yigo Municipality, Guam, United States"
+ },
+ "Hagåtña, Guam": {
+  "x": -3821,
+  "y": -4349,
+  "osm": "island",
+  "name": "Guam, Chalan Pago-Ordot Municipality, Guam, United States"
+ },
+ "Dededo, Guam": {
+  "x": 3730,
+  "y": 4397,
+  "osm": "locality",
+  "name": "Dededo, Barrigada, Dededo Municipality, Guam, United States"
+ },
+ "Barrigada, Guam": {
+  "x": 2182,
+  "y": 3552,
+  "osm": "village",
+  "name": "Barrigada, Dededo Municipality, Guam, 96912, United States"
+ },
+ "Talofofo, Guam": {
+  "x": -14464,
+  "y": -4924,
+  "osm": "census",
+  "name": "Talofofo, Talo’fo’fo’, Talo’fo’fo’ Municipality, Guam, United States"
+ },
+ "Apra Harbor": {
+  "x": -6391,
+  "y": -15938,
+  "osm": "census",
+  "name": "Apra Harbor, Sånta Rita-Sumai Municipality, Guam, 96915, United States"
+ },
+ "Sinapalo, Rota": {
+  "x": 73805,
+  "y": 45377,
+  "osm": "island",
+  "name": "Rota, Sinapalo, Rota Municipality, Northern Mariana Islands, 96951, United States"
+ },
+ "Songsong, Rota": {
+  "x": 73805,
+  "y": 45377,
+  "osm": "island",
+  "name": "Rota, Sinapalo, Rota Municipality, Northern Mariana Islands, 96951, United States"
+ },
+ "Sabana, Rota": {
+  "x": 72669,
+  "y": 42754,
+  "osm": "peak",
+  "name": "Sabana, Rota Municipality, Northern Mariana Islands, 96951, United States"
+ },
+ "Sasanhaya Bay": {
+  "x": 70897,
+  "y": 38364,
+  "osm": "bay",
+  "name": "Sasanhaya, Tachok (Teneto), Rota Municipality, Northern Mariana Islands, 96951, United Sta"
+ },
+ "San Jose, Tinian": {
+  "x": 168259,
+  "y": 91039,
+  "osm": "island",
+  "name": "Tinian Island, San Jose (Tinian), Tinian Municipality, Northern Mariana Islands, 96952, Un"
+ },
+ "North Field, Tinian": {
+  "x": 174664,
+  "y": 92122,
+  "osm": "attraction",
+  "name": "North Field, Lenox Avenue, Tinian Municipality, Northern Mariana Islands, United States"
+ },
+ "Tinian Harbor": {
+  "x": 162931,
+  "y": 90134,
+  "osm": "bay",
+  "name": "Tinian Harbor, San Jose (Tinian), Tinian Municipality, Northern Mariana Islands, 96952, Un"
+ },
+ "Unai Chulu": {
+  "x": 174860,
+  "y": 89604,
+  "osm": "beach",
+  "name": "Unai Chulu, Tinian Municipality, Northern Mariana Islands, United States"
+ },
+ "Unai Dankulo": {
+  "x": 170945,
+  "y": 93081,
+  "osm": "beach",
+  "name": "Unai Dangkolo, Tinian Municipality, Northern Mariana Islands, United States"
+ },
+ "Garapan": {
+  "x": 189793,
+  "y": 101024,
+  "osm": "administrative",
+  "name": "Garapan, Saipan Municipality, Northern Mariana Islands, 96950, United States"
+ },
+ "Susupe": {
+  "x": 184336,
+  "y": 99810,
+  "osm": "administrative",
+  "name": "Susupe, Saipan Municipality, Northern Mariana Islands, 96950, United States"
+ },
+ "Chalan Kanoa": {
+  "x": 182128,
+  "y": 100579,
+  "osm": "suburb",
+  "name": "Chalan Kanoa, Chalan Piao, Saipan Municipality, Northern Mariana Islands, 96950, United St"
+ },
+ "Mount Tapochau": {
+  "x": 187468,
+  "y": 103469,
+  "osm": "peak",
+  "name": "Mount Tapochau, Saipan Municipality, Northern Mariana Islands, 96950, United States"
+ },
+ "Banzai Cliff": {
+  "x": 197514,
+  "y": 109470,
+  "osm": "cliff",
+  "name": "Sabanetas, Marpi, Saipan Municipality, Northern Mariana Islands, 96950, United States"
+ },
+ "Tanapag": {
+  "x": 193236,
+  "y": 104693,
+  "osm": "census",
+  "name": "Tanapag, Puerto Rico, Saipan Municipality, Northern Mariana Islands, 96950, United States"
+ },
+ "Obyan Beach": {
+  "x": 178564,
+  "y": 102944,
+  "osm": "beach",
+  "name": "Obyan Beach, Obyan, As Lito, Saipan Municipality, Northern Mariana Islands, 96950, United "
+ },
+ "Agingan Point": {
+  "x": 180289,
+  "y": 97941,
+  "osm": "industrial",
+  "name": "Agingan Point Transmitter Site, Koblerville, Chalan Piao, Saipan Municipality, Northern Ma"
+ },
+ "Kagman": {
+  "x": 185921,
+  "y": 106860,
+  "osm": "suburb",
+  "name": "Kagman, Hilaihai, Saipan Municipality, Northern Mariana Islands, 96950, United States"
+ },
+ "Marpi Point": {
+  "x": 197514,
+  "y": 109470,
+  "osm": "cliff",
+  "name": "Sabanetas, Marpi, Saipan Municipality, Northern Mariana Islands, 96950, United States"
+ },
+ "San Roque, Saipan": {
+  "x": 194325,
+  "y": 106691,
+  "osm": "suburb",
+  "name": "San Roque, Nanasu, Saipan Municipality, Northern Mariana Islands, 96950, United States"
+ },
+ "Koblerville": {
+  "x": 180550,
+  "y": 99128,
+  "osm": "suburb",
+  "name": "Koblerville, Chalan Piao, Saipan Municipality, Northern Mariana Islands, 96950, United Sta"
+ },
+ "Aguijan": {
+  "x": 150790,
+  "y": 83347,
+  "osm": "island",
+  "name": "Aguijan, Tinian Municipality, Northern Mariana Islands, United States"
+ },
+ "Farallon de Medinilla": {
+  "x": 279157,
+  "y": 137692,
+  "osm": "island",
+  "name": "Farallon de Medinilla, Northern Islands Municipality, Northern Mariana Islands, United Sta"
+ },
+ "Anatahan": {
+  "x": 316360,
+  "y": 97326,
+  "osm": "island",
+  "name": "Anatahan Island, Northern Islands Municipality, Northern Mariana Islands, United States"
+ },
+ "Sarigan": {
+  "x": 355438,
+  "y": 108145,
+  "osm": "island",
+  "name": "Sarigan, Northern Islands Municipality, Northern Mariana Islands, United States"
+ },
+ "Alamagan": {
+  "x": 454467,
+  "y": 114609,
+  "osm": "island",
+  "name": "Alamagan Island, Northern Islands Municipality, Northern Mariana Islands, United States"
+ },
+ "Pagan": {
+  "x": 514571,
+  "y": 110098,
+  "osm": "peak",
+  "name": "Mount Pagan, Northern Islands Municipality, Northern Mariana Islands, United States"
+ },
+ "Guguan": {
+  "x": 422349,
+  "y": 115380,
+  "osm": "island",
+  "name": "Guguan Island, Northern Islands Municipality, Northern Mariana Islands, United States"
+ },
+ "Agrihan": {
+  "x": 583972,
+  "y": 98069,
+  "osm": "island",
+  "name": "Agrihan, Northern Islands Municipality, Northern Mariana Islands, United States"
+ }
+}

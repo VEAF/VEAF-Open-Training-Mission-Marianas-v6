@@ -1,0 +1,1018 @@
+[
+ {
+  "name": "add_trigger_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "SANCT-Guam",
+   "position": {
+    "x": -5000,
+    "y": 0
+   },
+   "radius": 33000
+  }
+ },
+ {
+  "name": "add_trigger_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "SANCT-Rota",
+   "position": {
+    "x": 73500,
+    "y": 44500
+   },
+   "radius": 12000
+  }
+ },
+ {
+  "name": "add_trigger_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "SANCT-Saipan",
+   "position": {
+    "x": 180035,
+    "y": 101856
+   },
+   "radius": 2500
+  }
+ },
+ {
+  "name": "add_trigger_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "SANCT-Tinian",
+   "position": {
+    "x": 166860,
+    "y": 89957
+   },
+   "radius": 2500
+  }
+ },
+ {
+  "name": "add_trigger_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "Arene",
+   "position": {
+    "x": 215000,
+    "y": -450000
+   },
+   "radius": 74000
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Arène bleue F/A-18C Fox 1 #1",
+   "unit_type": "FA-18C_hornet",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 160000,
+    "y": -460000
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450,
+   "heading_deg": 0,
+   "skill": "Client",
+   "task": "CAP",
+   "pylons": {
+    "1": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    },
+    "2": {
+     "CLSID": "{LAU-115 - AIM-7P}"
+    },
+    "3": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "4": {
+     "CLSID": "{AIM-7P}"
+    },
+    "5": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "6": {
+     "CLSID": "{AIM-7P}"
+    },
+    "7": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "8": {
+     "CLSID": "{LAU-115 - AIM-7P}"
+    },
+    "9": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    }
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Arène bleue F/A-18C Fox 1 #2",
+   "unit_type": "FA-18C_hornet",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 160000,
+    "y": -455000
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450,
+   "heading_deg": 0,
+   "skill": "Client",
+   "task": "CAP",
+   "pylons": {
+    "1": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    },
+    "2": {
+     "CLSID": "{LAU-115 - AIM-7P}"
+    },
+    "3": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "4": {
+     "CLSID": "{AIM-7P}"
+    },
+    "5": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "6": {
+     "CLSID": "{AIM-7P}"
+    },
+    "7": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "8": {
+     "CLSID": "{LAU-115 - AIM-7P}"
+    },
+    "9": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    }
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Arène bleue F-16C Fox 3 #1",
+   "unit_type": "F-16C_50",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 160000,
+    "y": -445000
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450,
+   "heading_deg": 0,
+   "skill": "Client",
+   "task": "CAP",
+   "pylons": {
+    "1": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "2": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "3": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "4": {
+     "CLSID": "{F376DBEE-4CAE-41BA-ADD9-B2910AC95DEC}"
+    },
+    "5": {
+     "CLSID": "ALQ_184_Long"
+    },
+    "6": {
+     "CLSID": "{F376DBEE-4CAE-41BA-ADD9-B2910AC95DEC}"
+    },
+    "7": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "8": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "9": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "11": {
+     "CLSID": "{A111396E-D3E8-4b9c-8AC9-2432489304D5}"
+    }
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Arène bleue F-16C Fox 3 #2",
+   "unit_type": "F-16C_50",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 160000,
+    "y": -440000
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450,
+   "heading_deg": 0,
+   "skill": "Client",
+   "task": "CAP",
+   "pylons": {
+    "1": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "2": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "3": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "4": {
+     "CLSID": "{F376DBEE-4CAE-41BA-ADD9-B2910AC95DEC}"
+    },
+    "5": {
+     "CLSID": "ALQ_184_Long"
+    },
+    "6": {
+     "CLSID": "{F376DBEE-4CAE-41BA-ADD9-B2910AC95DEC}"
+    },
+    "7": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "8": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "9": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "11": {
+     "CLSID": "{A111396E-D3E8-4b9c-8AC9-2432489304D5}"
+    }
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "Arène rouge Su-27 Fox 1 #1",
+   "unit_type": "Su-27",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 270000,
+    "y": -460000
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450,
+   "heading_deg": 180,
+   "skill": "Client",
+   "task": "CAP",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "Arène rouge Su-27 Fox 1 #2",
+   "unit_type": "Su-27",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 270000,
+    "y": -455000
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450,
+   "heading_deg": 180,
+   "skill": "Client",
+   "task": "CAP",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "name": "Arène rouge J-11A Fox 3 #1",
+   "unit_type": "J-11A",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 270000,
+    "y": -445000
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450,
+   "heading_deg": 180,
+   "skill": "Client",
+   "task": "CAP",
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "name": "Arène rouge J-11A Fox 3 #2",
+   "unit_type": "J-11A",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 270000,
+    "y": -440000
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450,
+   "heading_deg": 180,
+   "skill": "Client",
+   "task": "CAP",
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Stennis F/A-18C #1",
+   "unit_type": "FA-18C_hornet",
+   "count": 2,
+   "start": "deck-cold",
+   "carrier": "CSG-74 Stennis",
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Stennis F/A-18C #2",
+   "unit_type": "FA-18C_hornet",
+   "count": 2,
+   "start": "deck-cold",
+   "carrier": "CSG-74 Stennis",
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Stennis F/A-18C #3",
+   "unit_type": "FA-18C_hornet",
+   "count": 2,
+   "start": "deck-hot",
+   "carrier": "CSG-74 Stennis",
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Roosevelt F/A-18C #1",
+   "unit_type": "FA-18C_hornet",
+   "count": 2,
+   "start": "deck-cold",
+   "carrier": "CSG-71 Roosevelt",
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Roosevelt F-14B #1",
+   "unit_type": "F-14B",
+   "count": 2,
+   "start": "deck-cold",
+   "carrier": "CSG-71 Roosevelt",
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Roosevelt F-14B #2",
+   "unit_type": "F-14B",
+   "count": 2,
+   "start": "deck-hot",
+   "carrier": "CSG-71 Roosevelt",
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Tarawa AV-8B #1",
+   "unit_type": "AV8BNA",
+   "count": 2,
+   "start": "deck-cold",
+   "carrier": "ARG-1 Tarawa",
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "name": "Tarawa AV-8B #2",
+   "unit_type": "AV8BNA",
+   "count": 2,
+   "start": "deck-hot",
+   "carrier": "ARG-1 Tarawa",
+   "skill": "Client",
+   "task": "CAP"
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "SC-Defense-Andersen-SEAD",
+   "unit_type": "Su-30",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 150000,
+    "y": 70000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 480,
+   "task": "SEAD",
+   "skill": "High",
+   "late_activation": true,
+   "payload": "Kh-31P*4,R-73*2,R-77*2,ECM"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Defense-Andersen-SEAD",
+   "operation": "add",
+   "position": {
+    "x": 60000,
+    "y": 35000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 480
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Defense-Andersen-SEAD",
+   "operation": "add",
+   "position": {
+    "x": 10575,
+    "y": 14549
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 480
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "SC-Defense-Andersen-Tu22",
+   "unit_type": "Tu-22M3",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 165000,
+    "y": 80000
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450,
+   "task": "Ground Attack",
+   "skill": "High",
+   "late_activation": true,
+   "payload": "FAB-250*69"
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Defense-Andersen-Tu22",
+   "operation": "add",
+   "position": {
+    "x": 70000,
+    "y": 40000
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Defense-Andersen-Tu22",
+   "operation": "add",
+   "position": {
+    "x": 10575,
+    "y": 14549
+   },
+   "altitude_ft": 25000,
+   "speed_kt": 450
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "name": "SC-Defense-Andersen-Escort",
+   "unit_type": "J-11A",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 163000,
+    "y": 78000
+   },
+   "altitude_ft": 26000,
+   "speed_kt": 450,
+   "task": "Escort",
+   "skill": "High",
+   "late_activation": true,
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Defense-Andersen-Escort",
+   "operation": "add",
+   "position": {
+    "x": 70000,
+    "y": 40000
+   },
+   "altitude_ft": 26000,
+   "speed_kt": 450
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Defense-Andersen-Escort",
+   "operation": "add",
+   "position": {
+    "x": 10575,
+    "y": 14549
+   },
+   "altitude_ft": 26000,
+   "speed_kt": 450
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "name": "SC-Intercept-VIP-Il76",
+   "unit_type": "IL-76MD",
+   "count": 1,
+   "start": "air",
+   "position": {
+    "x": 182000,
+    "y": 103000
+   },
+   "altitude_ft": 18000,
+   "speed_kt": 350,
+   "task": "Transport",
+   "skill": "High",
+   "late_activation": true
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Intercept-VIP-Il76",
+   "operation": "add",
+   "position": {
+    "x": 350000,
+    "y": 105000
+   },
+   "altitude_ft": 18000,
+   "speed_kt": 350
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Intercept-VIP-Il76",
+   "operation": "add",
+   "position": {
+    "x": 505000,
+    "y": 107000
+   },
+   "altitude_ft": 18000,
+   "speed_kt": 350
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "name": "SC-Intercept-VIP-Escort",
+   "unit_type": "J-11A",
+   "count": 2,
+   "start": "air",
+   "position": {
+    "x": 180000,
+    "y": 101000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 350,
+   "task": "Escort",
+   "skill": "High",
+   "late_activation": true,
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Intercept-VIP-Escort",
+   "operation": "add",
+   "position": {
+    "x": 350000,
+    "y": 103000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 350
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Intercept-VIP-Escort",
+   "operation": "add",
+   "position": {
+    "x": 505000,
+    "y": 105000
+   },
+   "altitude_ft": 20000,
+   "speed_kt": 350
+  }
+ },
+ {
+  "name": "add_air_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "name": "SC-Protect-Overlord-J11",
+   "unit_type": "J-11A",
+   "count": 4,
+   "start": "air",
+   "position": {
+    "x": 330000,
+    "y": 200000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 500,
+   "task": "CAP",
+   "skill": "High",
+   "late_activation": true,
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Protect-Overlord-J11",
+   "operation": "add",
+   "position": {
+    "x": 250000,
+    "y": 270000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 500
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Protect-Overlord-J11",
+   "operation": "add",
+   "position": {
+    "x": 170000,
+    "y": 295000
+   },
+   "altitude_ft": 30000,
+   "speed_kt": 500
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Defense-Andersen-Tu22",
+   "operation": "add_task",
+   "index": 3,
+   "task": "bombing",
+   "task_params": {
+    "position": {
+     "x": 10575,
+     "y": 14549
+    },
+    "expend": "All",
+    "attack_qty": 1
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Defense-Andersen-Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "SC-Defense-Andersen-Tu22",
+    "engagement_distance_nm": 30
+   }
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "SC-Intercept-VIP-Escort",
+   "operation": "add_task",
+   "index": 1,
+   "task": "escort",
+   "task_params": {
+    "group_name": "SC-Intercept-VIP-Il76",
+    "engagement_distance_nm": 30
+   }
+  }
+ }
+]

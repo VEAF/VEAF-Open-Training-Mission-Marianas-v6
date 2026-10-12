@@ -1,0 +1,86 @@
+[
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "CSG-74 Stennis S3B-Tanker",
+   "unit_name": "CSG-74 Stennis S3B-Tanker",
+   "callsign": {
+    "family": 3,
+    "flight": 5,
+    "number": 1,
+    "name": "Shell"
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "CSG-71 Roosevelt S3B-Tanker",
+   "unit_name": "CSG-71 Roosevelt S3B-Tanker",
+   "callsign": {
+    "family": 3,
+    "flight": 6,
+    "number": 1,
+    "name": "Shell"
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Texaco 1",
+   "unit_name": "Texaco 1-1",
+   "callsign": {
+    "family": 1,
+    "flight": 1,
+    "number": 1,
+    "name": "Texaco"
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Arco 1",
+   "unit_name": "Arco 1-1",
+   "callsign": {
+    "family": 2,
+    "flight": 1,
+    "number": 1,
+    "name": "Arco"
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Texaco 2",
+   "unit_name": "Texaco 2-1",
+   "callsign": {
+    "family": 1,
+    "flight": 2,
+    "number": 1,
+    "name": "Texaco"
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "Arco 2",
+   "unit_name": "Arco 2-1",
+   "callsign": {
+    "family": 2,
+    "flight": 2,
+    "number": 1,
+    "name": "Arco"
+   }
+  }
+ }
+]

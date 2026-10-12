@@ -1,0 +1,7 @@
+[
+ {"name": "set_group_properties", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6", "group_name": "ARG-1 Tarawa", "move_to": {"x": 60000, "y": 110000}}},
+ {"name": "set_group_properties", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6", "group_name": "ARG-1 Tarawa Pedro", "move_to": {"x": 58148, "y": 110000}}},
+ {"name": "set_group_properties", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6", "group_name": "Tarawa AV-8B #1", "move_to": {"x": 60000, "y": 110000}}},
+ {"name": "set_group_properties", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6", "group_name": "Tarawa AV-8B #2", "move_to": {"x": 60000, "y": 110000}}},
+ {"name": "set_group_properties", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6", "group_name": "OnDemand-CAP-Tarawa-F15", "move_to": {"x": 70000, "y": 100000}}}
+]

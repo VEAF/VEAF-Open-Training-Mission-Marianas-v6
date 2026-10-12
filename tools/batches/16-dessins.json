@@ -1,0 +1,1262 @@
+[
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "line",
+   "name": "Front",
+   "points": [
+    {
+     "x": 96118,
+     "y": 123598
+    },
+    {
+     "x": 145882,
+     "y": 14402
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 6
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Front étiquette",
+   "position": {
+    "x": 100118,
+    "y": 123598
+   },
+   "text": "FRONT (approximatif) : détroit Rota – Tinian",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 14
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Talofofo",
+   "position": {
+    "x": -18500,
+    "y": -4000
+   },
+   "radius": 2500,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Talofofo étiquette",
+   "position": {
+    "x": -15200,
+    "y": -4000
+   },
+   "text": "H1-H3 Entraînement hélicoptères — Talofofo",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_NWF",
+   "position": {
+    "x": 15200,
+    "y": 5500
+   },
+   "radius": 2500,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_NWF étiquette",
+   "position": {
+    "x": 18500,
+    "y": 5500
+   },
+   "text": "A1-A3 Entraînement attaque — North West Field",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Rota",
+   "position": {
+    "x": 73500,
+    "y": 44500
+   },
+   "radius": 3000,
+   "color": "0xe07000ff",
+   "fill_color": "0xe0700018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Rota étiquette",
+   "position": {
+    "x": 77300,
+    "y": 44500
+   },
+   "text": "S1-S3 Entraînement SEAD — Rota",
+   "color": "0xe07000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 12
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_TinianEst",
+   "position": {
+    "x": 170000,
+    "y": 94500
+   },
+   "radius": 2000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_TinianEst étiquette",
+   "position": {
+    "x": 172800,
+    "y": 94500
+   },
+   "text": "Z01 Front — Tinian, plages de l'est",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_ChalanKanoa",
+   "position": {
+    "x": 184800,
+    "y": 100200
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_ChalanKanoa étiquette",
+   "position": {
+    "x": 187100,
+    "y": 100200
+   },
+   "text": "Z02 Front — Saipan, plages de Chalan Kanoa",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Kagman",
+   "position": {
+    "x": 185921,
+    "y": 106860
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Kagman étiquette",
+   "position": {
+    "x": 188221,
+    "y": 106860
+   },
+   "text": "Z03 Front — Saipan, artillerie de Kagman",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Medinilla",
+   "position": {
+    "x": 279157,
+    "y": 137692
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Medinilla étiquette",
+   "position": {
+    "x": 281457,
+    "y": 137692
+   },
+   "text": "Z04 SEAD — Farallon de Medinilla",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Marpi",
+   "position": {
+    "x": 196300,
+    "y": 109000
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Marpi étiquette",
+   "position": {
+    "x": 198600,
+    "y": 109000
+   },
+   "text": "Z05 SEAD — Saipan, Marpi",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_BeachRoad",
+   "position": {
+    "x": 194325,
+    "y": 106691
+   },
+   "radius": 1000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_BeachRoad étiquette",
+   "position": {
+    "x": 196125,
+    "y": 106691
+   },
+   "text": "Z06 Convoi — Saipan, Beach Road",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Broadway",
+   "position": {
+    "x": 169800,
+    "y": 91400
+   },
+   "radius": 600,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Broadway étiquette",
+   "position": {
+    "x": 171200,
+    "y": 91400
+   },
+   "text": "Z07 Convoi — Tinian, Broadway",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_CrossIsland",
+   "position": {
+    "x": 193236,
+    "y": 104693
+   },
+   "radius": 1000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_CrossIsland étiquette",
+   "position": {
+    "x": 195036,
+    "y": 104693
+   },
+   "text": "Z08 Convoi — Saipan, Cross Island Road",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Anatahan",
+   "position": {
+    "x": 316600,
+    "y": 100300
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Anatahan étiquette",
+   "position": {
+    "x": 318900,
+    "y": 100300
+   },
+   "text": "Z09 Frappe — Anatahan, missiles côtiers",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Garapan",
+   "position": {
+    "x": 189793,
+    "y": 101024
+   },
+   "radius": 800,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Garapan étiquette",
+   "position": {
+    "x": 191393,
+    "y": 101024
+   },
+   "text": "Z10 Frappe — Garapan, état-major",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Sarigan",
+   "position": {
+    "x": 355438,
+    "y": 108145
+   },
+   "radius": 1200,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Sarigan étiquette",
+   "position": {
+    "x": 357438,
+    "y": 108145
+   },
+   "text": "Z11 Frappe — Sarigan, station d'écoute",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Alamagan",
+   "position": {
+    "x": 454467,
+    "y": 114609
+   },
+   "radius": 1500,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Alamagan étiquette",
+   "position": {
+    "x": 456767,
+    "y": 114609
+   },
+   "text": "Z12 Frappe — Alamagan, dépôt avancé",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_NorthField",
+   "position": {
+    "x": 174664,
+    "y": 92122
+   },
+   "radius": 2000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_NorthField étiquette",
+   "position": {
+    "x": 177464,
+    "y": 92122
+   },
+   "text": "Z13 OCA — Tinian, North Field",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Pagan",
+   "position": {
+    "x": 512410,
+    "y": 107565
+   },
+   "radius": 2000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Pagan étiquette",
+   "position": {
+    "x": 515210,
+    "y": 107565
+   },
+   "text": "Z14 OCA — Pagan",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Amphibie",
+   "position": {
+    "x": 160500,
+    "y": 79000
+   },
+   "radius": 3000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Amphibie étiquette",
+   "position": {
+    "x": 164300,
+    "y": 79000
+   },
+   "text": "Z15 Antinavire — groupe amphibie de Tinian",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Zone combatZone_Escadre",
+   "position": {
+    "x": 330000,
+    "y": 20000
+   },
+   "radius": 5000,
+   "color": "0xcc0000ff",
+   "fill_color": "0xcc000018",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Zone combatZone_Escadre étiquette",
+   "position": {
+    "x": 335800,
+    "y": 20000
+   },
+   "text": "Z16 Antinavire — escadre de surface",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Saipan",
+   "position": {
+    "x": 173000,
+    "y": 96000
+   },
+   "radius": 46300,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Saipan étiquette",
+   "position": {
+    "x": 213300,
+    "y": 96000
+   },
+   "text": "QRA Saipan (25 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Pagan",
+   "position": {
+    "x": 512410,
+    "y": 107565
+   },
+   "radius": 55560,
+   "color": "0xb000b0ff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Pagan étiquette",
+   "position": {
+    "x": 561970,
+    "y": 107565
+   },
+   "text": "QRA Pagan (30 nm)",
+   "color": "0xb000b0ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "QRA QRA Guam",
+   "position": {
+    "x": 5000,
+    "y": 2000
+   },
+   "radius": 55560,
+   "color": "0x0040ccff",
+   "fill_color": "0x00000000",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "QRA QRA Guam étiquette",
+   "position": {
+    "x": 54560,
+    "y": 2000
+   },
+   "text": "QRA Guam (30 nm)",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 11
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Guam",
+   "position": {
+    "x": -5000,
+    "y": 0
+   },
+   "radius": 33000,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Guam étiquette",
+   "position": {
+    "x": -39500,
+    "y": 0
+   },
+   "text": "Sanctuaire Guam",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Rota",
+   "position": {
+    "x": 73500,
+    "y": 44500
+   },
+   "radius": 12000,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Rota étiquette",
+   "position": {
+    "x": 60000,
+    "y": 44500
+   },
+   "text": "Sanctuaire Rota",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Saipan",
+   "position": {
+    "x": 180035,
+    "y": 101856
+   },
+   "radius": 2500,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Saipan étiquette",
+   "position": {
+    "x": 176035,
+    "y": 101856
+   },
+   "text": "Sanctuaire Saipan",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Sanctuaire Tinian",
+   "position": {
+    "x": 166860,
+    "y": 89957
+   },
+   "radius": 2500,
+   "color": "0x008000ff",
+   "fill_color": "0x00800018",
+   "thickness": 2
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Sanctuaire Tinian étiquette",
+   "position": {
+    "x": 162860,
+    "y": 89957
+   },
+   "text": "Sanctuaire Tinian",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "circle",
+   "name": "Arène cercle",
+   "position": {
+    "x": 215000,
+    "y": -450000
+   },
+   "radius": 74000,
+   "color": "0x008000ff",
+   "fill_color": "0x00000000",
+   "thickness": 3
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Common",
+   "shape": "textbox",
+   "name": "Arène étiquette",
+   "position": {
+    "x": 292000,
+    "y": -450000
+   },
+   "text": "ARÈNE joueurs contre joueurs (slots en vol)",
+   "color": "0x008000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 14
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Texaco 1",
+   "points": [
+    {
+     "x": 30000,
+     "y": -70000
+    },
+    {
+     "x": 90000,
+     "y": -70000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Texaco 1 étiquette",
+   "position": {
+    "x": 60000,
+    "y": -64000
+   },
+   "text": "Texaco 1 — 50Y — U290.0 — FL220",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Arco 1",
+   "points": [
+    {
+     "x": -30000,
+     "y": -50000
+    },
+    {
+     "x": 20000,
+     "y": -50000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Arco 1 étiquette",
+   "position": {
+    "x": -5000,
+    "y": -44000
+   },
+   "text": "Arco 1 — 51Y — U291.0 — FL180",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Texaco 2",
+   "points": [
+    {
+     "x": 190000,
+     "y": 265000
+    },
+    {
+     "x": 250000,
+     "y": 265000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Texaco 2 étiquette",
+   "position": {
+    "x": 220000,
+    "y": 271000
+   },
+   "text": "Texaco 2 — 52Y — U292.0 — FL240",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Arco 2",
+   "points": [
+    {
+     "x": 130000,
+     "y": 245000
+    },
+    {
+     "x": 190000,
+     "y": 245000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Arco 2 étiquette",
+   "position": {
+    "x": 160000,
+    "y": 251000
+   },
+   "text": "Arco 2 — 53Y — U293.0 — FL200",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Magic 1",
+   "points": [
+    {
+     "x": 60000,
+     "y": -130000
+    },
+    {
+     "x": 140000,
+     "y": -130000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Magic 1 étiquette",
+   "position": {
+    "x": 100000,
+    "y": -124000
+   },
+   "text": "Magic 1 AWACS — U282.0",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "line",
+   "name": "Piste Overlord 1",
+   "points": [
+    {
+     "x": 120000,
+     "y": 295000
+    },
+    {
+     "x": 220000,
+     "y": 295000
+    }
+   ],
+   "color": "0x0040ccff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Blue",
+   "shape": "textbox",
+   "name": "Piste Overlord 1 étiquette",
+   "position": {
+    "x": 170000,
+    "y": 301000
+   },
+   "text": "Overlord 1 AWACS — U283.0",
+   "color": "0x0040ccff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Red",
+   "shape": "line",
+   "name": "Piste Shell 1",
+   "points": [
+    {
+     "x": 250000,
+     "y": 60000
+    },
+    {
+     "x": 300000,
+     "y": 40000
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Red",
+   "shape": "textbox",
+   "name": "Piste Shell 1 étiquette",
+   "position": {
+    "x": 275000,
+    "y": 56000
+   },
+   "text": "Shell 1 IL-78 — U294.0 — FL200",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Red",
+   "shape": "line",
+   "name": "Piste Wizard 1",
+   "points": [
+    {
+     "x": 330000,
+     "y": 60000
+    },
+    {
+     "x": 400000,
+     "y": 60000
+    }
+   ],
+   "color": "0xcc0000ff",
+   "thickness": 4
+  }
+ },
+ {
+  "name": "add_map_drawing",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "layer": "Red",
+   "shape": "textbox",
+   "name": "Piste Wizard 1 étiquette",
+   "position": {
+    "x": 365000,
+    "y": 66000
+   },
+   "text": "Wizard 1 AWACS — U284.0",
+   "color": "0xcc0000ff",
+   "fill_color": "0xffffffe0",
+   "font_size": 10
+  }
+ }
+]

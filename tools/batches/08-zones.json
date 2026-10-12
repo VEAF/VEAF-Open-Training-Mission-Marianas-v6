@@ -1,0 +1,1437 @@
+[
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_TinianEst",
+   "position": {
+    "x": 170000,
+    "y": 94500
+   },
+   "radius": 2000,
+   "groups": [
+    {
+     "name": "Z01-1",
+     "position": {
+      "x": 169708,
+      "y": 93554
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZTZ96B",
+       "name": "#command=\"-armor, defense 1\" #Z01-1"
+      }
+     ]
+    },
+    {
+     "name": "Z01-2",
+     "position": {
+      "x": 168866,
+      "y": 94899
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZTZ96B",
+       "name": "#command=\"-armor, defense 2\" #Z01-2"
+      }
+     ]
+    },
+    {
+     "name": "Z01-3",
+     "position": {
+      "x": 169609,
+      "y": 93581
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Infantry AK",
+       "name": "#command=\"-infantry, defense 1\" #Z01-3"
+      }
+     ]
+    },
+    {
+     "name": "Z01-4",
+     "position": {
+      "x": 170071,
+      "y": 93395
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23\" #Z01-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z01 Front — Tinian, plages de l'est",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "Le bataillon rouge qui tient la côte est de Tinian (Unai Dankulo) : blindés en position, infanterie et artillerie antiaérienne. Détruire les blindés ; défense de bataillon (artillerie antiaérienne).\nPosition : bullseye 030°/12 nm (N15°01.670' E145°39.675'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 81 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 96 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_ChalanKanoa",
+   "position": {
+    "x": 182300,
+    "y": 100300
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z02-1",
+     "position": {
+      "x": 182770,
+      "y": 100471
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZTZ96B",
+       "name": "#command=\"-armor, defense 0\" #Z02-1"
+      }
+     ]
+    },
+    {
+     "name": "Z02-2",
+     "position": {
+      "x": 181709,
+      "y": 100404
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZTZ96B",
+       "name": "#command=\"-armor, defense 1\" #Z02-2"
+      }
+     ]
+    },
+    {
+     "name": "Z02-3",
+     "position": {
+      "x": 182369,
+      "y": 99906
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Infantry AK",
+       "name": "#command=\"-infantry, defense 2\" #Z02-3"
+      }
+     ]
+    },
+    {
+     "name": "Z02-4",
+     "position": {
+      "x": 182300,
+      "y": 100600
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka\" #Z02-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z02 Front — Saipan, plages de Chalan Kanoa",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "La ligne de défense côtière des plages ouest de Saipan, devant Chalan Kanoa et Susupe : blindés enterrés, infanterie mécanisée, artillerie antiaérienne. Détruire les blindés ; défense légère (ZU-23, Shilka, lance-missiles portatifs).\nPosition : bullseye 028°/19 nm (N15°08.359' E145°42.872'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 79 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 91 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Obyan",
+   "position": {
+    "x": 178800,
+    "y": 103300
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z03-1",
+     "position": {
+      "x": 179300,
+      "y": 103300
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "PLZ05",
+       "name": "#command=\"-plz05\" #Z03-1"
+      }
+     ]
+    },
+    {
+     "name": "Z03-2",
+     "position": {
+      "x": 178500,
+      "y": 103820
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Grad-URAL",
+       "name": "#command=\"-grad\" #Z03-2"
+      }
+     ]
+    },
+    {
+     "name": "Z03-3",
+     "position": {
+      "x": 178700,
+      "y": 102954
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13\" #Z03-3"
+      }
+     ]
+    },
+    {
+     "name": "Z03-4",
+     "position": {
+      "x": 179100,
+      "y": 102780
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23\" #Z03-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z03 Front — Saipan, artillerie d'Obyan",
+    "radio_group_name": "Front",
+    "training": false,
+    "briefing": "Le groupement d'artillerie rouge du sud-est de Saipan, sur le plateau d'Obyan, qui pilonne le détroit : obusiers PLZ-05 et lance-roquettes. Détruire les pièces ; défense SA-13 et artillerie antiaérienne.\nPosition : bullseye 035°/19 nm (N15°06.470' E145°44.558'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 77 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 90 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Medinilla",
+   "position": {
+    "x": 279157,
+    "y": 137692
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z04-1",
+     "position": {
+      "x": 279157,
+      "y": 137692
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-11 Buk LN 9A310M1",
+       "name": "#command=\"-sa11\" #Z04-1"
+      }
+     ]
+    },
+    {
+     "name": "Z04-2",
+     "position": {
+      "x": 279171,
+      "y": 137701
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15\" #Z04-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z04 SEAD — Farallon de Medinilla",
+    "radio_group_name": "SEAD",
+    "training": false,
+    "briefing": "Le site sol-air que la force rouge a installé sur l'îlot de Farallon de Medinilla, l'ancien champ de tir américain : une batterie moyenne portée (SA-11) et un SA-15, qui couvrent l'approche est de Saipan.\nPosition : bullseye 023°/75 nm (N16°00.994' E146°03.511'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 87 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 76 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Marpi",
+   "position": {
+    "x": 196300,
+    "y": 109000
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z05-1",
+     "position": {
+      "x": 196300,
+      "y": 109000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Kub 2P25 ln",
+       "name": "#command=\"-sa6\" #spawngroup=\"Z05MR\" #spawncount=1 #Z05-1"
+      }
+     ]
+    },
+    {
+     "name": "Z05-2",
+     "position": {
+      "x": 196300,
+      "y": 109200
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "HQ-7_LN_SP",
+       "name": "#command=\"-hq7\" #spawngroup=\"Z05MR\" #spawncount=1 #Z05-2"
+      }
+     ]
+    },
+    {
+     "name": "Z05-3",
+     "position": {
+      "x": 195736,
+      "y": 108795
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Osa 9A33 ln",
+       "name": "#command=\"-sa8\" #Z05-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z05 SEAD — Saipan, Marpi",
+    "radio_group_name": "SEAD",
+    "training": false,
+    "briefing": "Le site sol-air de la pointe nord de Saipan, à Marpi : une batterie moyenne portée tirée au sort (SA-6 ou HQ-7) et un SA-8, sous la couverture des défenses permanentes de Saipan.\nPosition : bullseye 029°/28 nm (N15°15.979' E145°47.686'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 76 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 85 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_BeachRoad",
+   "position": {
+    "x": 194325,
+    "y": 106691
+   },
+   "radius": 1000,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": 194325,
+      "y": 106691
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-82A",
+       "count": 1
+      },
+      {
+       "type": "KAMAZ Truck",
+       "count": 4
+      },
+      {
+       "type": "Ural-375 ZU-23",
+       "count": 1
+      },
+      {
+       "type": "Ural-4320-31",
+       "count": 2
+      }
+     ],
+     "route": [
+      {
+       "x": 194325,
+       "y": 106691
+      },
+      {
+       "x": 189900,
+       "y": 101100
+      },
+      {
+       "x": 184300,
+       "y": 99900
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z06 Convoi — Saipan, Beach Road",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Un convoi logistique descend Beach Road, la route côtière ouest de Saipan, de San Roque vers Garapan et Susupe. L'arrêter avant le front ; il porte sa propre artillerie antiaérienne (ZU-23).\nPosition : bullseye 028°/27 nm (N15°14.901' E145°46.402'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 77 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 87 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Broadway",
+   "position": {
+    "x": 168259,
+    "y": 91039
+   },
+   "radius": 1000,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": 168259,
+      "y": 91039
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "GAZ-66",
+       "count": 1
+      },
+      {
+       "type": "ATZ-10",
+       "count": 3
+      },
+      {
+       "type": "Ural-375 ZU-23",
+       "count": 1
+      },
+      {
+       "type": "ATZ-5",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": 168259,
+       "y": 91039
+      },
+      {
+       "x": 171500,
+       "y": 91700
+      },
+      {
+       "x": 174300,
+       "y": 92000
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z07 Convoi — Tinian, Broadway",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Un convoi de carburant remonte Broadway, l'axe nord-sud de Tinian, de San Jose vers North Field. Le détruire avant l'arrivée ; il porte sa propre artillerie antiaérienne.\nPosition : bullseye 024°/10 nm (N15°00.714' E145°37.750'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 83 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 98 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_CrossIsland",
+   "position": {
+    "x": 185921,
+    "y": 106860
+   },
+   "radius": 1000,
+   "groups": [
+    {
+     "name": "Convoi",
+     "position": {
+      "x": 185921,
+      "y": 106860
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-82A",
+       "count": 2
+      },
+      {
+       "type": "ZBD04A",
+       "count": 2
+      },
+      {
+       "type": "Ural-4320-31",
+       "count": 2
+      },
+      {
+       "type": "Strela-10M3",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": 185921,
+       "y": 106860
+      },
+      {
+       "x": 187400,
+       "y": 104200
+      },
+      {
+       "x": 189700,
+       "y": 101400
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z08 Convoi — Saipan, Cross Island Road",
+    "radio_group_name": "Convois",
+    "training": false,
+    "briefing": "Des renforts traversent Saipan d'est en ouest, de Kagman vers Garapan par Cross Island Road. Les arrêter ; le convoi est escorté par un SA-13.\nPosition : bullseye 034°/23 nm (N15°10.343' E145°46.523'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 76 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 87 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Anatahan",
+   "position": {
+    "x": 316600,
+    "y": 100300
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Batterie",
+     "position": {
+      "x": 316600,
+      "y": 100300
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "hy_launcher",
+       "count": 2
+      },
+      {
+       "type": "Silkworm_SR",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Z09-1",
+     "position": {
+      "x": 316130,
+      "y": 100129
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15\" #Z09-1"
+      }
+     ]
+    },
+    {
+     "name": "Z09-2",
+     "position": {
+      "x": 316800,
+      "y": 100646
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka\" #Z09-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z09 Frappe — Anatahan, missiles côtiers",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "La batterie de missiles antinavires côtiers (HY-2) installée sur Anatahan, qui interdit l'approche nord de l'archipel aux navires bleus. Détruire les lanceurs et leur radar ; défense SA-15 et Shilka.\nPosition : bullseye 006°/90 nm (N16°21.190' E145°42.412'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 115 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 103 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Garapan",
+   "position": {
+    "x": 189793,
+    "y": 101024
+   },
+   "radius": 800,
+   "groups": [
+    {
+     "name": "Z10-1",
+     "position": {
+      "x": 190043,
+      "y": 100591
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15\" #Z10-1"
+      }
+     ]
+    },
+    {
+     "name": "Z10-2",
+     "position": {
+      "x": 189593,
+      "y": 101370
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23\" #Z10-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z10 Frappe — Garapan, état-major",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "L'état-major de la force rouge à Garapan, la ville principale de Saipan : centre de commandement, antennes et abris. Tout détruire ; défense SA-15, dans la couverture des défenses permanentes de Saipan.\nPosition : bullseye 024°/23 nm (N15°12.425' E145°43.251'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 79 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 90 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Command-1",
+   "position": {
+    "x": 189893,
+    "y": 101024
+   },
+   "units": [
+    {
+     "type": ".Command Center"
+    }
+   ],
+   "for_combat_zone": "combatZone_Garapan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Comms-2",
+   "position": {
+    "x": 189836,
+    "y": 101270
+   },
+   "units": [
+    {
+     "type": "Comms tower M"
+    }
+   ],
+   "for_combat_zone": "combatZone_Garapan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Comms-3",
+   "position": {
+    "x": 189605,
+    "y": 100956
+   },
+   "units": [
+    {
+     "type": "Comms tower M"
+    }
+   ],
+   "for_combat_zone": "combatZone_Garapan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Bunker-4",
+   "position": {
+    "x": 189652,
+    "y": 101075
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_Garapan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Bunker-5",
+   "position": {
+    "x": 189949,
+    "y": 100934
+   },
+   "units": [
+    {
+     "type": "Bunker"
+    }
+   ],
+   "for_combat_zone": "combatZone_Garapan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Sarigan",
+   "position": {
+    "x": 355438,
+    "y": 108145
+   },
+   "radius": 1200,
+   "groups": [
+    {
+     "name": "Z11-1",
+     "position": {
+      "x": 355438,
+      "y": 108445
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Osa 9A33 ln",
+       "name": "#command=\"-sa8\" #Z11-1"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z11 Frappe — Sarigan, station d'écoute",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "La station d'écoute et de relais radio de Sarigan, qui relaie les ordres vers les îles du nord. Détruire les antennes et le poste ; défense SA-8.\nPosition : bullseye 007°/111 nm (N16°42.277' E145°46.686'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 129 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 112 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Comms-1",
+   "position": {
+    "x": 355588,
+    "y": 108145
+   },
+   "units": [
+    {
+     "type": "Comms tower M"
+    }
+   ],
+   "for_combat_zone": "combatZone_Sarigan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Comms-2",
+   "position": {
+    "x": 355338,
+    "y": 108318
+   },
+   "units": [
+    {
+     "type": "Comms tower M"
+    }
+   ],
+   "for_combat_zone": "combatZone_Sarigan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Command-3",
+   "position": {
+    "x": 355388,
+    "y": 108058
+   },
+   "units": [
+    {
+     "type": ".Command Center"
+    }
+   ],
+   "for_combat_zone": "combatZone_Sarigan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Alamagan",
+   "position": {
+    "x": 454467,
+    "y": 114609
+   },
+   "radius": 1500,
+   "groups": [
+    {
+     "name": "Z12-1",
+     "position": {
+      "x": 453997,
+      "y": 114438
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "HQ-7_LN_SP",
+       "name": "#command=\"-hq7\" #Z12-1"
+      }
+     ]
+    },
+    {
+     "name": "Z12-2",
+     "position": {
+      "x": 454813,
+      "y": 114809
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23\" #Z12-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z12 Frappe — Alamagan, dépôt avancé",
+    "radio_group_name": "Frappes en profondeur",
+    "training": false,
+    "briefing": "Le dépôt avancé d'Alamagan, où la force rouge stocke le carburant et les munitions des îles du nord. Tout détruire ; défense HQ-7 et artillerie antiaérienne.\nPosition : bullseye 006°/165 nm (N17°35.997' E145°49.989'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 174 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 150 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "static",
+   "name": "Static-Fuel-1",
+   "position": {
+    "x": 454667,
+    "y": 114609
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Alamagan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "static",
+   "name": "Static-Fuel-2",
+   "position": {
+    "x": 454697,
+    "y": 114802
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Alamagan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "static",
+   "name": "Static-Fuel-3",
+   "position": {
+    "x": 454510,
+    "y": 114855
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_Alamagan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "static",
+   "name": "Static-FARP-4",
+   "position": {
+    "x": 454592,
+    "y": 114392
+   },
+   "units": [
+    {
+     "type": "FARP Ammo Dump Coating"
+    }
+   ],
+   "for_combat_zone": "combatZone_Alamagan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "static",
+   "name": "Static-FARP-5",
+   "position": {
+    "x": 454770,
+    "y": 114434
+   },
+   "units": [
+    {
+     "type": "FARP Ammo Dump Coating"
+    }
+   ],
+   "for_combat_zone": "combatZone_Alamagan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_NorthField",
+   "position": {
+    "x": 174664,
+    "y": 92122
+   },
+   "radius": 2000,
+   "groups": [
+    {
+     "name": "Z13-1",
+     "position": {
+      "x": 174664,
+      "y": 92822
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "HQ-7_LN_SP",
+       "name": "#command=\"-hq7\" #Z13-1"
+      }
+     ]
+    },
+    {
+     "name": "Z13-2",
+     "position": {
+      "x": 174493,
+      "y": 91652
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka\" #Z13-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z13 OCA — Tinian, North Field",
+    "radio_group_name": "Bases aériennes",
+    "training": false,
+    "briefing": "North Field, l'ancienne base des B-29 au nord de Tinian, rouverte par la force rouge : chasseurs J-11A et bombardiers H-6J au parking. Les détruire au sol ; défense HQ-7 et Shilka.\nPosition : bullseye 020°/14 nm (N15°04.191' E145°38.332'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 83 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 97 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "static",
+   "name": "Static-J-11A-1",
+   "position": {
+    "x": 174864,
+    "y": 92122
+   },
+   "units": [
+    {
+     "type": "J-11A"
+    }
+   ],
+   "for_combat_zone": "combatZone_NorthField",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "static",
+   "name": "Static-J-11A-2",
+   "position": {
+    "x": 174964,
+    "y": 92122
+   },
+   "units": [
+    {
+     "type": "J-11A"
+    }
+   ],
+   "for_combat_zone": "combatZone_NorthField",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "static",
+   "name": "Static-J-11A-3",
+   "position": {
+    "x": 175040,
+    "y": 92259
+   },
+   "units": [
+    {
+     "type": "J-11A"
+    }
+   ],
+   "for_combat_zone": "combatZone_NorthField",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "static",
+   "name": "Static-H-6J-4",
+   "position": {
+    "x": 174364,
+    "y": 92122
+   },
+   "units": [
+    {
+     "type": "H-6J"
+    }
+   ],
+   "for_combat_zone": "combatZone_NorthField",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "static",
+   "name": "Static-H-6J-5",
+   "position": {
+    "x": 174241,
+    "y": 91968
+   },
+   "units": [
+    {
+     "type": "H-6J"
+    }
+   ],
+   "for_combat_zone": "combatZone_NorthField",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Pagan",
+   "position": {
+    "x": 512410,
+    "y": 107565
+   },
+   "radius": 2000,
+   "groups": [
+    {
+     "name": "Z14-1",
+     "position": {
+      "x": 512710,
+      "y": 107145
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15\" #Z14-1"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "Z14 OCA — Pagan",
+    "radio_group_name": "Bases aériennes",
+    "training": false,
+    "briefing": "La piste de Pagan, base arrière de la force rouge à l'extrême nord : J-11A et hélicoptères au parking. Les détruire au sol ; elle est sous la défense permanente de Pagan (SA-10, HQ-7).\nPosition : bullseye 004°/196 nm (N18°07.389' E145°45.789'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 204 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 179 nm."
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-J-11A-1",
+   "position": {
+    "x": 512535,
+    "y": 107782
+   },
+   "units": [
+    {
+     "type": "J-11A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Pagan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-J-11A-2",
+   "position": {
+    "x": 512530,
+    "y": 107894
+   },
+   "units": [
+    {
+     "type": "J-11A"
+    }
+   ],
+   "for_combat_zone": "combatZone_Pagan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Mi-8MT-3",
+   "position": {
+    "x": 512285,
+    "y": 107348
+   },
+   "units": [
+    {
+     "type": "Mi-8MT"
+    }
+   ],
+   "for_combat_zone": "combatZone_Pagan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Mi-8MT-4",
+   "position": {
+    "x": 512361,
+    "y": 107307
+   },
+   "units": [
+    {
+     "type": "Mi-8MT"
+    }
+   ],
+   "for_combat_zone": "combatZone_Pagan",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Amphibie",
+   "position": {
+    "x": 160500,
+    "y": 79000
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "Groupe",
+     "position": {
+      "x": 160500,
+      "y": 79000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Type_054A",
+       "count": 1
+      },
+      {
+       "type": "BDK-775",
+       "count": 2
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "ship",
+   "combat_zone": {
+    "friendly_name": "Z15 Antinavire — groupe amphibie de Tinian",
+    "radio_group_name": "Antinavire",
+    "training": false,
+    "briefing": "Le groupe amphibie rouge mouillé au sud-ouest de Tinian, prêt à débarquer sur Rota : deux bâtiments de débarquement et une frégate Type 054A. Les couler ; la frégate porte une défense sol-air moyenne portée.\nPosition : bullseye 336°/6 nm (N14°56.464' E145°31.062'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 90 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 97 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Escadre",
+   "position": {
+    "x": 330000,
+    "y": 20000
+   },
+   "radius": 5000,
+   "groups": [
+    {
+     "name": "Escadre",
+     "position": {
+      "x": 330000,
+      "y": 20000
+     },
+     "keep_position": true,
+     "patrol": true,
+     "units": [
+      {
+       "type": "Type_052C",
+       "count": 1
+      },
+      {
+       "type": "Type_052B",
+       "count": 1
+      },
+      {
+       "type": "Type_054A",
+       "count": 1
+      }
+     ],
+     "route": [
+      {
+       "x": 330000,
+       "y": 20000
+      },
+      {
+       "x": 360000,
+       "y": 20000
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "ship",
+   "combat_zone": {
+    "friendly_name": "Z16 Antinavire — escadre de surface",
+    "radio_group_name": "Antinavire",
+    "training": false,
+    "briefing": "L'escadre de surface rouge en patrouille à l'ouest d'Anatahan : un destroyer Type 052C, un Type 052B et une frégate Type 054A. Les couler ; le Type 052C porte une défense sol-air de longue portée, à attaquer hors de son enveloppe.\nPosition : bullseye 341°/103 nm (N16°28.096' E144°57.245'). Ravitailleurs : Arco 2 (panier, TACAN 53Y, 293.0) à 152 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 145 nm."
+   }
+  }
+ }
+]

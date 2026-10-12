@@ -1,0 +1,110 @@
+[
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Saipan-MiG29",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Saipan-J11",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Saipan-Su30",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Saipan-Su27",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Pagan-MiG29",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Pagan-J11",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Pagan-MiG31",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Pagan-Su30",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Guam-F16",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Guam-F15",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Guam-F15x4",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ },
+ {
+  "name": "edit_route",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "QRA-Guam-F14",
+   "operation": "clear_tasks",
+   "index": 1
+  }
+ }
+]

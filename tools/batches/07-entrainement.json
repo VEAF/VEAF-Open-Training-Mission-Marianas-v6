@@ -1,0 +1,834 @@
+[
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Talofofo_Easy",
+   "position": {
+    "x": -18500,
+    "y": -4000
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Inert-T-72B3-1",
+     "position": {
+      "x": -17900,
+      "y": -4000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B3",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-T-72B3-2",
+     "position": {
+      "x": -18150,
+      "y": -3394
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B3",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BTR-82A-3",
+     "position": {
+      "x": -18750,
+      "y": -3567
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-82A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BTR-82A-4",
+     "position": {
+      "x": -19300,
+      "y": -4000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-82A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-ZBD04A-5",
+     "position": {
+      "x": -18800,
+      "y": -4520
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZBD04A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-KAMAZ-6",
+     "position": {
+      "x": -18150,
+      "y": -4606
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "KAMAZ Truck",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-KAMAZ-7",
+     "position": {
+      "x": -18154,
+      "y": -4200
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "KAMAZ Truck",
+       "count": 1
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "H1 Hélico Talofofo — facile",
+    "radio_group_name": "Entraînement hélicoptères",
+    "training": true,
+    "briefing": "Champ de tir hélicoptères dans les collines de Talofofo, au sud-est de Guam, à 5 nm du FARP Merizo : cibles inertes (chars, blindés et camions immobiles, tir interdit).\nPosition : bullseye 207°/103 nm (N13°19.051' E144°45.729'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 26 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 55 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Talofofo_Medium",
+   "position": {
+    "x": -18500,
+    "y": -4000
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "H2-1",
+     "position": {
+      "x": -17461,
+      "y": -3400
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23\" #spawngroup=\"H2AAA\" #spawncount=2 #H2-1"
+      }
+     ]
+    },
+    {
+     "name": "H2-2",
+     "position": {
+      "x": -19453,
+      "y": -3450
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23\" #spawngroup=\"H2AAA\" #spawncount=2 #H2-2"
+      }
+     ]
+    },
+    {
+     "name": "H2-3",
+     "position": {
+      "x": -18500,
+      "y": -5300
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23\" #spawngroup=\"H2AAA\" #spawncount=2 #H2-3"
+      }
+     ]
+    },
+    {
+     "name": "H2-4",
+     "position": {
+      "x": -19279,
+      "y": -4450
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka\" #spawnchance=50 #H2-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "H2 Hélico Talofofo — moyen",
+    "radio_group_name": "Entraînement hélicoptères",
+    "training": true,
+    "briefing": "Champ de tir hélicoptères de Talofofo : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile.\nPosition : bullseye 207°/103 nm (N13°19.051' E144°45.729'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 26 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 55 nm.",
+    "includes": [
+     "combatZone_Talofofo_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Talofofo_Hard",
+   "position": {
+    "x": -18500,
+    "y": -4000
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "H3-1",
+     "position": {
+      "x": -18400,
+      "y": -3000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13\" #spawngroup=\"H3SR\" #spawncount=1 #H3-1"
+      }
+     ]
+    },
+    {
+     "name": "H3-2",
+     "position": {
+      "x": -18000,
+      "y": -4866
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13\" #spawngroup=\"H3SR\" #spawncount=1 #H3-2"
+      }
+     ]
+    },
+    {
+     "name": "H3-3",
+     "position": {
+      "x": -17000,
+      "y": -4000
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-18 Igla-S manpad",
+       "name": "#command=\"-sa18\" #spawngroup=\"H3MP\" #spawncount=1 #H3-3"
+      }
+     ]
+    },
+    {
+     "name": "H3-4",
+     "position": {
+      "x": -19816,
+      "y": -4479
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-18 Igla-S manpad",
+       "name": "#command=\"-sa18\" #spawngroup=\"H3MP\" #spawncount=1 #H3-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "H3 Hélico Talofofo — difficile",
+    "radio_group_name": "Entraînement hélicoptères",
+    "training": true,
+    "briefing": "Champ de tir hélicoptères de Talofofo, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge.\nPosition : bullseye 207°/103 nm (N13°19.051' E144°45.729'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 26 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 55 nm.",
+    "includes": [
+     "combatZone_Talofofo_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_NWF_Easy",
+   "position": {
+    "x": 15200,
+    "y": 5500
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "Inert-T-72B3-1",
+     "position": {
+      "x": 15900,
+      "y": 5500
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B3",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-T-72B3-2",
+     "position": {
+      "x": 15889,
+      "y": 6079
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B3",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-T-72B3-3",
+     "position": {
+      "x": 15304,
+      "y": 6091
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B3",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BTR-82A-4",
+     "position": {
+      "x": 14800,
+      "y": 6193
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-82A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-BTR-82A-5",
+     "position": {
+      "x": 14730,
+      "y": 5671
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "BTR-82A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-ZBD04A-6",
+     "position": {
+      "x": 14542,
+      "y": 5261
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZBD04A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-ZBD04A-7",
+     "position": {
+      "x": 14750,
+      "y": 4721
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZBD04A",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-KAMAZ-8",
+     "position": {
+      "x": 15304,
+      "y": 4909
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "KAMAZ Truck",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-KAMAZ-9",
+     "position": {
+      "x": 15813,
+      "y": 4986
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "KAMAZ Truck",
+       "count": 1
+      }
+     ]
+    },
+    {
+     "name": "Inert-Ural-4320-31-10",
+     "position": {
+      "x": 15594,
+      "y": 5431
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-4320-31",
+       "count": 1
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A1 Attaque North West Field — facile",
+    "radio_group_name": "Entraînement attaque",
+    "training": true,
+    "briefing": "Champ de tir air-sol de North West Field, à 5 nm à l'ouest d'Andersen : blindés et camions immobiles en tir interdit, dépôt de carburant et poste de commandement.\nPosition : bullseye 210°/84 nm (N13°37.367' E144°50.825'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_NWF_Medium",
+   "position": {
+    "x": 15200,
+    "y": 5500
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "A2-1",
+     "position": {
+      "x": 14204,
+      "y": 4664
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B3",
+       "name": "#command=\"-armor, defense 0\" #A2-1"
+      }
+     ]
+    },
+    {
+     "name": "A2-2",
+     "position": {
+      "x": 15950,
+      "y": 6799
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23\" #spawngroup=\"A2AAA\" #spawncount=1 #A2-2"
+      }
+     ]
+    },
+    {
+     "name": "A2-3",
+     "position": {
+      "x": 15680,
+      "y": 4736
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Ural-375 ZU-23",
+       "name": "#command=\"-zu23\" #spawngroup=\"A2AAA\" #spawncount=1 #A2-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A2 Attaque North West Field — moyen",
+    "radio_group_name": "Entraînement attaque",
+    "training": true,
+    "briefing": "Champ de tir de North West Field : une compagnie blindée active et de l'artillerie antiaérienne légère en plus des cibles du niveau facile.\nPosition : bullseye 210°/84 nm (N13°37.367' E144°50.825'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm.",
+    "includes": [
+     "combatZone_NWF_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_NWF_Hard",
+   "position": {
+    "x": 15200,
+    "y": 5500
+   },
+   "radius": 2500,
+   "groups": [
+    {
+     "name": "A3-1",
+     "position": {
+      "x": 14897,
+      "y": 4424
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "T-72B3",
+       "name": "#command=\"-armor, defense 1\" #A3-1"
+      }
+     ]
+    },
+    {
+     "name": "A3-2",
+     "position": {
+      "x": 14072,
+      "y": 5090
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-10M3",
+       "name": "#command=\"-sa13\" #spawngroup=\"A3SR\" #spawncount=1 #A3-2"
+      }
+     ]
+    },
+    {
+     "name": "A3-3",
+     "position": {
+      "x": 16067,
+      "y": 5024
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Strela-1 9P31",
+       "name": "#command=\"-sa9\" #spawngroup=\"A3SR\" #spawncount=1 #A3-3"
+      }
+     ]
+    },
+    {
+     "name": "A3-4",
+     "position": {
+      "x": 14926,
+      "y": 4748
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "ZSU-23-4 Shilka",
+       "name": "#command=\"-shilka\" #A3-4"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "A3 Attaque North West Field — difficile",
+    "radio_group_name": "Entraînement attaque",
+    "training": true,
+    "briefing": "Champ de tir de North West Field : un second groupe blindé et une défense courte portée à guidage infrarouge (SA-13 ou SA-9), avec un Shilka. Pas de radar à longue portée : Andersen est à 5 nm.\nPosition : bullseye 210°/84 nm (N13°37.367' E144°50.825'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 32 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 47 nm.",
+    "includes": [
+     "combatZone_NWF_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Rota_Easy",
+   "position": {
+    "x": 73500,
+    "y": 44500
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "S1-1",
+     "position": {
+      "x": 73500,
+      "y": 44500
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Kub 2P25 ln",
+       "name": "#command=\"-sa6\" #spawngroup=\"S1MR\" #spawncount=1 #S1-1"
+      }
+     ]
+    },
+    {
+     "name": "S1-2",
+     "position": {
+      "x": 73500,
+      "y": 44800
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "SA-11 Buk LN 9A310M1",
+       "name": "#command=\"-sa11\" #spawngroup=\"S1MR\" #spawncount=1 #S1-2"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "S1 SEAD Rota — facile",
+    "radio_group_name": "Entraînement SEAD",
+    "training": true,
+    "briefing": "Site SEAD de Rota (île évacuée, plateau de Sabana) : une batterie sol-air moyenne portée seule, SA-6 ou SA-11 tirée au sort.\nPosition : bullseye 207°/47 nm (N14°09.152' E145°12.203'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 66 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 62 nm."
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Rota_Medium",
+   "position": {
+    "x": 73500,
+    "y": 44500
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "S2-1",
+     "position": {
+      "x": 74561,
+      "y": 45561
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15\" #spawngroup=\"S2SR\" #spawncount=2 #S2-1"
+      }
+     ]
+    },
+    {
+     "name": "S2-2",
+     "position": {
+      "x": 72051,
+      "y": 44888
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Osa 9A33 ln",
+       "name": "#command=\"-sa8\" #spawngroup=\"S2SR\" #spawncount=2 #S2-2"
+      }
+     ]
+    },
+    {
+     "name": "S2-3",
+     "position": {
+      "x": 73888,
+      "y": 43051
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "Tor 9A331",
+       "name": "#command=\"-sa15\" #spawngroup=\"S2SR\" #spawncount=2 #S2-3"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "S2 SEAD Rota — moyen",
+    "radio_group_name": "Entraînement SEAD",
+    "training": true,
+    "briefing": "Site SEAD de Rota : la batterie moyenne portée est protégée par une défense courte portée (SA-15, SA-8).\nPosition : bullseye 207°/47 nm (N14°09.152' E145°12.203'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 66 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 62 nm.",
+    "includes": [
+     "combatZone_Rota_Easy"
+    ]
+   }
+  }
+ },
+ {
+  "name": "create_combat_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Rota_Hard",
+   "position": {
+    "x": 73500,
+    "y": 44500
+   },
+   "radius": 3000,
+   "groups": [
+    {
+     "name": "S3-1",
+     "position": {
+      "x": 72400,
+      "y": 46405
+     },
+     "keep_position": true,
+     "units": [
+      {
+       "type": "55G6 EWR",
+       "name": "#command=\"-ewr\" #S3-1"
+      }
+     ]
+    }
+   ],
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "combat_zone": {
+    "friendly_name": "S3 SEAD Rota — difficile",
+    "radio_group_name": "Entraînement SEAD",
+    "training": true,
+    "briefing": "Site SEAD de Rota en réseau Skynet : un radar d'alerte avancée guide les batteries, qui restent éteintes jusqu'au dernier moment.\nPosition : bullseye 207°/47 nm (N14°09.152' E145°12.203'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 66 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 62 nm.",
+    "includes": [
+     "combatZone_Rota_Medium"
+    ]
+   }
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Fuel-1",
+   "position": {
+    "x": 15009,
+    "y": 6583
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_NWF_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Fuel-2",
+   "position": {
+    "x": 14790,
+    "y": 6628
+   },
+   "units": [
+    {
+     "type": "Fuel tank"
+    }
+   ],
+   "for_combat_zone": "combatZone_NWF_Easy",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "static",
+   "name": "Static-Command-3",
+   "position": {
+    "x": 16422,
+    "y": 5945
+   },
+   "units": [
+    {
+     "type": ".Command Center"
+    }
+   ],
+   "for_combat_zone": "combatZone_NWF_Easy",
+   "keep_position": true
+  }
+ }
+]

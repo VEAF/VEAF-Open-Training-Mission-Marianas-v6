@@ -1,0 +1,574 @@
+[
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "AD Andersen Avenger 1",
+   "move_to": {
+    "x": 10000,
+    "y": 15950
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "AD Andersen Avenger 2",
+   "move_to": {
+    "x": 11279,
+    "y": 12467
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "AD Merizo Stinger",
+   "move_to": {
+    "x": -21872,
+    "y": -11735
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "AD Orote Avenger",
+   "move_to": {
+    "x": -5114,
+    "y": -17850
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "AD Saipan HQ-7",
+   "move_to": {
+    "x": 180975,
+    "y": 100743
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "AD Saipan SA-11",
+   "move_to": {
+    "x": 183396,
+    "y": 103325
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "AD Saipan SA-15 nord",
+   "move_to": {
+    "x": 190475,
+    "y": 104300
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "AD Saipan SA-15 sud",
+   "move_to": {
+    "x": 179203,
+    "y": 102874
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "AD Tinian SA-11",
+   "move_to": {
+    "x": 169161,
+    "y": 91790
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Anatahan-Z09-2",
+   "move_to": {
+    "x": 316872,
+    "y": 100626
+   }
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Broadway",
+   "position": {
+    "x": 169107,
+    "y": 91800
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Broadway-Convoi",
+   "move_to": {
+    "x": 169107,
+    "y": 91800
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_ChalanKanoa-Z02-1",
+   "move_to": {
+    "x": 185295,
+    "y": 100414
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_ChalanKanoa-Z02-2",
+   "move_to": {
+    "x": 184293,
+    "y": 100617
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_ChalanKanoa-Z02-4",
+   "move_to": {
+    "x": 184787,
+    "y": 100548
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_CrossIsland-Convoi",
+   "move_to": {
+    "x": 193229,
+    "y": 104717
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Garapan-Z10-2",
+   "move_to": {
+    "x": 189586,
+    "y": 101345
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Marpi-Z05-1",
+   "move_to": {
+    "x": 196287,
+    "y": 109048
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Easy-Inert-BTR-82A-5",
+   "move_to": {
+    "x": 14730,
+    "y": 5721
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Easy-Inert-KAMAZ-8",
+   "move_to": {
+    "x": 15304,
+    "y": 4959
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Easy-Inert-KAMAZ-9",
+   "move_to": {
+    "x": 15793,
+    "y": 4913
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Easy-Inert-T-72B3-3",
+   "move_to": {
+    "x": 15266,
+    "y": 6155
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Easy-Inert-Ural-4320-31-10",
+   "move_to": {
+    "x": 15666,
+    "y": 5450
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Easy-Inert-ZBD04A-6",
+   "move_to": {
+    "x": 14542,
+    "y": 5336
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Easy-Inert-ZBD04A-7",
+   "move_to": {
+    "x": 14750,
+    "y": 4871
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Hard-A3-2",
+   "move_to": {
+    "x": 14022,
+    "y": 5003
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Hard-A3-4",
+   "move_to": {
+    "x": 14926,
+    "y": 4898
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Medium-A2-1",
+   "move_to": {
+    "x": 14204,
+    "y": 4764
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Medium-A2-2",
+   "move_to": {
+    "x": 15925,
+    "y": 6842
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NWF_Medium-A2-3",
+   "move_to": {
+    "x": 15705,
+    "y": 4736
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_NorthField-Z13-2",
+   "move_to": {
+    "x": 174662,
+    "y": 91606
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Pagan-Z14-1",
+   "move_to": {
+    "x": 512735,
+    "y": 107145
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Rota_Easy-S1-1",
+   "move_to": {
+    "x": 73512,
+    "y": 44451
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Rota_Hard-S3-1",
+   "move_to": {
+    "x": 72387,
+    "y": 46383
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Rota_Medium-S2-2",
+   "move_to": {
+    "x": 72147,
+    "y": 44913
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Rota_Medium-S2-3",
+   "move_to": {
+    "x": 73763,
+    "y": 43051
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Sarigan-Z11-1",
+   "move_to": {
+    "x": 355457,
+    "y": 108517
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Easy-Inert-BTR-82A-3",
+   "move_to": {
+    "x": -18794,
+    "y": -3542
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Easy-Inert-KAMAZ-6",
+   "move_to": {
+    "x": -18183,
+    "y": -4727
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Easy-Inert-T-72B3-1",
+   "move_to": {
+    "x": -17875,
+    "y": -4000
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Easy-Inert-T-72B3-2",
+   "move_to": {
+    "x": -18241,
+    "y": -3733
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Easy-Inert-ZBD04A-5",
+   "move_to": {
+    "x": -18794,
+    "y": -4496
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Hard-H3-1",
+   "move_to": {
+    "x": -18825,
+    "y": -3425
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Hard-H3-2",
+   "move_to": {
+    "x": -18130,
+    "y": -4791
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Hard-H3-3",
+   "move_to": {
+    "x": -16925,
+    "y": -4000
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Medium-H2-1",
+   "move_to": {
+    "x": -17267,
+    "y": -3513
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Medium-H2-2",
+   "move_to": {
+    "x": -19378,
+    "y": -3580
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Medium-H2-3",
+   "move_to": {
+    "x": -18400,
+    "y": -5474
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_TinianEst-Z01-1",
+   "move_to": {
+    "x": 169601,
+    "y": 93660
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_TinianEst-Z01-2",
+   "move_to": {
+    "x": 168833,
+    "y": 95019
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_TinianEst-Z01-3",
+   "move_to": {
+    "x": 169591,
+    "y": 93598
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_TinianEst-Z01-4",
+   "move_to": {
+    "x": 169594,
+    "y": 93670
+   }
+  }
+ }
+]

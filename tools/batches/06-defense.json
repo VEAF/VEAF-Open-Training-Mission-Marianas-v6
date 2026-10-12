@@ -1,0 +1,442 @@
+[
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Andersen Patriot",
+   "position": {
+    "x": 9300,
+    "y": 12600
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Patriot ln",
+     "name": "#veafInterpreter[\"-patriot, hdg 30\"] #Andersen-Patriot"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Andersen Hawk",
+   "position": {
+    "x": 12300,
+    "y": 17000
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 30\"] #Andersen-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Andersen Avenger 1",
+   "position": {
+    "x": 10000,
+    "y": 16200
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Andersen-Avenger-1"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Andersen Avenger 2",
+   "position": {
+    "x": 11400,
+    "y": 12500
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Andersen-Avenger-2"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "EWR Mont Santa Rosa",
+   "position": {
+    "x": 5517,
+    "y": 12642
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "FPS-117",
+     "name": "#veafInterpreter[\"-blue_ewr, hdg 0\"] #EWR-Mont-Santa-Rosa"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Won Pat Hawk",
+   "position": {
+    "x": 1800,
+    "y": 1900
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Hawk ln",
+     "name": "#veafInterpreter[\"-hawk, hdg 60\"] #Won-Pat-Hawk"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Won Pat Avenger",
+   "position": {
+    "x": -1200,
+    "y": -1300
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Won-Pat-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Orote NASAMS",
+   "position": {
+    "x": -4624,
+    "y": -15835
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "NASAMS_LN_C",
+     "name": "#veafInterpreter[\"-nasams, hdg 60\"] #Orote-NASAMS"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Orote Avenger",
+   "position": {
+    "x": -5200,
+    "y": -17900
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "M1097 Avenger",
+     "name": "#veafInterpreter[\"-avenger_squad, hdg 0\"] #Orote-Avenger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "blue",
+   "country_id": 2,
+   "country_name": "USA",
+   "category": "vehicle",
+   "name": "AD Merizo Stinger",
+   "position": {
+    "x": -21800,
+    "y": -12000
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Soldier stinger",
+     "name": "#veafInterpreter[\"-stinger, hdg 0\"] #Merizo-Stinger"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Saipan SA-11",
+   "position": {
+    "x": 183300,
+    "y": 103300
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "SA-11 Buk LN 9A310M1",
+     "name": "#veafInterpreter[\"-sa11, hdg 200\"] #Saipan-SA-11"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Saipan SA-15 sud",
+   "position": {
+    "x": 179300,
+    "y": 102900
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #Saipan-SA-15-sud"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Saipan SA-15 nord",
+   "position": {
+    "x": 190500,
+    "y": 104300
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #Saipan-SA-15-nord"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "vehicle",
+   "name": "AD Saipan HQ-7",
+   "position": {
+    "x": 181000,
+    "y": 100700
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "HQ-7_LN_SP",
+     "name": "#veafInterpreter[\"-hq7, hdg 200\"] #Saipan-HQ-7"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "EWR Mont Tapochau",
+   "position": {
+    "x": 187468,
+    "y": 103469
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0\"] #EWR-Mont-Tapochau"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Tinian SA-11",
+   "position": {
+    "x": 169500,
+    "y": 91700
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "SA-11 Buk LN 9A310M1",
+     "name": "#veafInterpreter[\"-sa11, hdg 200\"] #Tinian-SA-11"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Tinian SA-15",
+   "position": {
+    "x": 165600,
+    "y": 89300
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#veafInterpreter[\"-sa15, hdg 0\"] #Tinian-SA-15"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "AD Pagan SA-10",
+   "position": {
+    "x": 514800,
+    "y": 108500
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "S-300PS 5P85C ln",
+     "name": "#veafInterpreter[\"-sa10, hdg 180\"] #Pagan-SA-10"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 27,
+   "country_name": "China",
+   "category": "vehicle",
+   "name": "AD Pagan HQ-7",
+   "position": {
+    "x": 511400,
+    "y": 107173
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "HQ-7_LN_SP",
+     "name": "#veafInterpreter[\"-hq7, hdg 180\"] #Pagan-HQ-7"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "EWR Anatahan",
+   "position": {
+    "x": 316360,
+    "y": 97326
+   },
+   "keep_position": true,
+   "units": [
+    {
+     "type": "55G6 EWR",
+     "name": "#veafInterpreter[\"-ewr, hdg 0\"] #EWR-Anatahan"
+    }
+   ]
+  }
+ }
+]

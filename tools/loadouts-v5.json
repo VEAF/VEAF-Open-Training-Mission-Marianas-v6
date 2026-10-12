@@ -1,0 +1,1337 @@
+{
+ "source": "v5 VEAF_OpenTraining_Marianas_20241208.miz, groupes veafSpawn-*",
+ "groups": {
+  "veafSpawn-F-15C - FOX3 - Radar ON - ECM ON - HARD X1": {
+   "type": "F-15C",
+   "pylons": {
+    "1": {
+     "CLSID": "{AIM-9P5}"
+    },
+    "2": {
+     "CLSID": "{E1F29B21-F291-4589-9FD8-3272EEC69506}"
+    },
+    "3": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "4": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "5": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "6": {
+     "CLSID": "{E1F29B21-F291-4589-9FD8-3272EEC69506}"
+    },
+    "7": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "8": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "9": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "10": {
+     "CLSID": "{E1F29B21-F291-4589-9FD8-3272EEC69506}"
+    },
+    "11": {
+     "CLSID": "{AIM-9P5}"
+    }
+   }
+  },
+  "veafSpawn-F/A18C - FOX3 - Radar OFF - ECM OFF - HARD X2": {
+   "type": "FA-18C_hornet",
+   "pylons": {
+    "1": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    },
+    "2": {
+     "CLSID": "{LAU-115 - AIM-7P}"
+    },
+    "3": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "4": {
+     "CLSID": "{AIM-7P}"
+    },
+    "5": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "6": {
+     "CLSID": "{AIM-7P}"
+    },
+    "7": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "8": {
+     "CLSID": "{LAU-115 - AIM-7P}"
+    },
+    "9": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    }
+   }
+  },
+  "veafSpawn-MQ-9 - AFAC - JTAC - DRONE": {
+   "type": "MQ-9 Reaper",
+   "pylons": {}
+  },
+  "veafSpawn-F/A18C - FOX1 - Radar OFF - ECM OFF - NORMAL X2": {
+   "type": "FA-18C_hornet",
+   "pylons": {
+    "1": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    },
+    "2": {
+     "CLSID": "{LAU-115 - AIM-7P}"
+    },
+    "3": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "4": {
+     "CLSID": "{AIM-7P}"
+    },
+    "5": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "6": {
+     "CLSID": "{AIM-7P}"
+    },
+    "7": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "8": {
+     "CLSID": "{LAU-115 - AIM-7P}"
+    },
+    "9": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    }
+   }
+  },
+  "veafSpawn-F/A18C - FOX1 - Radar ON - ECM ON - NORMAL X2": {
+   "type": "FA-18C_hornet",
+   "pylons": {
+    "1": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    },
+    "2": {
+     "CLSID": "{LAU-115 - AIM-7P}"
+    },
+    "3": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "4": {
+     "CLSID": "{AIM-7P}"
+    },
+    "5": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "6": {
+     "CLSID": "{AIM-7P}"
+    },
+    "7": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "8": {
+     "CLSID": "{LAU-115 - AIM-7P}"
+    },
+    "9": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    }
+   }
+  },
+  "veafSpawn-F/A18C - FOX3 - Radar ON - ECM ON - HARD X2": {
+   "type": "FA-18C_hornet",
+   "pylons": {
+    "1": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    },
+    "2": {
+     "CLSID": "LAU-115_2*LAU-127_AIM-120C"
+    },
+    "3": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "4": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "5": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "6": {
+     "CLSID": "{40EF17B7-F508-45de-8566-6FFECC0C1AB8}"
+    },
+    "7": {
+     "CLSID": "{FPU_8A_FUEL_TANK}"
+    },
+    "8": {
+     "CLSID": "LAU-115_2*LAU-127_AIM-120C"
+    },
+    "9": {
+     "CLSID": "{5CE2FF2A-645A-4197-B48D-8720AC69394F}"
+    }
+   }
+  },
+  "veafSpawn-MIG31 - FOX1 - Radar OFF - NORMAL X2": {
+   "type": "MiG-31",
+   "pylons": {
+    "1": {
+     "CLSID": "{5F26DBC2-FB43-4153-92DE-6BBCE26CB0FF}"
+    },
+    "2": {
+     "CLSID": "{F1243568-8EF0-49D4-9CB5-4DA90D92BC1D}"
+    },
+    "3": {
+     "CLSID": "{F1243568-8EF0-49D4-9CB5-4DA90D92BC1D}"
+    },
+    "4": {
+     "CLSID": "{F1243568-8EF0-49D4-9CB5-4DA90D92BC1D}"
+    },
+    "5": {
+     "CLSID": "{F1243568-8EF0-49D4-9CB5-4DA90D92BC1D}"
+    },
+    "6": {
+     "CLSID": "{5F26DBC2-FB43-4153-92DE-6BBCE26CB0FF}"
+    }
+   }
+  },
+  "veafSpawn-SU27 - FOX1 - Radar ON - ECM OFF - EASY X2": {
+   "type": "Su-27",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "5": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "6": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "8": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-SU27 - FOX1 - Radar OFF - ECM OFF - EASY X2": {
+   "type": "Su-27",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "6": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-SU30 - FOX3 - Radar OFF - ECM OFF - HARD X1": {
+   "type": "Su-30",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-MIG23 - FOX1 - Radar ON - EASY X2": {
+   "type": "MiG-23MLD",
+   "pylons": {
+    "2": {
+     "CLSID": "{CCF898C9-5BC7-49A4-9D1E-C3ED3D5166A1}"
+    },
+    "3": {
+     "CLSID": "{B0DBC591-0F52-4F7D-AD7B-51E67725FB81}"
+    },
+    "4": {
+     "CLSID": "{A5BAEAB7-6FAF-4236-AF72-0FD900F493F9}"
+    },
+    "5": {
+     "CLSID": "{275A2855-4A79-4B2D-B082-91EA2ADF4691}"
+    },
+    "6": {
+     "CLSID": "{CCF898C9-5BC7-49A4-9D1E-C3ED3D5166A1}"
+    }
+   }
+  },
+  "veafSpawn-J-11A - FOX2 - ECM OFF - Radar OFF - NORMAL X2": {
+   "type": "J-11A",
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  },
+  "veafSpawn-M2000-5 - FOX3 - ECM OFF - Radar ON - HARD X1": {
+   "type": "Mirage 2000-5",
+   "pylons": {
+    "1": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    },
+    "2": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "3": {
+     "CLSID": "{6D778860-7BB8-4ACB-9E95-BA772C6BBC2C}"
+    },
+    "4": {
+     "CLSID": "{0DA03783-61E4-40B2-8FAE-6AEE0A5C5AAE}"
+    },
+    "5": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "6": {
+     "CLSID": "{0DA03783-61E4-40B2-8FAE-6AEE0A5C5AAE}"
+    },
+    "7": {
+     "CLSID": "{6D778860-7BB8-4ACB-9E95-BA772C6BBC2C}"
+    },
+    "8": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "9": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    }
+   }
+  },
+  "veafSpawn-MIG29S - FOX1 - Radar ON - ECM ON - EASY- X2": {
+   "type": "MiG-29S",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-MIG29S - FOX1 - Radar OFF - ECM OFF - NORMAL X2": {
+   "type": "MiG-29S",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "2": {
+     "CLSID": "<CLEAN>"
+    },
+    "3": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "<CLEAN>"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-M2000-5 - FOX2 - ECM OFF - Radar OFF - HARD X1": {
+   "type": "Mirage 2000-5",
+   "pylons": {
+    "1": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    },
+    "2": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "3": {
+     "CLSID": "{0DA03783-61E4-40B2-8FAE-6AEE0A5C5AAE}"
+    },
+    "4": {
+     "CLSID": "{0DA03783-61E4-40B2-8FAE-6AEE0A5C5AAE}"
+    },
+    "5": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "6": {
+     "CLSID": "{0DA03783-61E4-40B2-8FAE-6AEE0A5C5AAE}"
+    },
+    "7": {
+     "CLSID": "{0DA03783-61E4-40B2-8FAE-6AEE0A5C5AAE}"
+    },
+    "8": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "9": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    }
+   }
+  },
+  "veafSpawn-MIG29A - FOX2 - Radar OFF - NORMAL X2": {
+   "type": "MiG-29A",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "2": {
+     "CLSID": "<CLEAN>"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "6": {
+     "CLSID": "<CLEAN>"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-F1EE - FOX1 - Radar OFF - ECM OFF - EASY X2": {
+   "type": "Mirage-F1EE",
+   "pylons": {
+    "1": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    },
+    "3": {
+     "CLSID": "{R530F_EM}"
+    },
+    "4": {
+     "CLSID": "PTB-1200-F1"
+    },
+    "5": {
+     "CLSID": "{R530F_EM}"
+    },
+    "6": {
+     "CLSID": "BARAX_ECM"
+    },
+    "7": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    }
+   }
+  },
+  "veafSpawn-SU30 - FOX1 - Radar ON - ECM OFF - EASY X2": {
+   "type": "Su-30",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "5": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "6": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "8": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-SU30 - FOX3 - Radar OFF - ECM ON - HARD X1": {
+   "type": "Su-30",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "4": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "7": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-MIG29S - FOX1 - Radar ON - ECM OFF - NORMAL X2": {
+   "type": "MiG-29S",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "2": {
+     "CLSID": "<CLEAN>"
+    },
+    "3": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "<CLEAN>"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-SU30 - FOX3 - Radar ON - ECM OFF - NORMAL X2": {
+   "type": "Su-30",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-SU30 - FOX3 - Radar ON - ECM ON - HARD X1": {
+   "type": "Su-30",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "4": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "7": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-MIG29S - FOX3 - Radar OFF - ECM OFF - HARD X1": {
+   "type": "MiG-29S",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "2": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "3": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-SU30 - FOX2 - Radar OFF - ECM OFF - EASY X2": {
+   "type": "Su-30",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-M2000-5 - FOX3 - ECM ON - Radar OFF - HARD X1": {
+   "type": "Mirage 2000-5",
+   "pylons": {
+    "1": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    },
+    "2": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "3": {
+     "CLSID": "{6D778860-7BB8-4ACB-9E95-BA772C6BBC2C}"
+    },
+    "4": {
+     "CLSID": "{0DA03783-61E4-40B2-8FAE-6AEE0A5C5AAE}"
+    },
+    "5": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "6": {
+     "CLSID": "{0DA03783-61E4-40B2-8FAE-6AEE0A5C5AAE}"
+    },
+    "7": {
+     "CLSID": "{6D778860-7BB8-4ACB-9E95-BA772C6BBC2C}"
+    },
+    "8": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "9": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    }
+   }
+  },
+  "veafSpawn-MIG31 - FOX2 - Radar OFF - EASY X2": {
+   "type": "MiG-31",
+   "pylons": {
+    "1": {
+     "CLSID": "{5F26DBC2-FB43-4153-92DE-6BBCE26CB0FF}"
+    },
+    "6": {
+     "CLSID": "{5F26DBC2-FB43-4153-92DE-6BBCE26CB0FF}"
+    }
+   }
+  },
+  "veafSpawn-MIG29A - FOX1 - Radar ON - NORMAL X2": {
+   "type": "MiG-29A",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "2": {
+     "CLSID": "<CLEAN>"
+    },
+    "3": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "<CLEAN>"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-SU27 - FOX1 - Radar ON - ECM OFF - NORMAL X2": {
+   "type": "Su-27",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-SU30 - FOX2 - Radar OFF - ECM ON - EASY X2": {
+   "type": "Su-30",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-SU30 - FOX1 - Radar OFF - ECM ON - NORMAL X2": {
+   "type": "Su-30",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-J-11A - FOX3 - ECM ON - Radar ON - HARD X1": {
+   "type": "J-11A",
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  },
+  "veafSpawn-MIG29A - FOX1 - Radar OFF - NORMAL X2": {
+   "type": "MiG-29A",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "2": {
+     "CLSID": "<CLEAN>"
+    },
+    "3": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "<CLEAN>"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-J-11A - FOX1 - ECM OFF - Radar ON - EASY X2": {
+   "type": "J-11A",
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "6": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  },
+  "veafSpawn-M-2000C - FOX1 - ECM OFF - Radar ON - NORMAL X2": {
+   "type": "M-2000C",
+   "pylons": {
+    "1": {
+     "CLSID": "{MMagicII_DDM}"
+    },
+    "2": {
+     "CLSID": "{Matra_S530D}"
+    },
+    "5": {
+     "CLSID": "{M2KC_RPL_522}"
+    },
+    "8": {
+     "CLSID": "{Matra_S530D}"
+    },
+    "9": {
+     "CLSID": "{MMagicII_DDM}"
+    },
+    "10": {
+     "CLSID": "{EclairM_06}"
+    }
+   }
+  },
+  "veafSpawn-MIG25 - FOX1 - Radar OFF - NORMAL X2": {
+   "type": "MiG-25PD",
+   "pylons": {
+    "1": {
+     "CLSID": "{5F26DBC2-FB43-4153-92DE-6BBCE26CB0FF}"
+    },
+    "2": {
+     "CLSID": "{4EDBA993-2E34-444C-95FB-549300BF7CAF}"
+    },
+    "3": {
+     "CLSID": "{4EDBA993-2E34-444C-95FB-549300BF7CAF}"
+    },
+    "4": {
+     "CLSID": "{5F26DBC2-FB43-4153-92DE-6BBCE26CB0FF}"
+    }
+   }
+  },
+  "veafSpawn-F1EE - FOX1 - Radar ON - ECM ON - EASY X2": {
+   "type": "Mirage-F1EE",
+   "pylons": {
+    "1": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    },
+    "3": {
+     "CLSID": "{R530F_EM}"
+    },
+    "4": {
+     "CLSID": "PTB-1200-F1"
+    },
+    "5": {
+     "CLSID": "{R530F_EM}"
+    },
+    "6": {
+     "CLSID": "BARAX_ECM"
+    },
+    "7": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    }
+   }
+  },
+  "veafSpawn-MIG21B - FOX1 - Radar ON - EASY X2": {
+   "type": "MiG-21Bis",
+   "pylons": {
+    "1": {
+     "CLSID": "{R-60 2L}"
+    },
+    "2": {
+     "CLSID": "{R-3R}"
+    },
+    "3": {
+     "CLSID": "{PTB_490C_MIG21}"
+    },
+    "4": {
+     "CLSID": "{R-3R}"
+    },
+    "5": {
+     "CLSID": "{R-60 2R}"
+    },
+    "6": {
+     "CLSID": "{ASO-2}"
+    }
+   }
+  },
+  "veafSpawn-MIG25 - FOX2 - Radar OFF - NORMAL X2": {
+   "type": "MiG-25PD",
+   "pylons": {
+    "1": {
+     "CLSID": "{APU-60-1_R_60M}"
+    },
+    "2": {
+     "CLSID": "{5F26DBC2-FB43-4153-92DE-6BBCE26CB0FF}"
+    },
+    "3": {
+     "CLSID": "{5F26DBC2-FB43-4153-92DE-6BBCE26CB0FF}"
+    },
+    "4": {
+     "CLSID": "{APU-60-1_R_60M}"
+    }
+   }
+  },
+  "veafSpawn-M2000-5 - FOX3 - ECM OFF - Radar OFF - HARD X1": {
+   "type": "Mirage 2000-5",
+   "pylons": {
+    "1": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    },
+    "2": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "3": {
+     "CLSID": "{6D778860-7BB8-4ACB-9E95-BA772C6BBC2C}"
+    },
+    "4": {
+     "CLSID": "{0DA03783-61E4-40B2-8FAE-6AEE0A5C5AAE}"
+    },
+    "5": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "6": {
+     "CLSID": "{0DA03783-61E4-40B2-8FAE-6AEE0A5C5AAE}"
+    },
+    "7": {
+     "CLSID": "{6D778860-7BB8-4ACB-9E95-BA772C6BBC2C}"
+    },
+    "8": {
+     "CLSID": "{414DA830-B61A-4F9E-B71B-C2F6832E1D7A}"
+    },
+    "9": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    }
+   }
+  },
+  "veafSpawn-SU27 - FOX1 - Radar OFF - ECM OFF - NORMAL X2": {
+   "type": "Su-27",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-MIG29S - FOX3 - Radar ON - ECM ON - HARD X1": {
+   "type": "MiG-29S",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "2": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-J-11A -FOX1 - ECM OFF - Radar ON - NORMAL X2": {
+   "type": "J-11A",
+   "pylons": {
+    "1": {
+     "CLSID": "{RKL609_L}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{RKL609_R}"
+    }
+   }
+  },
+  "veafSpawn-MIG29A - FOX1 - Radar OFF - EASY X2": {
+   "type": "MiG-29A",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "2": {
+     "CLSID": "<CLEAN>"
+    },
+    "3": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "6": {
+     "CLSID": "<CLEAN>"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-F1EE - FOX2 - Radar ON - ECM ON - EASY X2": {
+   "type": "Mirage-F1EE",
+   "pylons": {
+    "1": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    },
+    "3": {
+     "CLSID": "{R530F_IR}"
+    },
+    "4": {
+     "CLSID": "PTB-1200-F1"
+    },
+    "5": {
+     "CLSID": "{R530F_IR}"
+    },
+    "6": {
+     "CLSID": "BARAX_ECM"
+    },
+    "7": {
+     "CLSID": "{FC23864E-3B80-48E3-9C03-4DA8B1D7497B}"
+    }
+   }
+  },
+  "veafSpawn-SU30 - FOX1 - Radar OFF - ECM ON - EASY X2": {
+   "type": "Su-30",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "5": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "6": {
+     "CLSID": "{9B25D316-0434-4954-868F-D51DB1A38DF0}"
+    },
+    "8": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-MIG29A - FOX2 - Radar OFF - EASY X2": {
+   "type": "MiG-29A",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "2": {
+     "CLSID": "<CLEAN>"
+    },
+    "3": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "6": {
+     "CLSID": "<CLEAN>"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-MIG29S - FOX3 - Radar ON - ECM OFF - HARD X1": {
+   "type": "MiG-29S",
+   "pylons": {
+    "1": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "2": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "4": {
+     "CLSID": "{2BEC576B-CDF5-4B7F-961F-B0FA4312B841}"
+    },
+    "5": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "6": {
+     "CLSID": "{B4C01D60-A8A3-4237-BD72-CA7655BC0FE9}"
+    },
+    "7": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    }
+   }
+  },
+  "veafSpawn-SU27 - FOX2 - Radar OFF - ECM OFF - NORMAL X2": {
+   "type": "Su-27",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "8": {
+     "CLSID": "{B79C379A-9E87-4E50-A1EE-7F7E29C2E87A}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  },
+  "veafSpawn-SU30 - FOX1 - Radar OFF - ECM OFF - NORMAL X2": {
+   "type": "Su-30",
+   "pylons": {
+    "1": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82F}"
+    },
+    "2": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "3": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "5": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "6": {
+     "CLSID": "{E8069896-8435-4B90-95C0-01A03AE6E400}"
+    },
+    "8": {
+     "CLSID": "{88DAC840-9F75-4531-8689-B46E64E42E53}"
+    },
+    "9": {
+     "CLSID": "{FBC29BFE-3D24-4C64-B81D-941239D12249}"
+    },
+    "10": {
+     "CLSID": "{44EE8698-89F9-48EE-AF36-5FD31896A82A}"
+    }
+   }
+  }
+ }
+}

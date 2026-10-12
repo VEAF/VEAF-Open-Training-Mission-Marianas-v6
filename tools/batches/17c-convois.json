@@ -1,0 +1,254 @@
+[
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_BeachRoad-Convoi",
+   "unit_name": "combatZone_BeachRoad-Convoi Unit #001",
+   "position": {
+    "x": 194303,
+    "y": 106661
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_BeachRoad-Convoi",
+   "unit_name": "combatZone_BeachRoad-Convoi Unit #002",
+   "position": {
+    "x": 194349,
+    "y": 106724
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_BeachRoad-Convoi",
+   "unit_name": "combatZone_BeachRoad-Convoi Unit #003",
+   "position": {
+    "x": 194347,
+    "y": 106745
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_BeachRoad-Convoi",
+   "unit_name": "combatZone_BeachRoad-Convoi Unit #004",
+   "position": {
+    "x": 194360,
+    "y": 106770
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_BeachRoad-Convoi",
+   "unit_name": "combatZone_BeachRoad-Convoi Unit #005",
+   "position": {
+    "x": 194374,
+    "y": 106799
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_BeachRoad-Convoi",
+   "unit_name": "combatZone_BeachRoad-Convoi Unit #006",
+   "position": {
+    "x": 194425,
+    "y": 106822
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_BeachRoad-Convoi",
+   "unit_name": "combatZone_BeachRoad-Convoi Unit #007",
+   "position": {
+    "x": 194429,
+    "y": 106819
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_BeachRoad-Convoi",
+   "unit_name": "combatZone_BeachRoad-Convoi Unit #008",
+   "position": {
+    "x": 194473,
+    "y": 106845
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Broadway-Convoi",
+   "unit_name": "combatZone_Broadway-Convoi Unit #001",
+   "position": {
+    "x": 169107,
+    "y": 91795
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Broadway-Convoi",
+   "unit_name": "combatZone_Broadway-Convoi Unit #002",
+   "position": {
+    "x": 169077,
+    "y": 91792
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Broadway-Convoi",
+   "unit_name": "combatZone_Broadway-Convoi Unit #003",
+   "position": {
+    "x": 169046,
+    "y": 91789
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Broadway-Convoi",
+   "unit_name": "combatZone_Broadway-Convoi Unit #004",
+   "position": {
+    "x": 169017,
+    "y": 91786
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Broadway-Convoi",
+   "unit_name": "combatZone_Broadway-Convoi Unit #005",
+   "position": {
+    "x": 168987,
+    "y": 91783
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Broadway-Convoi",
+   "unit_name": "combatZone_Broadway-Convoi Unit #006",
+   "position": {
+    "x": 168958,
+    "y": 91781
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_CrossIsland-Convoi",
+   "unit_name": "combatZone_CrossIsland-Convoi Unit #001",
+   "position": {
+    "x": 193221,
+    "y": 104718
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_CrossIsland-Convoi",
+   "unit_name": "combatZone_CrossIsland-Convoi Unit #002",
+   "position": {
+    "x": 193243,
+    "y": 104736
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_CrossIsland-Convoi",
+   "unit_name": "combatZone_CrossIsland-Convoi Unit #003",
+   "position": {
+    "x": 193263,
+    "y": 104753
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_CrossIsland-Convoi",
+   "unit_name": "combatZone_CrossIsland-Convoi Unit #004",
+   "position": {
+    "x": 193350,
+    "y": 104768
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_CrossIsland-Convoi",
+   "unit_name": "combatZone_CrossIsland-Convoi Unit #005",
+   "position": {
+    "x": 193367,
+    "y": 104755
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_CrossIsland-Convoi",
+   "unit_name": "combatZone_CrossIsland-Convoi Unit #006",
+   "position": {
+    "x": 193383,
+    "y": 104742
+   }
+  }
+ },
+ {
+  "name": "set_unit_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_CrossIsland-Convoi",
+   "unit_name": "combatZone_CrossIsland-Convoi Unit #007",
+   "position": {
+    "x": 193403,
+    "y": 104731
+   }
+  }
+ }
+]

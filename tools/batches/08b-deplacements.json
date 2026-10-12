@@ -1,0 +1,407 @@
+[
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_ChalanKanoa-Z02-1"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_ChalanKanoa-Z02-2"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_ChalanKanoa-Z02-3"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_ChalanKanoa-Z02-4"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_ChalanKanoa",
+   "position": {
+    "x": 184800,
+    "y": 100200
+   },
+   "radius": 1500
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Z02-1",
+   "position": {
+    "x": 185270,
+    "y": 100371
+   },
+   "units": [
+    {
+     "type": "ZTZ96B",
+     "name": "#command=\"-armor, defense 0\" #Z02-1"
+    }
+   ],
+   "for_combat_zone": "combatZone_ChalanKanoa",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Z02-2",
+   "position": {
+    "x": 184209,
+    "y": 100304
+   },
+   "units": [
+    {
+     "type": "ZTZ96B",
+     "name": "#command=\"-armor, defense 1\" #Z02-2"
+    }
+   ],
+   "for_combat_zone": "combatZone_ChalanKanoa",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Z02-3",
+   "position": {
+    "x": 184869,
+    "y": 99806
+   },
+   "units": [
+    {
+     "type": "Infantry AK",
+     "name": "#command=\"-infantry, defense 2\" #Z02-3"
+    }
+   ],
+   "for_combat_zone": "combatZone_ChalanKanoa",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Z02-4",
+   "position": {
+    "x": 184800,
+    "y": 100500
+   },
+   "units": [
+    {
+     "type": "ZSU-23-4 Shilka",
+     "name": "#command=\"-shilka\" #Z02-4"
+    }
+   ],
+   "for_combat_zone": "combatZone_ChalanKanoa",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Obyan-Z03-1"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Obyan-Z03-2"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Obyan-Z03-3"
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Obyan-Z03-4"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Obyan",
+   "position": {
+    "x": 185921,
+    "y": 106860
+   },
+   "radius": 1500,
+   "new_name": "combatZone_Kagman"
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Z03-1",
+   "position": {
+    "x": 186421,
+    "y": 106860
+   },
+   "units": [
+    {
+     "type": "PLZ05",
+     "name": "#command=\"-plz05\" #Z03-1"
+    }
+   ],
+   "for_combat_zone": "combatZone_Kagman",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Z03-2",
+   "position": {
+    "x": 185621,
+    "y": 107380
+   },
+   "units": [
+    {
+     "type": "Grad-URAL",
+     "name": "#command=\"-grad\" #Z03-2"
+    }
+   ],
+   "for_combat_zone": "combatZone_Kagman",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Z03-3",
+   "position": {
+    "x": 185721,
+    "y": 106514
+   },
+   "units": [
+    {
+     "type": "Strela-10M3",
+     "name": "#command=\"-sa13\" #Z03-3"
+    }
+   ],
+   "for_combat_zone": "combatZone_Kagman",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Z03-4",
+   "position": {
+    "x": 186221,
+    "y": 106340
+   },
+   "units": [
+    {
+     "type": "Ural-375 ZU-23",
+     "name": "#command=\"-zu23\" #Z03-4"
+    }
+   ],
+   "for_combat_zone": "combatZone_Kagman",
+   "keep_position": true
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Broadway-Convoi"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_Broadway",
+   "position": {
+    "x": 169800,
+    "y": 91400
+   },
+   "radius": 600
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Convoi",
+   "position": {
+    "x": 169800,
+    "y": 91400
+   },
+   "units": [
+    {
+     "type": "GAZ-66",
+     "count": 1
+    },
+    {
+     "type": "ATZ-10",
+     "count": 3
+    },
+    {
+     "type": "Ural-375 ZU-23",
+     "count": 1
+    },
+    {
+     "type": "ATZ-5",
+     "count": 1
+    }
+   ],
+   "for_combat_zone": "combatZone_Broadway",
+   "keep_position": true,
+   "route": [
+    {
+     "x": 169800,
+     "y": 91400
+    },
+    {
+     "x": 172000,
+     "y": 91800
+    },
+    {
+     "x": 174300,
+     "y": 92000
+    }
+   ]
+  }
+ },
+ {
+  "name": "remove_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_CrossIsland-Convoi"
+  }
+ },
+ {
+  "name": "edit_zone",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "zone_name": "combatZone_CrossIsland",
+   "position": {
+    "x": 193236,
+    "y": 104693
+   },
+   "radius": 1000
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "Convoi",
+   "position": {
+    "x": 193236,
+    "y": 104693
+   },
+   "units": [
+    {
+     "type": "BTR-82A",
+     "count": 2
+    },
+    {
+     "type": "ZBD04A",
+     "count": 2
+    },
+    {
+     "type": "Ural-4320-31",
+     "count": 2
+    },
+    {
+     "type": "Strela-10M3",
+     "count": 1
+    }
+   ],
+   "for_combat_zone": "combatZone_CrossIsland",
+   "keep_position": true,
+   "route": [
+    {
+     "x": 193236,
+     "y": 104693
+    },
+    {
+     "x": 190700,
+     "y": 104400
+    },
+    {
+     "x": 187300,
+     "y": 105600
+    },
+    {
+     "x": 186200,
+     "y": 106300
+    }
+   ]
+  }
+ }
+]

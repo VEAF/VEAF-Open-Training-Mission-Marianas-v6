@@ -1,0 +1,46 @@
+[
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Anatahan-Z09-2",
+   "move_to": {
+    "x": 316878,
+    "y": 100601
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Guguan-Z04-2",
+   "move_to": {
+    "x": 422062,
+    "y": 115676
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Rota_Easy-S1-1",
+   "move_to": {
+    "x": 73537,
+    "y": 44451
+   }
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_TinianEst-Z01-3",
+   "move_to": {
+    "x": 169603,
+    "y": 93619
+   }
+  }
+ }
+]

@@ -1,0 +1,63 @@
+# Variantes météo et horaires de l'Open Training Mariannes (une .miz par entrée).
+# Réel = METAR d'Andersen (PGUA) récupéré au build ; dégagé = même météo plafonnée VFR (clearsky) ;
+# épars / pluie = météo manuelle d'alizé (vent d'est-nord-est), et averse tropicale sous plafond bas.
+# Le build compose le ${METAR} du briefing des variantes manuelles. Le profil LOCAL_TEST coupe ce pipeline.
+# Date : mi-mars, saison sèche, alizés établis.
+position:
+  latitude: 13.581703
+  longitude: 144.931052
+  timezone: Pacific/Guam
+base_date: '2026-03-15'
+versions:
+- name: night-real
+  time: 02:00
+  airport_icao: PGUA
+- name: dawn-real
+  time: sunrise-15*60
+  airport_icao: PGUA
+- name: dawn-real-clear
+  time: sunrise-15*60
+  airport_icao: PGUA
+  clearsky: true
+- name: dawn-scattered
+  time: sunrise-15*60
+  weather: {temperature: 25, wind_speed: 6.2, wind_direction: 70, visibility: 9999, cloud_type: scattered, cloud_height: 610, fog_enabled: false}
+- name: dawn-rain
+  time: sunrise-15*60
+  weather: {temperature: 24, wind_speed: 9.3, wind_direction: 80, visibility: 6000, cloud_type: overcast, cloud_height: 460, fog_enabled: false, precipitation: true}
+- name: morning-real
+  time: sunrise+60*60
+  airport_icao: PGUA
+- name: morning-real-clear
+  time: sunrise+60*60
+  airport_icao: PGUA
+  clearsky: true
+- name: morning-scattered
+  time: sunrise+60*60
+  weather: {temperature: 27, wind_speed: 6.2, wind_direction: 70, visibility: 9999, cloud_type: scattered, cloud_height: 610, fog_enabled: false}
+- name: morning-rain
+  time: sunrise+60*60
+  weather: {temperature: 25, wind_speed: 9.3, wind_direction: 80, visibility: 6000, cloud_type: overcast, cloud_height: 460, fog_enabled: false, precipitation: true}
+- name: day-real
+  time: '13:00'
+  airport_icao: PGUA
+- name: day-real-clear
+  time: '13:00'
+  airport_icao: PGUA
+  clearsky: true
+- name: day-scattered
+  time: '13:00'
+  weather: {temperature: 29, wind_speed: 7.2, wind_direction: 70, visibility: 9999, cloud_type: scattered, cloud_height: 760, fog_enabled: false}
+- name: day-rain
+  time: '13:00'
+  weather: {temperature: 26, wind_speed: 9.3, wind_direction: 80, visibility: 6000, cloud_type: overcast, cloud_height: 460, fog_enabled: false, precipitation: true}
+- name: evening-real
+  time: sunset-45*60
+  airport_icao: PGUA
+- name: evening-real-clear
+  time: sunset-45*60
+  airport_icao: PGUA
+  clearsky: true
+- name: evening-scattered
+  time: sunset-45*60
+  weather: {temperature: 27, wind_speed: 6.2, wind_direction: 70, visibility: 9999, cloud_type: scattered, cloud_height: 610, fog_enabled: false}

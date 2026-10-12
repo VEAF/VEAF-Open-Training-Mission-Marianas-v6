@@ -1,0 +1,65 @@
+[
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "Andersen AFB",
+   "coalition": "blue",
+   "dynamic_spawn": true
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "Antonio B. Won Pat Intl",
+   "coalition": "blue",
+   "dynamic_spawn": true
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "Olf Orote",
+   "coalition": "blue",
+   "dynamic_spawn": true
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "North West Field",
+   "coalition": "blue",
+   "dynamic_spawn": false
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "Saipan Intl",
+   "coalition": "red",
+   "dynamic_spawn": true
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "Tinian Intl",
+   "coalition": "red",
+   "dynamic_spawn": true
+  }
+ },
+ {
+  "name": "set_airbase_coalition",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "name": "Pagan Airstrip",
+   "coalition": "red",
+   "dynamic_spawn": false
+  }
+ }
+]

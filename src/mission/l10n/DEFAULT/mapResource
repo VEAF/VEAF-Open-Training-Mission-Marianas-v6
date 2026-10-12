@@ -1,0 +1,11 @@
+mapResource = 
+{
+  ResKey_ImageBriefing_carte = "carte.jpg",
+  ResKey_ImageBriefing_carte_01_guam = "carte_01_guam.jpg",
+  ResKey_ImageBriefing_carte_02_detroit = "carte_02_detroit.jpg",
+  ResKey_ImageBriefing_carte_03_saipan = "carte_03_saipan.jpg",
+  ResKey_ImageBriefing_carte_04_nord = "carte_04_nord.jpg",
+  ResKey_ImageBriefing_carte_05_ouest = "carte_05_ouest.jpg",
+  ResKey_ImageBriefing_carte_06_est = "carte_06_est.jpg",
+  ResKey_ImageBriefing_carte_07_arene = "carte_07_arene.jpg",
+}

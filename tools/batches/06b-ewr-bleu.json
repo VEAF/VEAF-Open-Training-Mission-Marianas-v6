@@ -1,0 +1,4 @@
+[
+ {"name": "remove_group", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6", "group_name": "EWR Mont Santa Rosa"}},
+ {"name": "add_group", "params": {"mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6", "coalition": "blue", "country_id": 2, "country_name": "USA", "category": "vehicle", "name": "EWR Mont Santa Rosa", "position": {"x": 5517, "y": 12642}, "keep_position": true, "units": [{"type": "FPS-117 Dome", "name": "#veafInterpreter[\"-blue_ewr, hdg 0\"] #EWR-Mont-Santa-Rosa"}]}}
+]

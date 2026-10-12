@@ -1,0 +1,1586 @@
+{
+ "name": "VEAF_OpenTraining_Marianas_ICAO_PGUA",
+ "date": {
+  "Day": 15,
+  "Month": 3,
+  "Year": 2026
+ },
+ "start": 32400,
+ "bullseye": {
+  "x": 150790.0,
+  "y": 83347.0,
+  "ddm": "N14°51.214' E145°33.521'"
+ },
+ "bases": [
+  {
+   "name": "Andersen AFB",
+   "side": "blue",
+   "x": 10575,
+   "y": 14549,
+   "be": "206°/84 nm",
+   "ddm": "N13°34.902' E144°55.863'",
+   "uhf": 250.1,
+   "vhf": 126.2,
+   "fm": 38.6
+  },
+  {
+   "name": "Antonio B. Won Pat Intl",
+   "side": "blue",
+   "x": -24,
+   "y": -78,
+   "be": "209°/93 nm",
+   "ddm": "N13°29.087' E144°47.809'",
+   "uhf": 340.2,
+   "vhf": 118.1,
+   "fm": 38.55
+  },
+  {
+   "name": "Olf Orote",
+   "side": "blue",
+   "x": -5023,
+   "y": -16869,
+   "be": "213°/100 nm",
+   "ddm": "N13°26.292' E144°38.535'"
+  },
+  {
+   "name": "Saipan Intl",
+   "side": "red",
+   "x": 180035,
+   "y": 101856,
+   "be": "032°/19 nm",
+   "ddm": "N15°07.136' E145°43.748'",
+   "uhf": 256.9,
+   "vhf": 125.7,
+   "fm": 38.45
+  },
+  {
+   "name": "Tinian Intl",
+   "side": "red",
+   "x": 166860,
+   "y": 89957,
+   "be": "022°/9 nm",
+   "ddm": "N14°59.952' E145°37.151'",
+   "uhf": 250.05,
+   "vhf": 123.65,
+   "fm": 38.5
+  }
+ ],
+ "farps": [
+  {
+   "name": "Merizo",
+   "x": -23450.0,
+   "y": -12150.0,
+   "freq": "40",
+   "be": "209°/107 nm",
+   "ddm": "N13°16.327' E144°41.243'"
+  }
+ ],
+ "support": [
+  {
+   "name": "Texaco 1",
+   "side": "blue",
+   "type": "KC-135",
+   "kind": "tanker",
+   "tacan": "50Y",
+   "freq": 290.0,
+   "alt_ft": 22000.0,
+   "a": {
+    "x": 30000,
+    "y": -70000,
+    "ddm": "N13°44.966' E144°08.889'"
+   },
+   "b": {
+    "x": 90000.0,
+    "y": -70000.0,
+    "ddm": "N14°17.476' E144°08.487'"
+   },
+   "mid_be": "239°/96 nm",
+   "escort": true
+  },
+  {
+   "name": "Arco 1",
+   "side": "blue",
+   "type": "KC135MPRS",
+   "kind": "tanker",
+   "tacan": "51Y",
+   "freq": 291.0,
+   "alt_ft": 18000.0,
+   "a": {
+    "x": -30000,
+    "y": -50000,
+    "ddm": "N13°12.573' E144°20.337'"
+   },
+   "b": {
+    "x": 20000.0,
+    "y": -50000.0,
+    "ddm": "N13°39.670' E144°20.037'"
+   },
+   "mid_be": "221°/111 nm",
+   "escort": true
+  },
+  {
+   "name": "Magic 1",
+   "side": "blue",
+   "type": "E-3A",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 282.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": 60000,
+    "y": -130000,
+    "ddm": "N14°00.790' E143°35.402'"
+   },
+   "b": {
+    "x": 140000.0,
+    "y": -130000.0,
+    "ddm": "N14°44.113' E143°34.743'"
+   },
+   "mid_be": "257°/118 nm",
+   "escort": true
+  },
+  {
+   "name": "Texaco 2",
+   "side": "blue",
+   "type": "KC-135",
+   "kind": "tanker",
+   "tacan": "52Y",
+   "freq": 292.0,
+   "alt_ft": 24000.0,
+   "a": {
+    "x": 190000,
+    "y": 265000,
+    "ddm": "N15°12.747' E147°14.850'"
+   },
+   "b": {
+    "x": 250000.0,
+    "y": 265000.0,
+    "ddm": "N15°45.294' E147°14.889'"
+   },
+   "mid_be": "069°/105 nm",
+   "escort": true
+  },
+  {
+   "name": "Arco 2",
+   "side": "blue",
+   "type": "KC135MPRS",
+   "kind": "tanker",
+   "tacan": "53Y",
+   "freq": 293.0,
+   "alt_ft": 20000.0,
+   "a": {
+    "x": 70000.0,
+    "y": 135000.0,
+    "ddm": "N14°07.542' E146°02.512'"
+   },
+   "b": {
+    "x": 130000.0,
+    "y": 135000.0,
+    "ddm": "N14°40.088' E146°02.373'"
+   },
+   "mid_be": "135°/39 nm",
+   "escort": true
+  },
+  {
+   "name": "Overlord 1",
+   "side": "blue",
+   "type": "E-3A",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 283.0,
+   "alt_ft": 31000.0,
+   "a": {
+    "x": 120000,
+    "y": 295000,
+    "ddm": "N14°34.747' E147°31.517'"
+   },
+   "b": {
+    "x": 220000.0,
+    "y": 295000.0,
+    "ddm": "N15°28.992' E147°31.650'"
+   },
+   "mid_be": "085°/115 nm",
+   "escort": true
+  },
+  {
+   "name": "Darkstar 1",
+   "side": "blue",
+   "type": "E-3A",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 285.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": 130000,
+    "y": -430000,
+    "ddm": "N14°35.256' E140°48.298'"
+   },
+   "b": {
+    "x": 130000.0,
+    "y": -470000.0,
+    "ddm": "N14°34.649' E140°26.155'"
+   },
+   "mid_be": "268°/288 nm",
+   "escort": false
+  },
+  {
+   "name": "Shell 1",
+   "side": "red",
+   "type": "IL-78M",
+   "kind": "tanker",
+   "tacan": null,
+   "freq": 294.0,
+   "alt_ft": 20000.0,
+   "a": {
+    "x": 250000,
+    "y": 60000,
+    "ddm": "N15°44.921' E145°20.081'"
+   },
+   "b": {
+    "x": 300000.0,
+    "y": 40000.0,
+    "ddm": "N16°11.937' E145°08.634'"
+   },
+   "mid_be": "345°/69 nm",
+   "escort": true
+  },
+  {
+   "name": "Focus 1",
+   "side": "red",
+   "type": "A-50",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 286.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": 300000,
+    "y": -430000,
+    "ddm": "N16°06.928' E140°45.572'"
+   },
+   "b": {
+    "x": 300000.0,
+    "y": -470000.0,
+    "ddm": "N16°06.254' E140°23.270'"
+   },
+   "mid_be": "286°/299 nm",
+   "escort": false
+  },
+  {
+   "name": "Wizard 1",
+   "side": "red",
+   "type": "KJ-2000",
+   "kind": "awacs",
+   "tacan": null,
+   "freq": 284.0,
+   "alt_ft": 30000.0,
+   "a": {
+    "x": 330000,
+    "y": 60000,
+    "ddm": "N16°28.296' E145°19.718'"
+   },
+   "b": {
+    "x": 400000.0,
+    "y": 60000.0,
+    "ddm": "N17°06.246' E145°19.385'"
+   },
+   "mid_be": "354°/116 nm",
+   "escort": true
+  }
+ ],
+ "caps": [
+  {
+   "name": "CAP-Guam-F16",
+   "side": "blue",
+   "type": "F-16C bl.50",
+   "a": {
+    "x": 20000,
+    "y": 8000,
+    "ddm": "N13°39.981' E144°52.188'"
+   },
+   "b": {
+    "x": 40000.0,
+    "y": 22000.0,
+    "ddm": "N13°50.890' E144°59.858'"
+   },
+   "mid_be": "210°/75 nm",
+   "n": 2,
+   "fl": 220,
+   "menu": "CAP bleue F-16 (Fox 3) — nord de Guam — FL220",
+   "briefing": "Deux F-16C patrouillent au nord de Guam, entre North West Field et le détroit de Rota, au FL220. Emport : AIM-120C*4, AIM-9M*2, Fuel."
+  },
+  {
+   "name": "CAP-Tarawa-F15",
+   "side": "blue",
+   "type": "F-15C",
+   "a": {
+    "x": 70000.0,
+    "y": 100000.0,
+    "ddm": "N14°07.452' E145°43.059'"
+   },
+   "b": {
+    "x": 90000.0,
+    "y": 110000.0,
+    "ddm": "N14°18.328' E145°48.560'"
+   },
+   "mid_be": "163°/40 nm",
+   "n": 2,
+   "fl": 250,
+   "menu": "CAP bleue F-15 (Fox 3) — Tarawa — FL250",
+   "briefing": "Deux F-15C couvrent le groupe amphibie du Tarawa, à l'est de Rota, au FL250. Emport : AIM-9*4,AIM-120*4,Fuel."
+  },
+  {
+   "name": "CAP-Tinian-MiG29",
+   "side": "red",
+   "type": "MiG-29S",
+   "a": {
+    "x": 163000,
+    "y": 84000,
+    "ddm": "N14°57.838' E145°33.841'"
+   },
+   "b": {
+    "x": 176000.0,
+    "y": 96000.0,
+    "ddm": "N15°04.929' E145°40.492'"
+   },
+   "mid_be": "020°/11 nm",
+   "n": 2,
+   "fl": 220,
+   "menu": "CAP rouge MiG-29 (Fox 1) — Tinian — FL220",
+   "briefing": "Deux MiG-29S armés de R-27R et R-73 patrouillent au-dessus de Tinian et d'Aguijan, au FL220. Emport : R-73*4,R-27R*2."
+  },
+  {
+   "name": "CAP-Anatahan-MiG31",
+   "side": "red",
+   "type": "MiG-31",
+   "a": {
+    "x": 300000,
+    "y": 92000,
+    "ddm": "N16°12.159' E145°37.813'"
+   },
+   "b": {
+    "x": 345000.0,
+    "y": 92000.0,
+    "ddm": "N16°36.560' E145°37.642'"
+   },
+   "mid_be": "003°/93 nm",
+   "n": 2,
+   "fl": 400,
+   "menu": "CAP rouge MiG-31 (intercepteur haut et rapide) — Anatahan — FL400",
+   "briefing": "Deux MiG-31 patrouillent haut et vite entre Anatahan et Sarigan, au FL400. Emport : R-40R*2,R-33*4."
+  },
+  {
+   "name": "Raid-Saipan-Tu22",
+   "side": "red",
+   "type": "Tu-22M3",
+   "a": {
+    "x": 215000,
+    "y": 98000,
+    "ddm": "N15°26.086' E145°41.478'"
+   },
+   "b": {
+    "x": 245000.0,
+    "y": 98000.0,
+    "ddm": "N15°42.355' E145°41.375'"
+   },
+   "mid_be": "010°/43 nm",
+   "n": 2,
+   "fl": 250,
+   "menu": "Raid rouge Tu-22M3 à intercepter — nord de Saipan — FL250",
+   "briefing": "Deux Tu-22M3 chargés de bombes tournent au nord de Saipan, au FL250, prêts à frapper Guam : les intercepter. Emport : FAB-250*69."
+  },
+  {
+   "name": "CAP-Saipan-J11",
+   "side": "red",
+   "type": "J-11A",
+   "a": {
+    "x": 186000,
+    "y": 116000,
+    "ddm": "N15°10.413' E145°51.627'"
+   },
+   "b": {
+    "x": 204000.0,
+    "y": 118000.0,
+    "ddm": "N15°20.181' E145°52.692'"
+   },
+   "mid_be": "037°/30 nm",
+   "n": 2,
+   "fl": 250,
+   "menu": "CAP rouge J-11A (Fox 3) — Saipan — FL250",
+   "briefing": "Deux J-11A armés de R-77 et R-73 patrouillent à l'est de Saipan, au FL250."
+  }
+ ],
+ "carriers": [
+  {
+   "name": "CSG-74 Stennis",
+   "x": 40000.0,
+   "y": -110000.0,
+   "tacan": "74X STN",
+   "icls": 11,
+   "link4": 336.0,
+   "tower": 305.0,
+   "group": "CSG-74 Stennis",
+   "escorts": 2,
+   "ddm": "N13°50.109' E143°46.646'",
+   "be": "240°/120 nm",
+   "deck": [
+    {
+     "group": "Stennis F/A-18C #1",
+     "type": "FA-18C_hornet",
+     "n": 2
+    },
+    {
+     "group": "Stennis F/A-18C #2",
+     "type": "FA-18C_hornet",
+     "n": 2
+    },
+    {
+     "group": "Stennis F/A-18C #3",
+     "type": "FA-18C_hornet",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "name": "CSG-71 Roosevelt",
+   "x": 0.0,
+   "y": -135000.0,
+   "tacan": "71X RSV",
+   "icls": 12,
+   "link4": 337.0,
+   "tower": 306.0,
+   "group": "CSG-71 Roosevelt",
+   "escorts": 2,
+   "ddm": "N13°28.259' E143°33.105'",
+   "be": "235°/143 nm",
+   "deck": [
+    {
+     "group": "Roosevelt F/A-18C #1",
+     "type": "FA-18C_hornet",
+     "n": 2
+    },
+    {
+     "group": "Roosevelt F-14B #1",
+     "type": "F-14B",
+     "n": 2
+    },
+    {
+     "group": "Roosevelt F-14B #2",
+     "type": "F-14B",
+     "n": 2
+    }
+   ]
+  },
+  {
+   "name": "ARG-1 Tarawa",
+   "x": 60000.0,
+   "y": 110000.0,
+   "tacan": "73X TRW",
+   "icls": 13,
+   "tower": 307.0,
+   "group": "ARG-1 Tarawa",
+   "escorts": 1,
+   "ddm": "N14°02.056' E145°48.645'",
+   "be": "164°/51 nm",
+   "deck": [
+    {
+     "group": "Tarawa AV-8B #1",
+     "type": "AV8BNA",
+     "n": 2
+    },
+    {
+     "group": "Tarawa AV-8B #2",
+     "type": "AV8BNA",
+     "n": 2
+    }
+   ]
+  }
+ ],
+ "zones": [
+  {
+   "key": "combatZone_Talofofo_Easy",
+   "name": "H1 Hélico Talofofo — facile",
+   "training": true,
+   "menu": "Entraînement hélicoptères",
+   "x": -18500,
+   "y": -4000,
+   "radius_nm": 1.349892008639309,
+   "be": "207°/103 nm",
+   "ddm": "N13°19.051' E144°45.729'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 25 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 44 nm",
+   "briefing": "Champ de tir hélicoptères dans les collines de Talofofo, au sud-est de Guam, à 5 nm du FARP Merizo : cibles inertes (chars, blindés et camions immobiles, tir interdit)."
+  },
+  {
+   "key": "combatZone_Talofofo_Medium",
+   "name": "H2 Hélico Talofofo — moyen",
+   "training": true,
+   "menu": "Entraînement hélicoptères",
+   "x": -18500,
+   "y": -4000,
+   "radius_nm": 1.349892008639309,
+   "be": "207°/103 nm",
+   "ddm": "N13°19.051' E144°45.729'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 25 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 44 nm",
+   "briefing": "Champ de tir hélicoptères de Talofofo : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile."
+  },
+  {
+   "key": "combatZone_Talofofo_Hard",
+   "name": "H3 Hélico Talofofo — difficile",
+   "training": true,
+   "menu": "Entraînement hélicoptères",
+   "x": -18500,
+   "y": -4000,
+   "radius_nm": 1.349892008639309,
+   "be": "207°/103 nm",
+   "ddm": "N13°19.051' E144°45.729'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 25 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 44 nm",
+   "briefing": "Champ de tir hélicoptères de Talofofo, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge."
+  },
+  {
+   "key": "combatZone_NWF_Easy",
+   "name": "A1 Attaque North West Field — facile",
+   "training": true,
+   "menu": "Entraînement attaque",
+   "x": 15200,
+   "y": 5500,
+   "radius_nm": 1.349892008639309,
+   "be": "210°/84 nm",
+   "ddm": "N13°37.367' E144°50.825'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 30 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 42 nm",
+   "briefing": "Champ de tir air-sol de North West Field, à 5 nm à l'ouest d'Andersen : blindés et camions immobiles en tir interdit, dépôt de carburant et poste de commandement."
+  },
+  {
+   "key": "combatZone_NWF_Medium",
+   "name": "A2 Attaque North West Field — moyen",
+   "training": true,
+   "menu": "Entraînement attaque",
+   "x": 15200,
+   "y": 5500,
+   "radius_nm": 1.349892008639309,
+   "be": "210°/84 nm",
+   "ddm": "N13°37.367' E144°50.825'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 30 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 42 nm",
+   "briefing": "Champ de tir de North West Field : une compagnie blindée active et de l'artillerie antiaérienne légère en plus des cibles du niveau facile."
+  },
+  {
+   "key": "combatZone_NWF_Hard",
+   "name": "A3 Attaque North West Field — difficile",
+   "training": true,
+   "menu": "Entraînement attaque",
+   "x": 15200,
+   "y": 5500,
+   "radius_nm": 1.349892008639309,
+   "be": "210°/84 nm",
+   "ddm": "N13°37.367' E144°50.825'",
+   "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 30 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 42 nm",
+   "briefing": "Champ de tir de North West Field : un second groupe blindé et une défense courte portée à guidage infrarouge (SA-13 ou SA-9), avec un Shilka. Pas de radar à longue portée : Andersen est à 5 nm."
+  },
+  {
+   "key": "combatZone_Rota_Easy",
+   "name": "S1 SEAD Rota — facile",
+   "training": true,
+   "menu": "Entraînement SEAD",
+   "x": 73500,
+   "y": 44500,
+   "radius_nm": 1.6198704103671706,
+   "be": "207°/47 nm",
+   "ddm": "N14°09.152' E145°12.203'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 49 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 62 nm",
+   "briefing": "Site SEAD de Rota (île évacuée, plateau de Sabana) : une batterie sol-air moyenne portée, SA-6 ou SA-11 tirée au sort, avec son canon antiaérien de protection rapprochée."
+  },
+  {
+   "key": "combatZone_Rota_Medium",
+   "name": "S2 SEAD Rota — moyen",
+   "training": true,
+   "menu": "Entraînement SEAD",
+   "x": 73500,
+   "y": 44500,
+   "radius_nm": 1.6198704103671706,
+   "be": "207°/47 nm",
+   "ddm": "N14°09.152' E145°12.203'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 49 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 62 nm",
+   "briefing": "Site SEAD de Rota : la batterie moyenne portée est protégée par une défense courte portée (SA-15, SA-8)."
+  },
+  {
+   "key": "combatZone_Rota_Hard",
+   "name": "S3 SEAD Rota — difficile",
+   "training": true,
+   "menu": "Entraînement SEAD",
+   "x": 73500,
+   "y": 44500,
+   "radius_nm": 1.6198704103671706,
+   "be": "207°/47 nm",
+   "ddm": "N14°09.152' E145°12.203'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 49 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 62 nm",
+   "briefing": "Site SEAD de Rota en réseau Skynet : un radar d'alerte avancée guide les batteries, qui restent éteintes jusqu'au dernier moment."
+  },
+  {
+   "key": "combatZone_TinianEst",
+   "name": "Z01 Front — Tinian, plages de l'est",
+   "training": false,
+   "menu": "Front",
+   "x": 170000,
+   "y": 94500,
+   "radius_nm": 1.079913606911447,
+   "be": "030°/12 nm",
+   "ddm": "N15°01.670' E145°39.675'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 31 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 93 nm",
+   "briefing": "Le bataillon rouge qui tient la côte est de Tinian (Unai Dankulo) : blindés en position, infanterie et artillerie antiaérienne. Détruire les blindés ; défense de bataillon : artillerie antiaérienne, parfois des missiles courte portée à guidage infrarouge."
+  },
+  {
+   "key": "combatZone_ChalanKanoa",
+   "name": "Z02 Front — Saipan, plages de Chalan Kanoa",
+   "training": false,
+   "menu": "Front",
+   "x": 184800,
+   "y": 100200,
+   "radius_nm": 0.8099352051835853,
+   "be": "026°/20 nm",
+   "ddm": "N15°09.715' E145°42.808'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 35 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 89 nm",
+   "briefing": "La ligne de défense côtière des plages ouest de Saipan, devant Chalan Kanoa et Susupe : blindés enterrés, infanterie mécanisée, artillerie antiaérienne. Détruire les blindés ; défense légère (ZU-23, Shilka, lance-missiles portatifs)."
+  },
+  {
+   "key": "combatZone_Kagman",
+   "name": "Z03 Front — Saipan, artillerie de Kagman",
+   "training": false,
+   "menu": "Front",
+   "x": 185921,
+   "y": 106860,
+   "radius_nm": 0.8099352051835853,
+   "be": "034°/23 nm",
+   "ddm": "N15°10.343' E145°46.523'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 34 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 85 nm",
+   "briefing": "Le groupement d'artillerie rouge de la péninsule de Kagman, à l'est de Saipan, qui pilonne le détroit : obusiers PLZ-05 et lance-roquettes. Détruire les pièces ; défense SA-13 et artillerie antiaérienne."
+  },
+  {
+   "key": "combatZone_Guguan",
+   "name": "Z04 SEAD — Guguan",
+   "training": false,
+   "menu": "SEAD",
+   "x": 422349,
+   "y": 115380,
+   "radius_nm": 0.8099352051835853,
+   "be": "007°/148 nm",
+   "ddm": "N17°18.584' E145°50.535'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 158 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 123 nm",
+   "briefing": "Le site sol-air que la force rouge a installé sur le volcan de Guguan, entre Sarigan et Alamagan : une batterie moyenne portée (SA-11) et un SA-15, qui couvrent l'approche des îles du nord."
+  },
+  {
+   "key": "combatZone_Marpi",
+   "name": "Z05 SEAD — Saipan, Marpi",
+   "training": false,
+   "menu": "SEAD",
+   "x": 196300,
+   "y": 109000,
+   "radius_nm": 0.8099352051835853,
+   "be": "029°/28 nm",
+   "ddm": "N15°15.979' E145°47.686'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 38 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 84 nm",
+   "briefing": "Le site sol-air de la pointe nord de Saipan, à Marpi : une batterie moyenne portée tirée au sort (SA-6 ou HQ-7) et un SA-8, sous la couverture des défenses permanentes de Saipan."
+  },
+  {
+   "key": "combatZone_BeachRoad",
+   "name": "Z06 Convoi — Saipan, Beach Road",
+   "training": false,
+   "menu": "Convois",
+   "x": 194325,
+   "y": 106691,
+   "radius_nm": 0.5399568034557235,
+   "be": "028°/27 nm",
+   "ddm": "N15°14.901' E145°46.402'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 38 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 85 nm",
+   "briefing": "Un convoi logistique descend Beach Road, la route côtière ouest de Saipan, de San Roque vers Garapan et Susupe. L'arrêter avant le front ; il porte sa propre artillerie antiaérienne (ZU-23)."
+  },
+  {
+   "key": "combatZone_Broadway",
+   "name": "Z07 Convoi — Tinian, Broadway",
+   "training": false,
+   "menu": "Convois",
+   "x": 169107,
+   "y": 91800,
+   "radius_nm": 0.32397408207343414,
+   "be": "025°/11 nm",
+   "ddm": "N15°01.176' E145°38.172'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 31 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 94 nm",
+   "briefing": "Un convoi de carburant remonte Broadway, l'axe nord-sud de Tinian, du nord de l'aéroport vers North Field. Le détruire avant l'arrivée ; il porte sa propre artillerie antiaérienne."
+  },
+  {
+   "key": "combatZone_CrossIsland",
+   "name": "Z08 Convoi — Saipan, Cross Island Road",
+   "training": false,
+   "menu": "Convois",
+   "x": 193236,
+   "y": 104693,
+   "radius_nm": 0.5399568034557235,
+   "be": "027°/26 nm",
+   "ddm": "N15°14.304' E145°45.290'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 38 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 87 nm",
+   "briefing": "Des renforts traversent Saipan d'ouest en est, de Tanapag vers Kagman par Capitol Hill et Cross Island Road. Les arrêter ; le convoi est escorté par un SA-13."
+  },
+  {
+   "key": "combatZone_Anatahan",
+   "name": "Z09 Frappe — Anatahan, missiles côtiers",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 316600,
+   "y": 100300,
+   "radius_nm": 0.8099352051835853,
+   "be": "006°/90 nm",
+   "ddm": "N16°21.190' E145°42.412'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 102 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 96 nm",
+   "briefing": "La batterie de missiles antinavires côtiers (HY-2) installée sur Anatahan, qui interdit l'approche nord de l'archipel aux navires bleus. Détruire les lanceurs et leur radar ; défense SA-15 et Shilka."
+  },
+  {
+   "key": "combatZone_Garapan",
+   "name": "Z10 Frappe — Garapan, état-major",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 189793,
+   "y": 101024,
+   "radius_nm": 0.4319654427645788,
+   "be": "024°/23 nm",
+   "ddm": "N15°12.425' E145°43.251'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 37 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 89 nm",
+   "briefing": "L'état-major de la force rouge à Garapan, la ville principale de Saipan : centre de commandement, antennes et abris. Tout détruire ; défense SA-15, dans la couverture des défenses permanentes de Saipan."
+  },
+  {
+   "key": "combatZone_Sarigan",
+   "name": "Z11 Frappe — Sarigan, station d'écoute",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 355438,
+   "y": 108145,
+   "radius_nm": 0.6479481641468683,
+   "be": "007°/111 nm",
+   "ddm": "N16°42.277' E145°46.686'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 123 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 102 nm",
+   "briefing": "La station d'écoute et de relais radio de Sarigan, qui relaie les ordres vers les îles du nord. Détruire les antennes et le poste ; défense SA-8."
+  },
+  {
+   "key": "combatZone_Alamagan",
+   "name": "Z12 Frappe — Alamagan, dépôt avancé",
+   "training": false,
+   "menu": "Frappes en profondeur",
+   "x": 454467,
+   "y": 114609,
+   "radius_nm": 0.8099352051835853,
+   "be": "006°/165 nm",
+   "ddm": "N17°35.997' E145°49.989'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 176 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 137 nm",
+   "briefing": "Le dépôt avancé d'Alamagan, où la force rouge stocke le carburant et les munitions des îles du nord. Tout détruire ; défense HQ-7 et artillerie antiaérienne."
+  },
+  {
+   "key": "combatZone_NorthField",
+   "name": "Z13 OCA — Tinian, North Field",
+   "training": false,
+   "menu": "Bases aériennes",
+   "x": 174664,
+   "y": 92122,
+   "radius_nm": 1.079913606911447,
+   "be": "020°/14 nm",
+   "ddm": "N15°04.191' E145°38.332'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 33 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 94 nm",
+   "briefing": "North Field, l'ancienne base des B-29 au nord de Tinian, rouverte par la force rouge : chasseurs J-11A et bombardiers H-6J au parking. Les détruire au sol ; défense HQ-7 et Shilka."
+  },
+  {
+   "key": "combatZone_Pagan",
+   "name": "Z14 OCA — Pagan",
+   "training": false,
+   "menu": "Bases aériennes",
+   "x": 512410,
+   "y": 107565,
+   "radius_nm": 1.079913606911447,
+   "be": "004°/196 nm",
+   "ddm": "N18°07.389' E145°45.789'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 207 nm ; Texaco 2 (perche, TACAN 52Y, 292.0) à 165 nm",
+   "briefing": "La piste de Pagan, base arrière de la force rouge à l'extrême nord : J-11A et hélicoptères au parking. Les détruire au sol ; elle est sous la défense permanente de Pagan (SA-10, HQ-7)."
+  },
+  {
+   "key": "combatZone_Amphibie",
+   "name": "Z15 Antinavire — groupe amphibie de Tinian",
+   "training": false,
+   "menu": "Antinavire",
+   "x": 160500,
+   "y": 79000,
+   "radius_nm": 1.6198704103671706,
+   "be": "336°/6 nm",
+   "ddm": "N14°56.464' E145°31.062'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 34 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 89 nm",
+   "briefing": "Le groupe amphibie rouge mouillé au sud-ouest de Tinian, prêt à débarquer sur Rota : deux bâtiments de débarquement et une frégate Type 054A. Les couler ; la frégate porte une défense sol-air moyenne portée."
+  },
+  {
+   "key": "combatZone_Escadre",
+   "name": "Z16 Antinavire — escadre de surface",
+   "training": false,
+   "menu": "Antinavire",
+   "x": 330000,
+   "y": 20000,
+   "radius_nm": 2.699784017278618,
+   "be": "341°/103 nm",
+   "ddm": "N16°28.096' E144°57.245'",
+   "tankers": "Arco 2 (panier, TACAN 53Y, 293.0) à 125 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 138 nm",
+   "briefing": "L'escadre de surface rouge en patrouille à l'ouest d'Anatahan : un destroyer Type 052C, un Type 052B et une frégate Type 054A. Les couler ; le Type 052C porte une défense sol-air de longue portée, à attaquer hors de son enveloppe."
+  }
+ ],
+ "qra": [
+  {
+   "name": "QRA Saipan",
+   "side": "red",
+   "x": 173000,
+   "y": 96000,
+   "radius_nm": 25,
+   "airport": "Saipan Intl",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × MiG-29S",
+      "2 × J-11A"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "2 × Su-30",
+      "4 × Su-27"
+     ]
+    }
+   ],
+   "ddm": "N15°03.302' E145°40.502'",
+   "be": "030°/14 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Pagan",
+   "side": "red",
+   "x": 512410,
+   "y": 107565,
+   "radius_nm": 30,
+   "airport": "Pagan Airstrip",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × MiG-29S",
+      "2 × J-11A"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "2 × MiG-31",
+      "2 × Su-30"
+     ]
+    }
+   ],
+   "ddm": "N18°07.389' E145°45.789'",
+   "be": "004°/196 nm",
+   "delay": 90,
+   "helos": false
+  },
+  {
+   "name": "QRA Guam",
+   "side": "blue",
+   "x": 5000,
+   "y": 2000,
+   "radius_nm": 30,
+   "airport": "Andersen AFB",
+   "tiers": [
+    {
+     "n": 1,
+     "pick": 1,
+     "types": [
+      "2 × F-16C bl.50",
+      "2 × F-15C"
+     ]
+    },
+    {
+     "n": 3,
+     "pick": 1,
+     "types": [
+      "4 × F-15C",
+      "2 × F-14A"
+     ]
+    }
+   ],
+   "ddm": "N13°31.820' E144°48.936'",
+   "be": "209°/90 nm",
+   "delay": 90,
+   "helos": false
+  }
+ ],
+ "sanctuaries": [
+  {
+   "name": "Sanctuaire Guam",
+   "side": "blue",
+   "x": -5000,
+   "y": 0,
+   "radius_nm": 17.818574514038875,
+   "radius_km": 33.0
+  },
+  {
+   "name": "Sanctuaire Rota",
+   "side": "blue",
+   "x": 73500,
+   "y": 44500,
+   "radius_nm": 6.479481641468682,
+   "radius_km": 12.0
+  },
+  {
+   "name": "Sanctuaire Saipan",
+   "side": "red",
+   "x": 180035,
+   "y": 101856,
+   "radius_nm": 1.349892008639309,
+   "radius_km": 2.5
+  },
+  {
+   "name": "Sanctuaire Tinian",
+   "side": "red",
+   "x": 166860,
+   "y": 89957,
+   "radius_nm": 1.349892008639309,
+   "radius_km": 2.5
+  }
+ ],
+ "front": [
+  [
+   {
+    "x": 96118.0,
+    "y": 123598.0
+   },
+   {
+    "x": 145882.0,
+    "y": 14402.0
+   }
+  ]
+ ],
+ "arena_zone": {
+  "x": 215000.0,
+  "y": -450000.0,
+  "radius_nm": 40,
+  "be": "277°/290 nm",
+  "ddm": "N15°20.779' E140°35.861'"
+ },
+ "ad": [
+  {
+   "name": "Andersen Patriot",
+   "side": "blue",
+   "alias": "-patriot",
+   "x": 9300,
+   "y": 12600,
+   "ddm": "N13°34.202' E144°54.789'",
+   "be": "207°/85 nm"
+  },
+  {
+   "name": "Andersen Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": 12300,
+   "y": 17000,
+   "ddm": "N13°35.849' E144°57.214'",
+   "be": "206°/83 nm"
+  },
+  {
+   "name": "Andersen Avenger 1",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": 10000.0,
+   "y": 15950.0,
+   "ddm": "N13°34.597' E144°56.642'",
+   "be": "206°/84 nm"
+  },
+  {
+   "name": "Andersen Avenger 2",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": 11279.0,
+   "y": 12467.0,
+   "ddm": "N13°35.274' E144°54.706'",
+   "be": "207°/84 nm"
+  },
+  {
+   "name": "Won Pat Hawk",
+   "side": "blue",
+   "alias": "-hawk",
+   "x": 1800,
+   "y": 1900,
+   "ddm": "N13°30.085' E144°48.896'",
+   "be": "209°/92 nm"
+  },
+  {
+   "name": "Won Pat Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -1200,
+   "y": -1300,
+   "ddm": "N13°28.443' E144°47.138'",
+   "be": "209°/94 nm"
+  },
+  {
+   "name": "Orote NASAMS",
+   "side": "blue",
+   "alias": "-nasams",
+   "x": -4624,
+   "y": -15835,
+   "ddm": "N13°26.514' E144°39.105'",
+   "be": "213°/100 nm"
+  },
+  {
+   "name": "Orote Avenger",
+   "side": "blue",
+   "alias": "-avenger_squad",
+   "x": -5114.0,
+   "y": -17850.0,
+   "ddm": "N13°26.238' E144°37.992'",
+   "be": "213°/100 nm"
+  },
+  {
+   "name": "Merizo Stinger",
+   "side": "blue",
+   "alias": "-stinger",
+   "x": -23355.0,
+   "y": -12200.0,
+   "ddm": "N13°16.378' E144°41.215'",
+   "be": "209°/107 nm"
+  },
+  {
+   "name": "EWR Mont Santa Rosa",
+   "side": "blue",
+   "alias": "-blue_ewr",
+   "x": 5517,
+   "y": 12642,
+   "ddm": "N13°32.151' E144°54.830'",
+   "be": "206°/87 nm"
+  },
+  {
+   "name": "Saipan SA-11",
+   "side": "red",
+   "alias": "-sa11",
+   "x": 183396.0,
+   "y": 103325.0,
+   "ddm": "N15°08.963' E145°44.557'",
+   "be": "031°/21 nm"
+  },
+  {
+   "name": "Saipan SA-15 sud",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 179203.0,
+   "y": 102874.0,
+   "ddm": "N15°06.688' E145°44.319'",
+   "be": "034°/19 nm"
+  },
+  {
+   "name": "Saipan SA-15 nord",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 190475.0,
+   "y": 104300.0,
+   "ddm": "N15°12.805' E145°45.079'",
+   "be": "028°/24 nm"
+  },
+  {
+   "name": "EWR Mont Tapochau",
+   "side": "red",
+   "alias": "-ewr",
+   "x": 187468,
+   "y": 103469,
+   "ddm": "N15°11.172' E145°44.624'",
+   "be": "029°/23 nm"
+  },
+  {
+   "name": "Tinian SA-11",
+   "side": "red",
+   "alias": "-sa11",
+   "x": 169161.0,
+   "y": 91790.0,
+   "ddm": "N15°01.206' E145°38.166'",
+   "be": "025°/11 nm"
+  },
+  {
+   "name": "Tinian SA-15",
+   "side": "red",
+   "alias": "-sa15",
+   "x": 165600,
+   "y": 89300,
+   "ddm": "N14°59.266' E145°36.789'",
+   "be": "022°/9 nm"
+  },
+  {
+   "name": "Pagan SA-10",
+   "side": "red",
+   "alias": "-sa10",
+   "x": 514800,
+   "y": 108500,
+   "ddm": "N18°08.688' E145°46.310'",
+   "be": "004°/197 nm"
+  },
+  {
+   "name": "EWR Anatahan",
+   "side": "red",
+   "alias": "-ewr",
+   "x": 316360,
+   "y": 97326,
+   "ddm": "N16°21.049' E145°40.743'",
+   "be": "005°/90 nm"
+  },
+  {
+   "name": "Saipan HQ-7",
+   "side": "red",
+   "alias": "-hq7",
+   "x": 180975.0,
+   "y": 100743.0,
+   "ddm": "N15°07.642' E145°43.123'",
+   "be": "030°/19 nm"
+  },
+  {
+   "name": "Pagan HQ-7",
+   "side": "red",
+   "alias": "-hq7",
+   "x": 511400,
+   "y": 107173,
+   "ddm": "N18°06.840' E145°45.571'",
+   "be": "004°/195 nm"
+  }
+ ],
+ "drones": [
+  {
+   "name": "Reaper 1",
+   "type": "MQ-9 Reaper",
+   "where": "North West Field",
+   "jtac": 1511,
+   "freq": "35.55",
+   "mod": "FM",
+   "be": "210°/84 nm",
+   "ddm": "N13°37.520' E144°51.504'"
+  },
+  {
+   "name": "Reaper 2",
+   "type": "MQ-9 Reaper",
+   "where": "Talofofo",
+   "jtac": 1512,
+   "freq": "35.6",
+   "mod": "FM",
+   "be": "207°/103 nm",
+   "ddm": "N13°19.051' E144°45.729'"
+  }
+ ],
+ "arena_slots": [
+  {
+   "group": "Arène bleue F/A-18C Fox 1 #1",
+   "side": "blue",
+   "type": "FA-18C_hornet",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue F/A-18C Fox 1 #2",
+   "side": "blue",
+   "type": "FA-18C_hornet",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue F-16C Fox 3 #1",
+   "side": "blue",
+   "type": "F-16C_50",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène bleue F-16C Fox 3 #2",
+   "side": "blue",
+   "type": "F-16C_50",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge Su-27 Fox 1 #1",
+   "side": "red",
+   "type": "Su-27",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge Su-27 Fox 1 #2",
+   "side": "red",
+   "type": "Su-27",
+   "n": 2,
+   "fox": "Fox 1",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge J-11A Fox 3 #1",
+   "side": "red",
+   "type": "J-11A",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  },
+  {
+   "group": "Arène rouge J-11A Fox 3 #2",
+   "side": "red",
+   "type": "J-11A",
+   "n": 2,
+   "fox": "Fox 3",
+   "fl": 250
+  }
+ ],
+ "radio": {
+  "blue": {
+   "primary_1": {
+    "1": "Guard",
+    "2": "Magic-1",
+    "3": "Overlord-1",
+    "4": "Texaco-1",
+    "5": "Arco-1",
+    "6": "Texaco-2",
+    "7": "Arco-2",
+    "8": "Stennis",
+    "9": "Roosevelt",
+    "10": "Tarawa",
+    "11": "Base-Andersen AFB",
+    "12": "Base-Antonio B. Won Pat Intl",
+    "13": "S3B-Stennis",
+    "14": "S3B-Roosevelt",
+    "15": "Darkstar-1"
+   },
+   "primary_2": {
+    "1": "Guard",
+    "2": "Archer",
+    "3": "Arctic",
+    "4": "Astro",
+    "5": "Nickel",
+    "6": "Nitro",
+    "7": "Ninja",
+    "8": "Pinder",
+    "9": "Bengal",
+    "10": "Blade",
+    "11": "Gordon",
+    "12": "Base-Andersen AFB",
+    "13": "Base-Antonio B. Won Pat Intl"
+   }
+  },
+  "red": {
+   "primary_1": {
+    "1": "Guard",
+    "2": "Wizard-1",
+    "3": "Shell-1",
+    "4": "Focus-1",
+    "5": "Base-Saipan Intl",
+    "6": "Base-Tinian Intl"
+   },
+   "primary_2": {
+    "1": "Guard",
+    "2": "Berkut",
+    "3": "Sokol",
+    "4": "Strizh",
+    "5": "Orel",
+    "6": "Yastreb",
+    "7": "Grach",
+    "8": "Base-Saipan Intl",
+    "9": "Base-Tinian Intl"
+   }
+  }
+ },
+ "channels": {
+  "Guard": {
+   "uhf": 243,
+   "vhf": 121.5
+  },
+  "Magic-1": {
+   "uhf": 282.0
+  },
+  "Overlord-1": {
+   "uhf": 283.0
+  },
+  "Wizard-1": {
+   "uhf": 284.0
+  },
+  "Darkstar-1": {
+   "uhf": 285.0
+  },
+  "Focus-1": {
+   "uhf": 286.0
+  },
+  "Texaco-1": {
+   "uhf": 290.0
+  },
+  "Arco-1": {
+   "uhf": 291.0
+  },
+  "Texaco-2": {
+   "uhf": 292.0
+  },
+  "Arco-2": {
+   "uhf": 293.0
+  },
+  "Shell-1": {
+   "uhf": 294.0
+  },
+  "S3B-Stennis": {
+   "uhf": 295.0
+  },
+  "S3B-Roosevelt": {
+   "uhf": 296.0
+  },
+  "Stennis": {
+   "uhf": 305.0
+  },
+  "Roosevelt": {
+   "uhf": 306.0
+  },
+  "Tarawa": {
+   "uhf": 307.0
+  },
+  "FARP-Merizo": {
+   "fm": 40.0
+  },
+  "Archer": {
+   "vhf": 135.0,
+   "uhf": 390.0
+  },
+  "Arctic": {
+   "vhf": 135.1,
+   "uhf": 390.1
+  },
+  "Astro": {
+   "vhf": 135.2,
+   "uhf": 390.2
+  },
+  "Nickel": {
+   "vhf": 135.3,
+   "uhf": 390.3
+  },
+  "Nitro": {
+   "vhf": 135.4,
+   "uhf": 390.4
+  },
+  "Ninja": {
+   "vhf": 135.5,
+   "uhf": 390.5
+  },
+  "Pinder": {
+   "vhf": 135.6,
+   "uhf": 390.6
+  },
+  "Bengal": {
+   "vhf": 135.7,
+   "uhf": 390.7
+  },
+  "Blade": {
+   "vhf": 135.8,
+   "uhf": 390.8
+  },
+  "Gordon": {
+   "vhf": 135.9,
+   "uhf": 390.9
+  },
+  "Berkut": {
+   "vhf": 136.0,
+   "uhf": 395.0
+  },
+  "Sokol": {
+   "vhf": 136.1,
+   "uhf": 395.1
+  },
+  "Strizh": {
+   "vhf": 136.2,
+   "uhf": 395.2
+  },
+  "Orel": {
+   "vhf": 136.3,
+   "uhf": 395.3
+  },
+  "Yastreb": {
+   "vhf": 136.4,
+   "uhf": 395.4
+  },
+  "Grach": {
+   "vhf": 136.5,
+   "uhf": 395.5
+  },
+  "Base-Andersen AFB": {
+   "uhf": 250.1,
+   "vhf": 126.2,
+   "fm": 38.6
+  },
+  "Base-Antonio B. Won Pat Intl": {
+   "uhf": 340.2,
+   "vhf": 118.1,
+   "fm": 38.55
+  },
+  "Base-Saipan Intl": {
+   "uhf": 256.9,
+   "vhf": 125.7,
+   "fm": 38.45
+  },
+  "Base-Tinian Intl": {
+   "uhf": 250.05,
+   "vhf": 123.65,
+   "fm": 38.5
+  }
+ },
+ "titles": {
+  "Guard": "Guard",
+  "Magic-1": "Magic 1 AWACS ouest",
+  "Overlord-1": "Overlord 1 AWACS est",
+  "Wizard-1": "Wizard 1 AWACS",
+  "Darkstar-1": "Darkstar 1 Arène",
+  "Focus-1": "Focus 1 Arène",
+  "Texaco-1": "Texaco 1/BS/50Y",
+  "Arco-1": "Arco 1/BM/51Y",
+  "Texaco-2": "Texaco 2/BS/52Y",
+  "Arco-2": "Arco 2/BM/53Y",
+  "Shell-1": "Shell 1 IL-78",
+  "S3B-Stennis": "Shell 5 S-3B/55Y",
+  "S3B-Roosevelt": "Shell 6 S-3B/56Y",
+  "Stennis": "Stennis/74X/ICLS11",
+  "Roosevelt": "Roosevelt/71X/ICLS12",
+  "Tarawa": "Tarawa/73X/ICLS13",
+  "FARP-Merizo": "FARP Merizo",
+  "Archer": "Archer",
+  "Arctic": "Arctic",
+  "Astro": "Astro",
+  "Nickel": "Nickel",
+  "Nitro": "Nitro",
+  "Ninja": "Ninja",
+  "Pinder": "Pinder",
+  "Bengal": "Bengal",
+  "Blade": "Blade",
+  "Gordon": "Gordon",
+  "Berkut": "Berkut",
+  "Sokol": "Sokol",
+  "Strizh": "Strizh",
+  "Orel": "Orel",
+  "Yastreb": "Yastreb",
+  "Grach": "Grach",
+  "Base-Andersen AFB": "Andersen AFB / 54X",
+  "Base-Antonio B. Won Pat Intl": "Antonio B. Won Pat Intl",
+  "Base-Saipan Intl": "Saipan Intl",
+  "Base-Tinian Intl": "Tinian Intl"
+ },
+ "versions": [
+  {
+   "name": "night-real",
+   "time": "02:00",
+   "kind": "réelle (PGUA)",
+   "metar": null
+  },
+  {
+   "name": "dawn-real",
+   "time": "sunrise-15*60",
+   "kind": "réelle (PGUA)",
+   "metar": null
+  },
+  {
+   "name": "dawn-real-clear",
+   "time": "sunrise-15*60",
+   "kind": "réelle (PGUA), plafonnée VFR",
+   "metar": null
+  },
+  {
+   "name": "dawn-scattered",
+   "time": "sunrise-15*60",
+   "kind": "manuelle",
+   "metar": null
+  },
+  {
+   "name": "dawn-rain",
+   "time": "sunrise-15*60",
+   "kind": "manuelle",
+   "metar": null
+  },
+  {
+   "name": "morning-real",
+   "time": "sunrise+60*60",
+   "kind": "réelle (PGUA)",
+   "metar": null
+  },
+  {
+   "name": "morning-real-clear",
+   "time": "sunrise+60*60",
+   "kind": "réelle (PGUA), plafonnée VFR",
+   "metar": null
+  },
+  {
+   "name": "morning-scattered",
+   "time": "sunrise+60*60",
+   "kind": "manuelle",
+   "metar": null
+  },
+  {
+   "name": "morning-rain",
+   "time": "sunrise+60*60",
+   "kind": "manuelle",
+   "metar": null
+  },
+  {
+   "name": "day-real",
+   "time": "13:00",
+   "kind": "réelle (PGUA)",
+   "metar": null
+  },
+  {
+   "name": "day-real-clear",
+   "time": "13:00",
+   "kind": "réelle (PGUA), plafonnée VFR",
+   "metar": null
+  },
+  {
+   "name": "day-scattered",
+   "time": "13:00",
+   "kind": "manuelle",
+   "metar": null
+  },
+  {
+   "name": "day-rain",
+   "time": "13:00",
+   "kind": "manuelle",
+   "metar": null
+  },
+  {
+   "name": "evening-real",
+   "time": "sunset-45*60",
+   "kind": "réelle (PGUA)",
+   "metar": null
+  },
+  {
+   "name": "evening-real-clear",
+   "time": "sunset-45*60",
+   "kind": "réelle (PGUA), plafonnée VFR",
+   "metar": null
+  },
+  {
+   "name": "evening-scattered",
+   "time": "sunset-45*60",
+   "kind": "manuelle",
+   "metar": null
+  }
+ ],
+ "combat_missions": [
+  {
+   "name": "Défense — raid sur Andersen",
+   "briefing": "Deux Su-30 armés de missiles antiradar ouvrent la route à deux Tu-22M3 escortés de J-11A, partis de Tinian vers Andersen. Abattez les bombardiers avant le largage. Échec si la base est bombardée (constaté par vous : la mission ne le vérifie pas)."
+  },
+  {
+   "name": "Interception — transport VIP de Saipan à Pagan",
+   "briefing": "Un IL-76 emmène l'état-major de la force rouge de Saipan vers Pagan, escorté par deux J-11A. Interceptez-le avant Pagan : la fin de la route est sous le SA-10 de Pagan."
+  },
+  {
+   "name": "Protection — raid de J-11A sur Overlord 1",
+   "briefing": "Quatre J-11A arrivent de la mer, au nord-est de Saipan, pour abattre l'AWACS Overlord 1 sur son orbite, à l'est de Saipan. Interceptez-les avant qu'ils ne l'atteignent ; son escorte de F-15C ne suffira pas."
+  }
+ ]
+}

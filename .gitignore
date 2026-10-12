@@ -1,0 +1,24 @@
+# VEAF Mission Creation Tools — generated/downloaded files (never commit these)
+
+# VEAF tools executables (downloaded by the updater)
+/veaf*.exe
+
+# Published VEAF scripts (downloaded by the build pipeline)
+/published/
+
+# Build output — generated .miz files and weather variants
+# (the mission is built from src/; force-add a base .miz with `git add -f` if you commit one)
+*.miz
+/missions/
+*.miz.bak
+
+# Backups the mission-editing tools (MCP) take before every write, and the presets report of each build
+/.veaf-backups/
+/presets-validation-report.md
+
+# OS / editor noise
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
