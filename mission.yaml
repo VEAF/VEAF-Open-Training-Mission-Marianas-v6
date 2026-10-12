@@ -512,7 +512,7 @@ modules:
         delay_instant: 60
         protect_from_missiles: true
 pipeline:
-  weather: true                 # toutes les variantes de src/versions.yaml (serveur)
+  weather: false                # pas de variantes météo : le serveur VEAF fixe météo et heure (David, 12/10/2026)
 
 # ── Profils de build ─────────────────────────────────────────────────────────
 # Par défaut = serveur VEAF : sécurité active, logs info, toutes les variantes météo.
