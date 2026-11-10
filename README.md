@@ -335,7 +335,7 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 | Radio 2 (V/UHF) | `8` | Saipan Intl | `125.7` |
 | Radio 2 (V/UHF) | `9` | Tinian Intl | `123.65` |
 
-Préréglages injectés dans les appareils à radio programmable. FM : canaux 1 à 30 = 30 à 59 MHz. Les canaux VEAF sont hors de la bande des tours des Mariannes (UHF 250.0-256.9 et 340.2, VHF 118.1-126.2). Le FARP Merizo est le canal FM 11 (40.0).
+Préréglages injectés dans les appareils à radio programmable. FM : canaux 1 à 20 = 30 à 49 MHz. Les canaux VEAF sont hors de la bande des tours des Mariannes (UHF 250.0-256.9 et 340.2, VHF 118.1-126.2). Le FARP Merizo est le canal FM 11 (40.0).
 
 ## Météo et heures
 

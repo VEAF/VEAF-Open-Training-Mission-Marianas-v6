@@ -41,7 +41,7 @@ def numbered(items):
 
 def fm_list(farp=None):
     out = {}
-    for i, mhz in enumerate(range(30, 60), 1):
+    for i, mhz in enumerate(range(30, 50), 1):  # 20 au plus : la FM du Kiowa (OH58D) plante au-delà de 21 slots
         out[i] = farp if (farp and mhz == 40) else mhz
     return out
 
