@@ -6,39 +6,29 @@
 channel_lists:
   blue:
     primary_1:
-      1: &id001
-        title: Guard/UHF
-        channel: Guard
-      2: Magic-1
-      3: Overlord-1
-      4: Texaco-1
-      5: Arco-1
-      6: Texaco-2
-      7: Arco-2
-      8: Stennis
-      9: Roosevelt
-      10: Tarawa
-      11: Base-Andersen AFB
-      12: Base-Antonio B. Won Pat Intl
-      13: S3B-Stennis
-      14: S3B-Roosevelt
-      15: Darkstar-1
+      1: Magic-1
+      2: Overlord-1
+      3: Texaco-1
+      4: Arco-1
+      5: Texaco-2
+      6: Arco-2
+      7: S3B-Stennis
+      8: S3B-Roosevelt
+      9: Stennis
+      10: Roosevelt
+      11: Tarawa
+      12: Archer
+      13: Arctic
+      14: Astro
+      15: Nickel
+      16: Nitro
+      17: Ninja
+      18: Pinder
+      19: Bengal
+      20: Blade
     primary_2:
-      1: &id002
-        title: Guard/VHF
-        channel: Guard
-      2: Archer
-      3: Arctic
-      4: Astro
-      5: Nickel
-      6: Nitro
-      7: Ninja
-      8: Pinder
-      9: Bengal
-      10: Blade
-      11: Gordon
-      12: Base-Andersen AFB
-      13: Base-Antonio B. Won Pat Intl
+      1: Base-Andersen AFB
+      2: Base-Antonio B. Won Pat Intl
     fm_supplement:
       1: 30
       2: 31
@@ -62,22 +52,17 @@ channel_lists:
       20: 49
   red:
     primary_1:
-      1: *id001
-      2: Wizard-1
-      3: Shell-1
-      4: Focus-1
-      5: Base-Saipan Intl
-      6: Base-Tinian Intl
+      1: Wizard-1
+      2: Shell-1
+      3: Berkut
+      4: Sokol
+      5: Strizh
+      6: Orel
+      7: Yastreb
+      8: Grach
     primary_2:
-      1: *id002
-      2: Berkut
-      3: Sokol
-      4: Strizh
-      5: Orel
-      6: Yastreb
-      7: Grach
-      8: Base-Saipan Intl
-      9: Base-Tinian Intl
+      1: Base-Saipan Intl
+      2: Base-Tinian Intl
     fm_supplement:
       1: 30
       2: 31

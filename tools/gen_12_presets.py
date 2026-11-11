@@ -46,22 +46,22 @@ def fm_list(farp=None):
     return out
 
 
-guard_uhf = {"title": "Guard/UHF", "channel": "Guard"}
-guard_vhf = {"title": "Guard/VHF", "channel": "Guard"}
+# Convention du gabarit VMCT (FIX-OT-RADIO-PLAN-CONVENTION, 11/11/2026) : UHF = AWACS et ravitailleurs, puis
+# porte-avions, puis patrouilles ; VHF = aérodromes et FARP. Ni Guard, ni drones, ni AWACS de l'arène.
 blue_bases = ["Base-" + b for b in BLUE_BASES]
 red_bases = ["Base-" + b for b in RED_BASES]
 doc = {
     "channel_lists": {
         "blue": {
-            "primary_1": numbered([guard_uhf, "Magic-1", "Overlord-1", "Texaco-1", "Arco-1", "Texaco-2", "Arco-2",
-                                   "Stennis", "Roosevelt", "Tarawa", *blue_bases, "S3B-Stennis", "S3B-Roosevelt",
-                                   "Darkstar-1"]),
-            "primary_2": numbered([guard_vhf, *BLUE_FLIGHTS, *blue_bases]),
+            "primary_1": numbered(["Magic-1", "Overlord-1", "Texaco-1", "Arco-1", "Texaco-2", "Arco-2",
+                                   "S3B-Stennis", "S3B-Roosevelt", "Stennis", "Roosevelt", "Tarawa",
+                                   *BLUE_FLIGHTS[:-1]]),  # Gordon : plus de place, une radio tient 20 canaux
+            "primary_2": numbered(blue_bases),
             "fm_supplement": fm_list("FARP-Merizo"),
         },
         "red": {
-            "primary_1": numbered([guard_uhf, "Wizard-1", "Shell-1", "Focus-1", *red_bases]),
-            "primary_2": numbered([guard_vhf, *RED_FLIGHTS, *red_bases]),
+            "primary_1": numbered(["Wizard-1", "Shell-1", *RED_FLIGHTS]),
+            "primary_2": numbered(red_bases),
             "fm_supplement": fm_list(),
         },
     },

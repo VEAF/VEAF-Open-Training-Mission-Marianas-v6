@@ -286,54 +286,43 @@ Défense permanente des deux camps : courte et moyenne portée sur chaque base a
 
 | Radio | Canal | Nom | MHz |
 |---|---|---|---|
-| Radio 1 (UHF) | `1` | Guard | `243` |
-| Radio 1 (UHF) | `2` | Magic 1 AWACS ouest | `282.0` |
-| Radio 1 (UHF) | `3` | Overlord 1 AWACS est | `283.0` |
-| Radio 1 (UHF) | `4` | Texaco 1/BS/50Y | `290.0` |
-| Radio 1 (UHF) | `5` | Arco 1/BM/51Y | `291.0` |
-| Radio 1 (UHF) | `6` | Texaco 2/BS/52Y | `292.0` |
-| Radio 1 (UHF) | `7` | Arco 2/BM/53Y | `293.0` |
-| Radio 1 (UHF) | `8` | Stennis/74X/ICLS11 | `305.0` |
-| Radio 1 (UHF) | `9` | Roosevelt/71X/ICLS12 | `306.0` |
-| Radio 1 (UHF) | `10` | Tarawa/73X/ICLS13 | `307.0` |
-| Radio 1 (UHF) | `11` | Andersen AFB / 54X | `250.1` |
-| Radio 1 (UHF) | `12` | Antonio B. Won Pat Intl | `340.2` |
-| Radio 1 (UHF) | `13` | Shell 5 S-3B/55Y | `295.0` |
-| Radio 1 (UHF) | `14` | Shell 6 S-3B/56Y | `296.0` |
-| Radio 1 (UHF) | `15` | Darkstar 1 Arène | `285.0` |
-| Radio 2 (V/UHF) | `1` | Guard | `121.5` |
-| Radio 2 (V/UHF) | `2` | Archer | `135.0` |
-| Radio 2 (V/UHF) | `3` | Arctic | `135.1` |
-| Radio 2 (V/UHF) | `4` | Astro | `135.2` |
-| Radio 2 (V/UHF) | `5` | Nickel | `135.3` |
-| Radio 2 (V/UHF) | `6` | Nitro | `135.4` |
-| Radio 2 (V/UHF) | `7` | Ninja | `135.5` |
-| Radio 2 (V/UHF) | `8` | Pinder | `135.6` |
-| Radio 2 (V/UHF) | `9` | Bengal | `135.7` |
-| Radio 2 (V/UHF) | `10` | Blade | `135.8` |
-| Radio 2 (V/UHF) | `11` | Gordon | `135.9` |
-| Radio 2 (V/UHF) | `12` | Andersen AFB / 54X | `126.2` |
-| Radio 2 (V/UHF) | `13` | Antonio B. Won Pat Intl | `118.1` |
+| Radio 1 (UHF) | `1` | Magic 1 AWACS ouest | `282.0` |
+| Radio 1 (UHF) | `2` | Overlord 1 AWACS est | `283.0` |
+| Radio 1 (UHF) | `3` | Texaco 1/BS/50Y | `290.0` |
+| Radio 1 (UHF) | `4` | Arco 1/BM/51Y | `291.0` |
+| Radio 1 (UHF) | `5` | Texaco 2/BS/52Y | `292.0` |
+| Radio 1 (UHF) | `6` | Arco 2/BM/53Y | `293.0` |
+| Radio 1 (UHF) | `7` | Shell 5 S-3B/55Y | `295.0` |
+| Radio 1 (UHF) | `8` | Shell 6 S-3B/56Y | `296.0` |
+| Radio 1 (UHF) | `9` | Stennis/74X/ICLS11 | `305.0` |
+| Radio 1 (UHF) | `10` | Roosevelt/71X/ICLS12 | `306.0` |
+| Radio 1 (UHF) | `11` | Tarawa/73X/ICLS13 | `307.0` |
+| Radio 1 (UHF) | `12` | Archer | `390.0` |
+| Radio 1 (UHF) | `13` | Arctic | `390.1` |
+| Radio 1 (UHF) | `14` | Astro | `390.2` |
+| Radio 1 (UHF) | `15` | Nickel | `390.3` |
+| Radio 1 (UHF) | `16` | Nitro | `390.4` |
+| Radio 1 (UHF) | `17` | Ninja | `390.5` |
+| Radio 1 (UHF) | `18` | Pinder | `390.6` |
+| Radio 1 (UHF) | `19` | Bengal | `390.7` |
+| Radio 1 (UHF) | `20` | Blade | `390.8` |
+| Radio 2 (V/UHF) | `1` | Andersen AFB / 54X | `126.2` |
+| Radio 2 (V/UHF) | `2` | Antonio B. Won Pat Intl | `118.1` |
 
 ### Rouge
 
 | Radio | Canal | Nom | MHz |
 |---|---|---|---|
-| Radio 1 (UHF) | `1` | Guard | `243` |
-| Radio 1 (UHF) | `2` | Wizard 1 AWACS | `284.0` |
-| Radio 1 (UHF) | `3` | Shell 1 IL-78 | `294.0` |
-| Radio 1 (UHF) | `4` | Focus 1 Arène | `286.0` |
-| Radio 1 (UHF) | `5` | Saipan Intl | `256.9` |
-| Radio 1 (UHF) | `6` | Tinian Intl | `250.05` |
-| Radio 2 (V/UHF) | `1` | Guard | `121.5` |
-| Radio 2 (V/UHF) | `2` | Berkut | `136.0` |
-| Radio 2 (V/UHF) | `3` | Sokol | `136.1` |
-| Radio 2 (V/UHF) | `4` | Strizh | `136.2` |
-| Radio 2 (V/UHF) | `5` | Orel | `136.3` |
-| Radio 2 (V/UHF) | `6` | Yastreb | `136.4` |
-| Radio 2 (V/UHF) | `7` | Grach | `136.5` |
-| Radio 2 (V/UHF) | `8` | Saipan Intl | `125.7` |
-| Radio 2 (V/UHF) | `9` | Tinian Intl | `123.65` |
+| Radio 1 (UHF) | `1` | Wizard 1 AWACS | `284.0` |
+| Radio 1 (UHF) | `2` | Shell 1 IL-78 | `294.0` |
+| Radio 1 (UHF) | `3` | Berkut | `395.0` |
+| Radio 1 (UHF) | `4` | Sokol | `395.1` |
+| Radio 1 (UHF) | `5` | Strizh | `395.2` |
+| Radio 1 (UHF) | `6` | Orel | `395.3` |
+| Radio 1 (UHF) | `7` | Yastreb | `395.4` |
+| Radio 1 (UHF) | `8` | Grach | `395.5` |
+| Radio 2 (V/UHF) | `1` | Saipan Intl | `125.7` |
+| Radio 2 (V/UHF) | `2` | Tinian Intl | `123.65` |
 
 Préréglages injectés dans les appareils à radio programmable. FM : canaux 1 à 20 = 30 à 49 MHz. Les canaux VEAF sont hors de la bande des tours des Mariannes (UHF 250.0-256.9 et 340.2, VHF 118.1-126.2). Le FARP Merizo est le canal FM 11 (40.0).
 
