@@ -53,26 +53,26 @@ Portée = `threat_range_m` du lanceur dans la base d'unités DCS (cercles de l'�
 | zone | combatZone_Marpi | HQ-7_LN_SP | 15.0 | piste Arco 2 | 71.1 | ✅ |
 | zone | combatZone_Marpi | Kub 2P25 ln | 25.0 | piste Arco 2 | 71.2 | ✅ |
 | zone | combatZone_Marpi | Osa 9A33 ln | 10.3 | piste Arco 2 | 70.8 | ✅ |
-| zone | combatZone_NWF_Hard | Strela-1 9P31 | 4.2 | Andersen AFB | 11.0 | ✅ |
-| zone | combatZone_NWF_Hard | Strela-10M3 | 5.0 | Andersen AFB | 10.1 | ✅ |
-| zone | combatZone_NWF_Hard | ZSU-23-4 Shilka | 2.5 | Andersen AFB | 10.6 | ✅ |
-| zone | combatZone_NWF_Medium | Strela-10M3 | 5.0 | Andersen AFB | 10.4 | ✅ |
-| zone | combatZone_NWF_Medium | Ural-375 ZU-23 | 2.5 | Andersen AFB | 9.4 | ✅ |
+| zone | combatZone_NWF_Hard | Strela-1 9P31 | 4.2 | Andersen AFB | 10.4 | ✅ |
+| zone | combatZone_NWF_Hard | Strela-10M3 | 5.0 | Andersen AFB | 9.5 | ✅ |
+| zone | combatZone_NWF_Hard | ZSU-23-4 Shilka | 2.5 | Andersen AFB | 10.3 | ✅ |
+| zone | combatZone_NWF_Medium | Strela-10M3 | 5.0 | Andersen AFB | 9.2 | ✅ |
+| zone | combatZone_NWF_Medium | Ural-375 ZU-23 | 2.5 | Andersen AFB | 9.0 | ✅ |
 | zone | combatZone_NorthField | HQ-7_LN_SP | 15.0 | piste Arco 2 | 61.4 | ✅ |
 | zone | combatZone_NorthField | ZSU-23-4 Shilka | 2.5 | piste Arco 2 | 62.3 | ✅ |
 | zone | combatZone_Pagan | Tor 9A331 | 12.0 | piste Texaco 2 | 306.5 | ✅ |
 | zone | combatZone_Rota_Easy | Kub 2P25 ln | 25.0 | ARG-1 Tarawa (route) | 66.9 | ✅ |
 | zone | combatZone_Rota_Easy | SA-11 Buk LN 9A310M1 | 50.0 | ARG-1 Tarawa (route) | 66.6 | ✅ |
-| zone | combatZone_Rota_Medium | Osa 9A33 ln | 10.3 | ARG-1 Tarawa (route) | 66.2 | ✅ |
-| zone | combatZone_Rota_Medium | Tor 9A331 | 12.0 | ARG-1 Tarawa (route) | 66.1 | ✅ |
+| zone | combatZone_Rota_Medium | Osa 9A33 ln | 10.3 | ARG-1 Tarawa (route) | 66.3 | ✅ |
+| zone | combatZone_Rota_Medium | Tor 9A331 | 12.0 | ARG-1 Tarawa (route) | 66.0 | ✅ |
 | zone | combatZone_Sarigan | Osa 9A33 ln | 10.3 | piste Texaco 2 | 188.7 | ✅ |
-| zone | combatZone_Talofofo_Hard | 2S6 Tunguska | 8.0 | FARP Merizo | 10.7 | ✅ |
-| zone | combatZone_Talofofo_Hard | Osa 9A33 ln | 10.3 | FARP Merizo | 11.6 | ✅ |
-| zone | combatZone_Talofofo_Hard | Tor 9A331 | 12.0 | FARP Merizo | 13.0 | ✅ |
-| zone | combatZone_Talofofo_Medium | SA-18 Igla manpad | 5.2 | FARP Merizo | 8.5 | ✅ |
-| zone | combatZone_Talofofo_Medium | Strela-10M3 | 5.0 | FARP Merizo | 9.1 | ✅ |
-| zone | combatZone_Talofofo_Medium | Ural-375 ZU-23 | 2.5 | FARP Merizo | 8.4 | ✅ |
-| zone | combatZone_Talofofo_Medium | ZSU-23-4 Shilka | 2.5 | FARP Merizo | 8.8 | ✅ |
+| zone | combatZone_Talofofo_Hard | 2S6 Tunguska | 8.0 | FARP Merizo | 8.7 | ✅ |
+| zone | combatZone_Talofofo_Hard | Osa 9A33 ln | 10.3 | FARP Merizo | 10.8 | ✅ |
+| zone | combatZone_Talofofo_Hard | Tor 9A331 | 12.0 | FARP Merizo | 12.9 | ✅ |
+| zone | combatZone_Talofofo_Medium | SA-18 Igla manpad | 5.2 | FARP Merizo | 7.8 | ✅ |
+| zone | combatZone_Talofofo_Medium | Strela-10M3 | 5.0 | FARP Merizo | 7.9 | ✅ |
+| zone | combatZone_Talofofo_Medium | Ural-375 ZU-23 | 2.5 | FARP Merizo | 7.5 | ✅ |
+| zone | combatZone_Talofofo_Medium | ZSU-23-4 Shilka | 2.5 | FARP Merizo | 8.7 | ✅ |
 | zone | combatZone_TinianEst | SA-18 Igla manpad | 5.2 | piste Arco 2 | 57.3 | ✅ |
 | zone | combatZone_TinianEst | Strela-10M3 | 5.0 | piste Arco 2 | 55.7 | ✅ |
 | zone | combatZone_TinianEst | Ural-375 ZU-23 | 2.5 | piste Arco 2 | 57.2 | ✅ |

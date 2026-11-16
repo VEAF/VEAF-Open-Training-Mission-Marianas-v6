@@ -11167,8 +11167,8 @@ mission =
 											["alt"] = 0,
 											["formation_template"] = "",
 											["speed"] = 0,
-											["x"] = 15009,
-											["y"] = 6583,
+											["x"] = 15004,
+											["y"] = 6580,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -11182,12 +11182,12 @@ mission =
 										["category"] = "Fortifications",
 										["heading"] = 0,
 										["shape_name"] = "toplivo-bak",
-										["x"] = 15009,
-										["y"] = 6583,
+										["x"] = 15004,
+										["y"] = 6580,
 									}, -- end of [1]
 								}, -- end of ["units"]
-								["x"] = 15009,
-								["y"] = 6583,
+								["x"] = 15004,
+								["y"] = 6580,
 							}, -- end of [1]
 							[2] = 
 							{
@@ -11208,8 +11208,8 @@ mission =
 											["alt"] = 0,
 											["formation_template"] = "",
 											["speed"] = 0,
-											["x"] = 14790,
-											["y"] = 6628,
+											["x"] = 14759,
+											["y"] = 6749,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -11223,12 +11223,12 @@ mission =
 										["category"] = "Fortifications",
 										["heading"] = 0,
 										["shape_name"] = "toplivo-bak",
-										["x"] = 14790,
-										["y"] = 6628,
+										["x"] = 14759,
+										["y"] = 6749,
 									}, -- end of [1]
 								}, -- end of ["units"]
-								["x"] = 14790,
-								["y"] = 6628,
+								["x"] = 14759,
+								["y"] = 6749,
 							}, -- end of [2]
 							[3] = 
 							{
@@ -11249,8 +11249,8 @@ mission =
 											["alt"] = 0,
 											["formation_template"] = "",
 											["speed"] = 0,
-											["x"] = 16422,
-											["y"] = 5945,
+											["x"] = 16323,
+											["y"] = 5958,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -11264,12 +11264,12 @@ mission =
 										["category"] = "Fortifications",
 										["heading"] = 0,
 										["shape_name"] = "ComCenter",
-										["x"] = 16422,
-										["y"] = 5945,
+										["x"] = 16323,
+										["y"] = 5958,
 									}, -- end of [1]
 								}, -- end of ["units"]
-								["x"] = 16422,
-								["y"] = 5945,
+								["x"] = 16323,
+								["y"] = 5958,
 							}, -- end of [3]
 							[4] = 
 							{
@@ -12297,8 +12297,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -17875,
-											["y"] = -4000,
+											["x"] = -17915,
+											["y"] = -3824,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -12316,13 +12316,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -17875,
-										["y"] = -4000,
+										["x"] = -17915,
+										["y"] = -3824,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -17875,
-								["y"] = -4000,
+								["x"] = -17915,
+								["y"] = -3824,
 							}, -- end of [9]
 							[10] = 
 							{
@@ -12394,8 +12394,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -18241,
-											["y"] = -3733,
+											["x"] = -19406,
+											["y"] = -4228,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -12413,13 +12413,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -18241,
-										["y"] = -3733,
+										["x"] = -19406,
+										["y"] = -4228,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -18241,
-								["y"] = -3733,
+								["x"] = -19406,
+								["y"] = -4228,
 							}, -- end of [10]
 							[11] = 
 							{
@@ -12491,8 +12491,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -18794,
-											["y"] = -3542,
+											["x"] = -19020,
+											["y"] = -3945,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -12510,13 +12510,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -18794,
-										["y"] = -3542,
+										["x"] = -19020,
+										["y"] = -3945,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -18794,
-								["y"] = -3542,
+								["x"] = -19020,
+								["y"] = -3945,
 							}, -- end of [11]
 							[12] = 
 							{
@@ -12588,8 +12588,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -19300,
-											["y"] = -4000,
+											["x"] = -19587,
+											["y"] = -4008,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -12607,13 +12607,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -19300,
-										["y"] = -4000,
+										["x"] = -19587,
+										["y"] = -4008,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -19300,
-								["y"] = -4000,
+								["x"] = -19587,
+								["y"] = -4008,
 							}, -- end of [12]
 							[13] = 
 							{
@@ -12685,8 +12685,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -18794,
-											["y"] = -4496,
+											["x"] = -19232,
+											["y"] = -4036,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -12704,13 +12704,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -18794,
-										["y"] = -4496,
+										["x"] = -19232,
+										["y"] = -4036,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -18794,
-								["y"] = -4496,
+								["x"] = -19232,
+								["y"] = -4036,
 							}, -- end of [13]
 							[14] = 
 							{
@@ -12782,8 +12782,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -18183,
-											["y"] = -4727,
+											["x"] = -17627,
+											["y"] = -4224,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -12801,13 +12801,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -18183,
-										["y"] = -4727,
+										["x"] = -17627,
+										["y"] = -4224,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -18183,
-								["y"] = -4727,
+								["x"] = -17627,
+								["y"] = -4224,
 							}, -- end of [14]
 							[15] = 
 							{
@@ -12879,8 +12879,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -18154,
-											["y"] = -4200,
+											["x"] = -19050,
+											["y"] = -3836,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -12898,13 +12898,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -18154,
-										["y"] = -4200,
+										["x"] = -19050,
+										["y"] = -3836,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -18154,
-								["y"] = -4200,
+								["x"] = -19050,
+								["y"] = -3836,
 							}, -- end of [15]
 							[16] = 
 							{
@@ -12937,8 +12937,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -17267,
-											["y"] = -3513,
+											["x"] = -20038,
+											["y"] = -5008,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -12956,13 +12956,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -17267,
-										["y"] = -3513,
+										["x"] = -20038,
+										["y"] = -5008,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -17267,
-								["y"] = -3513,
+								["x"] = -20038,
+								["y"] = -5008,
 							}, -- end of [16]
 							[17] = 
 							{
@@ -12995,8 +12995,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -19378,
-											["y"] = -3580,
+											["x"] = -20128,
+											["y"] = -4957,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13014,13 +13014,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -19378,
-										["y"] = -3580,
+										["x"] = -20128,
+										["y"] = -4957,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -19378,
-								["y"] = -3580,
+								["x"] = -20128,
+								["y"] = -4957,
 							}, -- end of [17]
 							[18] = 
 							{
@@ -13053,8 +13053,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -18400,
-											["y"] = -5474,
+											["x"] = -19870,
+											["y"] = -5599,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13072,13 +13072,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -18400,
-										["y"] = -5474,
+										["x"] = -19870,
+										["y"] = -5599,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -18400,
-								["y"] = -5474,
+								["x"] = -19870,
+								["y"] = -5599,
 							}, -- end of [18]
 							[19] = 
 							{
@@ -13111,8 +13111,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -19279,
-											["y"] = -4450,
+											["x"] = -19777,
+											["y"] = -4304,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13130,13 +13130,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -19279,
-										["y"] = -4450,
+										["x"] = -19777,
+										["y"] = -4304,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -19279,
-								["y"] = -4450,
+								["x"] = -19777,
+								["y"] = -4304,
 							}, -- end of [19]
 							[20] = 
 							{
@@ -13169,8 +13169,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -18825,
-											["y"] = -3425,
+											["x"] = -20238,
+											["y"] = -4959,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13188,13 +13188,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -18825,
-										["y"] = -3425,
+										["x"] = -20238,
+										["y"] = -4959,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -18825,
-								["y"] = -3425,
+								["x"] = -20238,
+								["y"] = -4959,
 							}, -- end of [20]
 							[21] = 
 							{
@@ -13227,8 +13227,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -18130,
-											["y"] = -4791,
+											["x"] = -19916,
+											["y"] = -5016,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13246,13 +13246,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -18130,
-										["y"] = -4791,
+										["x"] = -19916,
+										["y"] = -5016,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -18130,
-								["y"] = -4791,
+								["x"] = -19916,
+								["y"] = -5016,
 							}, -- end of [21]
 							[22] = 
 							{
@@ -13324,8 +13324,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 15900,
-											["y"] = 5500,
+											["x"] = 15988,
+											["y"] = 5916,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13343,13 +13343,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 15900,
-										["y"] = 5500,
+										["x"] = 15988,
+										["y"] = 5916,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 15900,
-								["y"] = 5500,
+								["x"] = 15988,
+								["y"] = 5916,
 							}, -- end of [22]
 							[23] = 
 							{
@@ -13421,8 +13421,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 15889,
-											["y"] = 6079,
+											["x"] = 16003,
+											["y"] = 6024,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13440,13 +13440,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 15889,
-										["y"] = 6079,
+										["x"] = 16003,
+										["y"] = 6024,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 15889,
-								["y"] = 6079,
+								["x"] = 16003,
+								["y"] = 6024,
 							}, -- end of [23]
 							[24] = 
 							{
@@ -13518,8 +13518,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 15266,
-											["y"] = 6155,
+											["x"] = 15223,
+											["y"] = 6245,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13537,13 +13537,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 15266,
-										["y"] = 6155,
+										["x"] = 15223,
+										["y"] = 6245,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 15266,
-								["y"] = 6155,
+								["x"] = 15223,
+								["y"] = 6245,
 							}, -- end of [24]
 							[25] = 
 							{
@@ -13615,8 +13615,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 14800,
-											["y"] = 6193,
+											["x"] = 14818,
+											["y"] = 6200,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13634,13 +13634,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 14800,
-										["y"] = 6193,
+										["x"] = 14818,
+										["y"] = 6200,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 14800,
-								["y"] = 6193,
+								["x"] = 14818,
+								["y"] = 6200,
 							}, -- end of [25]
 							[26] = 
 							{
@@ -13712,8 +13712,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 14730,
-											["y"] = 5721,
+											["x"] = 14635,
+											["y"] = 5802,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13731,13 +13731,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 14730,
-										["y"] = 5721,
+										["x"] = 14635,
+										["y"] = 5802,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 14730,
-								["y"] = 5721,
+								["x"] = 14635,
+								["y"] = 5802,
 							}, -- end of [26]
 							[27] = 
 							{
@@ -13809,8 +13809,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 14542,
-											["y"] = 5336,
+											["x"] = 14447,
+											["y"] = 5417,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13828,13 +13828,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 14542,
-										["y"] = 5336,
+										["x"] = 14447,
+										["y"] = 5417,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 14542,
-								["y"] = 5336,
+								["x"] = 14447,
+								["y"] = 5417,
 							}, -- end of [27]
 							[28] = 
 							{
@@ -13906,8 +13906,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 14750,
-											["y"] = 4871,
+											["x"] = 14323,
+											["y"] = 5218,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -13925,13 +13925,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 14750,
-										["y"] = 4871,
+										["x"] = 14323,
+										["y"] = 5218,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 14750,
-								["y"] = 4871,
+								["x"] = 14323,
+								["y"] = 5218,
 							}, -- end of [28]
 							[29] = 
 							{
@@ -14003,8 +14003,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 15304,
-											["y"] = 4959,
+											["x"] = 15273,
+											["y"] = 5584,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14022,13 +14022,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 15304,
-										["y"] = 4959,
+										["x"] = 15273,
+										["y"] = 5584,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 15304,
-								["y"] = 4959,
+								["x"] = 15273,
+								["y"] = 5584,
 							}, -- end of [29]
 							[30] = 
 							{
@@ -14100,8 +14100,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 15793,
-											["y"] = 4913,
+											["x"] = 16083,
+											["y"] = 5870,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14119,13 +14119,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 15793,
-										["y"] = 4913,
+										["x"] = 16083,
+										["y"] = 5870,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 15793,
-								["y"] = 4913,
+								["x"] = 16083,
+								["y"] = 5870,
 							}, -- end of [30]
 							[31] = 
 							{
@@ -14197,8 +14197,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 15666,
-											["y"] = 5450,
+											["x"] = 15314,
+											["y"] = 5687,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14216,13 +14216,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 15666,
-										["y"] = 5450,
+										["x"] = 15314,
+										["y"] = 5687,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 15666,
-								["y"] = 5450,
+								["x"] = 15314,
+								["y"] = 5687,
 							}, -- end of [31]
 							[32] = 
 							{
@@ -14255,8 +14255,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 14204,
-											["y"] = 4764,
+											["x"] = 13900,
+											["y"] = 6006,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14274,13 +14274,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 14204,
-										["y"] = 4764,
+										["x"] = 13900,
+										["y"] = 6006,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 14204,
-								["y"] = 4764,
+								["x"] = 13900,
+								["y"] = 6006,
 							}, -- end of [32]
 							[33] = 
 							{
@@ -14313,8 +14313,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 15925,
-											["y"] = 6842,
+											["x"] = 15794,
+											["y"] = 7243,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14332,13 +14332,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 15925,
-										["y"] = 6842,
+										["x"] = 15794,
+										["y"] = 7243,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 15925,
-								["y"] = 6842,
+								["x"] = 15794,
+								["y"] = 7243,
 							}, -- end of [33]
 							[34] = 
 							{
@@ -14371,8 +14371,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 15705,
-											["y"] = 4736,
+											["x"] = 16061,
+											["y"] = 5750,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14390,13 +14390,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 15705,
-										["y"] = 4736,
+										["x"] = 16061,
+										["y"] = 5750,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 15705,
-								["y"] = 4736,
+								["x"] = 16061,
+								["y"] = 5750,
 							}, -- end of [34]
 							[35] = 
 							{
@@ -14429,8 +14429,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 14897,
-											["y"] = 4424,
+											["x"] = 13977,
+											["y"] = 5725,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14448,13 +14448,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 14897,
-										["y"] = 4424,
+										["x"] = 13977,
+										["y"] = 5725,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 14897,
-								["y"] = 4424,
+								["x"] = 13977,
+								["y"] = 5725,
 							}, -- end of [35]
 							[36] = 
 							{
@@ -14487,8 +14487,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 14022,
-											["y"] = 5003,
+											["x"] = 15867,
+											["y"] = 5897,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14506,13 +14506,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 14022,
-										["y"] = 5003,
+										["x"] = 15867,
+										["y"] = 5897,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 14022,
-								["y"] = 5003,
+								["x"] = 15867,
+								["y"] = 5897,
 							}, -- end of [36]
 							[37] = 
 							{
@@ -14545,8 +14545,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 16067,
-											["y"] = 5024,
+											["x"] = 15986,
+											["y"] = 5669,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14564,13 +14564,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 16067,
-										["y"] = 5024,
+										["x"] = 15986,
+										["y"] = 5669,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 16067,
-								["y"] = 5024,
+								["x"] = 15986,
+								["y"] = 5669,
 							}, -- end of [37]
 							[38] = 
 							{
@@ -14603,8 +14603,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 14926,
-											["y"] = 4898,
+											["x"] = 15969,
+											["y"] = 5795,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14622,13 +14622,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 14926,
-										["y"] = 4898,
+										["x"] = 15969,
+										["y"] = 5795,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 14926,
-								["y"] = 4898,
+								["x"] = 15969,
+								["y"] = 5795,
 							}, -- end of [38]
 							[39] = 
 							{
@@ -14661,8 +14661,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 73537,
-											["y"] = 44451,
+											["x"] = 73362,
+											["y"] = 44464,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14680,13 +14680,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 73537,
-										["y"] = 44451,
+										["x"] = 73362,
+										["y"] = 44464,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 73537,
-								["y"] = 44451,
+								["x"] = 73362,
+								["y"] = 44464,
 							}, -- end of [39]
 							[40] = 
 							{
@@ -14719,8 +14719,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 73500,
-											["y"] = 44800,
+											["x"] = 73374,
+											["y"] = 44780,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14738,13 +14738,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 73500,
-										["y"] = 44800,
+										["x"] = 73374,
+										["y"] = 44780,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 73500,
-								["y"] = 44800,
+								["x"] = 73374,
+								["y"] = 44780,
 							}, -- end of [40]
 							[41] = 
 							{
@@ -14777,8 +14777,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 74561,
-											["y"] = 45561,
+											["x"] = 74628,
+											["y"] = 45619,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14796,13 +14796,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 74561,
-										["y"] = 45561,
+										["x"] = 74628,
+										["y"] = 45619,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 74561,
-								["y"] = 45561,
+								["x"] = 74628,
+								["y"] = 45619,
 							}, -- end of [41]
 							[42] = 
 							{
@@ -14835,8 +14835,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 72147,
-											["y"] = 44913,
+											["x"] = 72521,
+											["y"] = 44938,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14854,13 +14854,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 72147,
-										["y"] = 44913,
+										["x"] = 72521,
+										["y"] = 44938,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 72147,
-								["y"] = 44913,
+								["x"] = 72521,
+								["y"] = 44938,
 							}, -- end of [42]
 							[43] = 
 							{
@@ -14893,8 +14893,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 73763,
-											["y"] = 43051,
+											["x"] = 72924,
+											["y"] = 42914,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14912,13 +14912,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 73763,
-										["y"] = 43051,
+										["x"] = 72924,
+										["y"] = 42914,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 73763,
-								["y"] = 43051,
+								["x"] = 72924,
+								["y"] = 42914,
 							}, -- end of [43]
 							[44] = 
 							{
@@ -14951,8 +14951,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = 72387,
-											["y"] = 46383,
+											["x"] = 72325,
+											["y"] = 45837,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -14970,13 +14970,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = 72387,
-										["y"] = 46383,
+										["x"] = 72325,
+										["y"] = 45837,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = 72387,
-								["y"] = 46383,
+								["x"] = 72325,
+								["y"] = 45837,
 							}, -- end of [44]
 							[45] = 
 							{
@@ -16860,8 +16860,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -16925,
-											["y"] = -4000,
+											["x"] = -19083,
+											["y"] = -4275,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -16879,13 +16879,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -16925,
-										["y"] = -4000,
+										["x"] = -19083,
+										["y"] = -4275,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -16925,
-								["y"] = -4000,
+								["x"] = -19083,
+								["y"] = -4275,
 							}, -- end of [70]
 							[71] = 
 							{
@@ -16918,8 +16918,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -19816,
-											["y"] = -4479,
+											["x"] = -20183,
+											["y"] = -5044,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -16937,13 +16937,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -19816,
-										["y"] = -4479,
+										["x"] = -20183,
+										["y"] = -5044,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -19816,
-								["y"] = -4479,
+								["x"] = -20183,
+								["y"] = -5044,
 							}, -- end of [71]
 							[72] = 
 							{
@@ -17092,8 +17092,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -14199,
-											["y"] = -3003,
+											["x"] = -14115,
+											["y"] = -3205,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -17111,13 +17111,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -14199,
-										["y"] = -3003,
+										["x"] = -14115,
+										["y"] = -3205,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -14199,
-								["y"] = -3003,
+								["x"] = -14115,
+								["y"] = -3205,
 							}, -- end of [74]
 							[75] = 
 							{
@@ -17150,8 +17150,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -17871,
-											["y"] = -2978,
+											["x"] = -20403,
+											["y"] = -4053,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -17169,13 +17169,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -17871,
-										["y"] = -2978,
+										["x"] = -20403,
+										["y"] = -4053,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -17871,
-								["y"] = -2978,
+								["x"] = -20403,
+								["y"] = -4053,
 							}, -- end of [75]
 							[76] = 
 							{
@@ -17208,8 +17208,8 @@ mission =
 											["formation_template"] = "",
 											["speed"] = 5.5555555555556,
 											["speed_locked"] = true,
-											["x"] = -16140,
-											["y"] = -3095,
+											["x"] = -16423,
+											["y"] = -3949,
 										}, -- end of [1]
 									}, -- end of ["points"]
 								}, -- end of ["route"]
@@ -17227,13 +17227,13 @@ mission =
 										["coldAtStart"] = false,
 										["heading"] = 0,
 										["playerCanDrive"] = true,
-										["x"] = -16140,
-										["y"] = -3095,
+										["x"] = -16423,
+										["y"] = -3949,
 									}, -- end of [1]
 								}, -- end of ["units"]
 								["visible"] = false,
-								["x"] = -16140,
-								["y"] = -3095,
+								["x"] = -16423,
+								["y"] = -3949,
 							}, -- end of [76]
 						}, -- end of ["group"]
 					}, -- end of ["vehicle"]
