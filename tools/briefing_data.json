@@ -7,8 +7,8 @@
  },
  "start": 32400,
  "bullseye": {
-  "x": 150790.0,
-  "y": 83347.0,
+  "x": 150790,
+  "y": 83347,
   "ddm": "N14°51.214' E145°33.521'"
  },
  "bases": [
@@ -68,8 +68,8 @@
  "farps": [
   {
    "name": "Merizo",
-   "x": -23450.0,
-   "y": -12150.0,
+   "x": -23450,
+   "y": -12150,
    "freq": "40",
    "be": "209°/107 nm",
    "ddm": "N13°16.327' E144°41.243'"
@@ -82,7 +82,7 @@
    "type": "KC-135",
    "kind": "tanker",
    "tacan": "50Y",
-   "freq": 290.0,
+   "freq": 290,
    "alt_ft": 22000.0,
    "a": {
     "x": 30000,
@@ -90,8 +90,8 @@
     "ddm": "N13°44.966' E144°08.889'"
    },
    "b": {
-    "x": 90000.0,
-    "y": -70000.0,
+    "x": 90000,
+    "y": -70000,
     "ddm": "N14°17.476' E144°08.487'"
    },
    "mid_be": "239°/96 nm",
@@ -103,7 +103,7 @@
    "type": "KC135MPRS",
    "kind": "tanker",
    "tacan": "51Y",
-   "freq": 291.0,
+   "freq": 291,
    "alt_ft": 18000.0,
    "a": {
     "x": -30000,
@@ -111,8 +111,8 @@
     "ddm": "N13°12.573' E144°20.337'"
    },
    "b": {
-    "x": 20000.0,
-    "y": -50000.0,
+    "x": 20000,
+    "y": -50000,
     "ddm": "N13°39.670' E144°20.037'"
    },
    "mid_be": "221°/111 nm",
@@ -124,7 +124,7 @@
    "type": "E-3A",
    "kind": "awacs",
    "tacan": null,
-   "freq": 282.0,
+   "freq": 282,
    "alt_ft": 30000.0,
    "a": {
     "x": 60000,
@@ -132,8 +132,8 @@
     "ddm": "N14°00.790' E143°35.402'"
    },
    "b": {
-    "x": 140000.0,
-    "y": -130000.0,
+    "x": 140000,
+    "y": -130000,
     "ddm": "N14°44.113' E143°34.743'"
    },
    "mid_be": "257°/118 nm",
@@ -145,7 +145,7 @@
    "type": "KC-135",
    "kind": "tanker",
    "tacan": "52Y",
-   "freq": 292.0,
+   "freq": 292,
    "alt_ft": 24000.0,
    "a": {
     "x": 190000,
@@ -153,8 +153,8 @@
     "ddm": "N15°12.747' E147°14.850'"
    },
    "b": {
-    "x": 250000.0,
-    "y": 265000.0,
+    "x": 250000,
+    "y": 265000,
     "ddm": "N15°45.294' E147°14.889'"
    },
    "mid_be": "069°/105 nm",
@@ -166,16 +166,16 @@
    "type": "KC135MPRS",
    "kind": "tanker",
    "tacan": "53Y",
-   "freq": 293.0,
+   "freq": 293,
    "alt_ft": 20000.0,
    "a": {
-    "x": 70000.0,
-    "y": 135000.0,
+    "x": 70000,
+    "y": 135000,
     "ddm": "N14°07.542' E146°02.512'"
    },
    "b": {
-    "x": 130000.0,
-    "y": 135000.0,
+    "x": 130000,
+    "y": 135000,
     "ddm": "N14°40.088' E146°02.373'"
    },
    "mid_be": "135°/39 nm",
@@ -187,7 +187,7 @@
    "type": "E-3A",
    "kind": "awacs",
    "tacan": null,
-   "freq": 283.0,
+   "freq": 283,
    "alt_ft": 31000.0,
    "a": {
     "x": 120000,
@@ -195,8 +195,8 @@
     "ddm": "N14°34.747' E147°31.517'"
    },
    "b": {
-    "x": 220000.0,
-    "y": 295000.0,
+    "x": 220000,
+    "y": 295000,
     "ddm": "N15°28.992' E147°31.650'"
    },
    "mid_be": "085°/115 nm",
@@ -208,7 +208,7 @@
    "type": "E-3A",
    "kind": "awacs",
    "tacan": null,
-   "freq": 285.0,
+   "freq": 285,
    "alt_ft": 30000.0,
    "a": {
     "x": 130000,
@@ -216,8 +216,8 @@
     "ddm": "N14°35.256' E140°48.298'"
    },
    "b": {
-    "x": 130000.0,
-    "y": -470000.0,
+    "x": 130000,
+    "y": -470000,
     "ddm": "N14°34.649' E140°26.155'"
    },
    "mid_be": "268°/288 nm",
@@ -229,7 +229,7 @@
    "type": "IL-78M",
    "kind": "tanker",
    "tacan": null,
-   "freq": 294.0,
+   "freq": 294,
    "alt_ft": 20000.0,
    "a": {
     "x": 250000,
@@ -237,8 +237,8 @@
     "ddm": "N15°44.921' E145°20.081'"
    },
    "b": {
-    "x": 300000.0,
-    "y": 40000.0,
+    "x": 300000,
+    "y": 40000,
     "ddm": "N16°11.937' E145°08.634'"
    },
    "mid_be": "345°/69 nm",
@@ -250,7 +250,7 @@
    "type": "A-50",
    "kind": "awacs",
    "tacan": null,
-   "freq": 286.0,
+   "freq": 286,
    "alt_ft": 30000.0,
    "a": {
     "x": 300000,
@@ -258,8 +258,8 @@
     "ddm": "N16°06.928' E140°45.572'"
    },
    "b": {
-    "x": 300000.0,
-    "y": -470000.0,
+    "x": 300000,
+    "y": -470000,
     "ddm": "N16°06.254' E140°23.270'"
    },
    "mid_be": "286°/299 nm",
@@ -271,7 +271,7 @@
    "type": "KJ-2000",
    "kind": "awacs",
    "tacan": null,
-   "freq": 284.0,
+   "freq": 284,
    "alt_ft": 30000.0,
    "a": {
     "x": 330000,
@@ -279,8 +279,8 @@
     "ddm": "N16°28.296' E145°19.718'"
    },
    "b": {
-    "x": 400000.0,
-    "y": 60000.0,
+    "x": 400000,
+    "y": 60000,
     "ddm": "N17°06.246' E145°19.385'"
    },
    "mid_be": "354°/116 nm",
@@ -298,8 +298,8 @@
     "ddm": "N13°39.981' E144°52.188'"
    },
    "b": {
-    "x": 40000.0,
-    "y": 22000.0,
+    "x": 40000,
+    "y": 22000,
     "ddm": "N13°50.890' E144°59.858'"
    },
    "mid_be": "210°/75 nm",
@@ -313,13 +313,13 @@
    "side": "blue",
    "type": "F-15C",
    "a": {
-    "x": 70000.0,
-    "y": 100000.0,
+    "x": 70000,
+    "y": 100000,
     "ddm": "N14°07.452' E145°43.059'"
    },
    "b": {
-    "x": 90000.0,
-    "y": 110000.0,
+    "x": 90000,
+    "y": 110000,
     "ddm": "N14°18.328' E145°48.560'"
    },
    "mid_be": "163°/40 nm",
@@ -338,8 +338,8 @@
     "ddm": "N14°57.838' E145°33.841'"
    },
    "b": {
-    "x": 176000.0,
-    "y": 96000.0,
+    "x": 176000,
+    "y": 96000,
     "ddm": "N15°04.929' E145°40.492'"
    },
    "mid_be": "020°/11 nm",
@@ -358,8 +358,8 @@
     "ddm": "N16°12.159' E145°37.813'"
    },
    "b": {
-    "x": 345000.0,
-    "y": 92000.0,
+    "x": 345000,
+    "y": 92000,
     "ddm": "N16°36.560' E145°37.642'"
    },
    "mid_be": "003°/93 nm",
@@ -378,8 +378,8 @@
     "ddm": "N15°26.086' E145°41.478'"
    },
    "b": {
-    "x": 245000.0,
-    "y": 98000.0,
+    "x": 245000,
+    "y": 98000,
     "ddm": "N15°42.355' E145°41.375'"
    },
    "mid_be": "010°/43 nm",
@@ -398,8 +398,8 @@
     "ddm": "N15°10.413' E145°51.627'"
    },
    "b": {
-    "x": 204000.0,
-    "y": 118000.0,
+    "x": 204000,
+    "y": 118000,
     "ddm": "N15°20.181' E145°52.692'"
    },
    "mid_be": "037°/30 nm",
@@ -412,8 +412,8 @@
  "carriers": [
   {
    "name": "CSG-74 Stennis",
-   "x": 40000.0,
-   "y": -110000.0,
+   "x": 40000,
+   "y": -110000,
    "tacan": "74X STN",
    "icls": 11,
    "link4": 336.0,
@@ -442,8 +442,8 @@
   },
   {
    "name": "CSG-71 Roosevelt",
-   "x": 0.0,
-   "y": -135000.0,
+   "x": 0,
+   "y": -135000,
    "tacan": "71X RSV",
    "icls": 12,
    "link4": 337.0,
@@ -472,8 +472,8 @@
   },
   {
    "name": "ARG-1 Tarawa",
-   "x": 60000.0,
-   "y": 110000.0,
+   "x": 60000,
+   "y": 110000,
    "tacan": "73X TRW",
    "icls": 13,
    "tower": 307.0,
@@ -520,7 +520,7 @@
    "be": "207°/103 nm",
    "ddm": "N13°19.051' E144°45.729'",
    "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 25 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 44 nm",
-   "briefing": "Champ de tir hélicoptères de Talofofo : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile."
+   "briefing": "Champ de tir hélicoptères de Talofofo : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) et une défense courte portée à guidage infrarouge (un SA-13 et une équipe de lance-missiles portatifs SA-18) en plus des cibles du niveau facile."
   },
   {
    "key": "combatZone_Talofofo_Hard",
@@ -533,7 +533,7 @@
    "be": "207°/103 nm",
    "ddm": "N13°19.051' E144°45.729'",
    "tankers": "Arco 1 (panier, TACAN 51Y, 291.0) à 25 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 44 nm",
-   "briefing": "Champ de tir hélicoptères de Talofofo, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge."
+   "briefing": "Champ de tir hélicoptères de Talofofo, avec une défense courte portée à guidage radar en plus du niveau moyen : deux systèmes tirés au sort parmi SA-15 Tor, SA-19 Tunguska et SA-8 Osa, au-delà des cibles. Approchez au ras du relief."
   },
   {
    "key": "combatZone_NWF_Easy",
@@ -951,18 +951,18 @@
  "front": [
   [
    {
-    "x": 96118.0,
-    "y": 123598.0
+    "x": 96118,
+    "y": 123598
    },
    {
-    "x": 145882.0,
-    "y": 14402.0
+    "x": 145882,
+    "y": 14402
    }
   ]
  ],
  "arena_zone": {
-  "x": 215000.0,
-  "y": -450000.0,
+  "x": 215000,
+  "y": -450000,
   "radius_nm": 40,
   "be": "277°/290 nm",
   "ddm": "N15°20.779' E140°35.861'"
@@ -990,8 +990,8 @@
    "name": "Andersen Avenger 1",
    "side": "blue",
    "alias": "-avenger_squad",
-   "x": 10000.0,
-   "y": 15950.0,
+   "x": 10000,
+   "y": 15950,
    "ddm": "N13°34.597' E144°56.642'",
    "be": "206°/84 nm"
   },
@@ -999,8 +999,8 @@
    "name": "Andersen Avenger 2",
    "side": "blue",
    "alias": "-avenger_squad",
-   "x": 11279.0,
-   "y": 12467.0,
+   "x": 11279,
+   "y": 12467,
    "ddm": "N13°35.274' E144°54.706'",
    "be": "207°/84 nm"
   },
@@ -1035,8 +1035,8 @@
    "name": "Orote Avenger",
    "side": "blue",
    "alias": "-avenger_squad",
-   "x": -5114.0,
-   "y": -17850.0,
+   "x": -5114,
+   "y": -17850,
    "ddm": "N13°26.238' E144°37.992'",
    "be": "213°/100 nm"
   },
@@ -1044,8 +1044,8 @@
    "name": "Merizo Stinger",
    "side": "blue",
    "alias": "-stinger",
-   "x": -23355.0,
-   "y": -12200.0,
+   "x": -23355,
+   "y": -12200,
    "ddm": "N13°16.378' E144°41.215'",
    "be": "209°/107 nm"
   },
@@ -1062,8 +1062,8 @@
    "name": "Saipan SA-11",
    "side": "red",
    "alias": "-sa11",
-   "x": 183396.0,
-   "y": 103325.0,
+   "x": 183396,
+   "y": 103325,
    "ddm": "N15°08.963' E145°44.557'",
    "be": "031°/21 nm"
   },
@@ -1071,8 +1071,8 @@
    "name": "Saipan SA-15 sud",
    "side": "red",
    "alias": "-sa15",
-   "x": 179203.0,
-   "y": 102874.0,
+   "x": 179203,
+   "y": 102874,
    "ddm": "N15°06.688' E145°44.319'",
    "be": "034°/19 nm"
   },
@@ -1080,8 +1080,8 @@
    "name": "Saipan SA-15 nord",
    "side": "red",
    "alias": "-sa15",
-   "x": 190475.0,
-   "y": 104300.0,
+   "x": 190475,
+   "y": 104300,
    "ddm": "N15°12.805' E145°45.079'",
    "be": "028°/24 nm"
   },
@@ -1098,8 +1098,8 @@
    "name": "Tinian SA-11",
    "side": "red",
    "alias": "-sa11",
-   "x": 169161.0,
-   "y": 91790.0,
+   "x": 169161,
+   "y": 91790,
    "ddm": "N15°01.206' E145°38.166'",
    "be": "025°/11 nm"
   },
@@ -1134,8 +1134,8 @@
    "name": "Saipan HQ-7",
    "side": "red",
    "alias": "-hq7",
-   "x": 180975.0,
-   "y": 100743.0,
+   "x": 180975,
+   "y": 100743,
    "ddm": "N15°07.642' E145°43.123'",
    "be": "030°/19 nm"
   },
@@ -1240,57 +1240,46 @@
  "radio": {
   "blue": {
    "primary_1": {
-    "1": "Guard",
-    "2": "Magic-1",
-    "3": "Overlord-1",
-    "4": "Texaco-1",
-    "5": "Arco-1",
-    "6": "Texaco-2",
-    "7": "Arco-2",
-    "8": "Stennis",
-    "9": "Roosevelt",
-    "10": "Tarawa",
-    "11": "Base-Andersen AFB",
-    "12": "Base-Antonio B. Won Pat Intl",
-    "13": "S3B-Stennis",
-    "14": "S3B-Roosevelt",
-    "15": "Darkstar-1"
+    "1": "Magic-1",
+    "2": "Overlord-1",
+    "3": "Texaco-1",
+    "4": "Arco-1",
+    "5": "Texaco-2",
+    "6": "Arco-2",
+    "7": "S3B-Stennis",
+    "8": "S3B-Roosevelt",
+    "9": "Stennis",
+    "10": "Roosevelt",
+    "11": "Tarawa",
+    "12": "Archer",
+    "13": "Arctic",
+    "14": "Astro",
+    "15": "Nickel",
+    "16": "Nitro",
+    "17": "Ninja",
+    "18": "Pinder",
+    "19": "Bengal",
+    "20": "Blade"
    },
    "primary_2": {
-    "1": "Guard",
-    "2": "Archer",
-    "3": "Arctic",
-    "4": "Astro",
-    "5": "Nickel",
-    "6": "Nitro",
-    "7": "Ninja",
-    "8": "Pinder",
-    "9": "Bengal",
-    "10": "Blade",
-    "11": "Gordon",
-    "12": "Base-Andersen AFB",
-    "13": "Base-Antonio B. Won Pat Intl"
+    "1": "Base-Andersen AFB",
+    "2": "Base-Antonio B. Won Pat Intl"
    }
   },
   "red": {
    "primary_1": {
-    "1": "Guard",
-    "2": "Wizard-1",
-    "3": "Shell-1",
-    "4": "Focus-1",
-    "5": "Base-Saipan Intl",
-    "6": "Base-Tinian Intl"
+    "1": "Wizard-1",
+    "2": "Shell-1",
+    "3": "Berkut",
+    "4": "Sokol",
+    "5": "Strizh",
+    "6": "Orel",
+    "7": "Yastreb",
+    "8": "Grach"
    },
    "primary_2": {
-    "1": "Guard",
-    "2": "Berkut",
-    "3": "Sokol",
-    "4": "Strizh",
-    "5": "Orel",
-    "6": "Yastreb",
-    "7": "Grach",
-    "8": "Base-Saipan Intl",
-    "9": "Base-Tinian Intl"
+    "1": "Base-Saipan Intl",
+    "2": "Base-Tinian Intl"
    }
   }
  },

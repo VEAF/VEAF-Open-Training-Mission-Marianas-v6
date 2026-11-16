@@ -170,7 +170,7 @@ modules:
         training: true
         includes:
           - combatZone_Talofofo_Easy
-        briefing: "Champ de tir hélicoptères de Talofofo : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile.\nPosition : bullseye 207°/103 nm (N13°19.051' E144°45.729'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 25 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 44 nm."
+        briefing: "Champ de tir hélicoptères de Talofofo : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) et une défense courte portée à guidage infrarouge (un SA-13 et une équipe de lance-missiles portatifs SA-18) en plus des cibles du niveau facile.\nPosition : bullseye 207°/103 nm (N13°19.051' E144°45.729'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 25 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 44 nm."
       - type: zone
         zone_name: combatZone_Talofofo_Hard
         friendly_name: H3 Hélico Talofofo — difficile
@@ -178,7 +178,7 @@ modules:
         training: true
         includes:
           - combatZone_Talofofo_Medium
-        briefing: "Champ de tir hélicoptères de Talofofo, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge.\nPosition : bullseye 207°/103 nm (N13°19.051' E144°45.729'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 25 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 44 nm."
+        briefing: "Champ de tir hélicoptères de Talofofo, avec une défense courte portée à guidage radar en plus du niveau moyen : deux systèmes tirés au sort parmi SA-15 Tor, SA-19 Tunguska et SA-8 Osa, au-delà des cibles. Approchez au ras du relief.\nPosition : bullseye 207°/103 nm (N13°19.051' E144°45.729'). Ravitailleurs : Arco 1 (panier, TACAN 51Y, 291.0) à 25 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 44 nm."
       - type: zone
         zone_name: combatZone_NWF_Easy
         friendly_name: A1 Attaque North West Field — facile

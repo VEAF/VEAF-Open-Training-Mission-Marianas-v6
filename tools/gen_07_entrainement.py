@@ -50,17 +50,21 @@ ZONES = [
      fake(H, [("-zu23", "Ural-375 ZU-23", 30, 1200, '#spawngroup="H2AAA" #spawncount=2'),
               ("-zu23", "Ural-375 ZU-23", 150, 1100, '#spawngroup="H2AAA" #spawncount=2'),
               ("-zu23", "Ural-375 ZU-23", 270, 1300, '#spawngroup="H2AAA" #spawncount=2'),
-              ("-shilka", "ZSU-23-4 Shilka", 210, 900, "#spawnchance=50")], "H2"),
+              ("-shilka", "ZSU-23-4 Shilka", 210, 900, "#spawnchance=50")], "H2")
+     # lot 07e : l'ancien difficile (H3, à guidage infrarouge) est passé au moyen
+     + fake(H, [("-sa13", "Strela-10M3", 90, 1000, '#spawngroup="H3SR" #spawncount=1'),
+                ("-sa13", "Strela-10M3", 300, 1000, '#spawngroup="H3SR" #spawncount=1'),
+                ("-sa18", "SA-18 Igla manpad", 0, 1500, '#spawngroup="H3MP" #spawncount=1'),
+                ("-sa18", "SA-18 Igla manpad", 200, 1400, '#spawngroup="H3MP" #spawncount=1')], "H3"),
      "Champ de tir hélicoptères de Talofofo : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) "
-     "en plus des cibles du niveau facile."),
+     "et une défense courte portée à guidage infrarouge (un SA-13 et une équipe de lance-missiles portatifs "
+     "SA-18) en plus des cibles du niveau facile."),
     ("combatZone_Talofofo_Hard", H, 2500, "H3 Hélico Talofofo — difficile", "Entraînement hélicoptères",
      "combatZone_Talofofo_Medium",
-     fake(H, [("-sa13", "Strela-10M3", 90, 1000, '#spawngroup="H3SR" #spawncount=1'),
-              ("-sa13", "Strela-10M3", 300, 1000, '#spawngroup="H3SR" #spawncount=1'),
-              ("-sa18", "SA-18 Igla manpad", 0, 1500, '#spawngroup="H3MP" #spawncount=1'),
-              ("-sa18", "SA-18 Igla manpad", 200, 1400, '#spawngroup="H3MP" #spawncount=1')], "H3"),
-     "Champ de tir hélicoptères de Talofofo, avec une défense courte portée réaliste : un SA-13 et une équipe "
-     "de lance-missiles portatifs SA-18, à guidage infrarouge."),
+     [],  # lot 07e : les lanceurs radar H4 sont posés par gen_07e_difficile_radar.py
+     "Champ de tir hélicoptères de Talofofo, avec une défense courte portée à guidage radar en plus du niveau "
+     "moyen : deux systèmes tirés au sort parmi SA-15 Tor, SA-19 Tunguska et SA-8 Osa, au-delà des cibles. "
+     "Approchez au ras du relief."),
     # ── A : attaque ──
     ("combatZone_NWF_Easy", A, 2500, "A1 Attaque North West Field — facile", "Entraînement attaque", None,
      inert(A, [("T-72B3", 0, 700), ("T-72B3", 40, 900), ("T-72B3", 80, 600), ("BTR-82A", 120, 800),

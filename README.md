@@ -86,8 +86,8 @@ Loin du front, à quelques minutes d'une base. Trois niveaux par famille, chacun
 `N13°19.051' E144°45.729'` · bullseye `207°/103 nm` · rayon 1.3 nm · menu F10 « Entraînement hélicoptères » · Arco 1 (panier, TACAN 51Y, 291.0) à 25 nm ; Texaco 1 (perche, TACAN 50Y, 290.0) à 44 nm
 
 - **H1 Hélico Talofofo — facile** — Champ de tir hélicoptères dans les collines de Talofofo, au sud-est de Guam, à 5 nm du FARP Merizo : cibles inertes (chars, blindés et camions immobiles, tir interdit).
-- **H2 Hélico Talofofo — moyen** — Champ de tir hélicoptères de Talofofo : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) en plus des cibles du niveau facile.
-- **H3 Hélico Talofofo — difficile** — Champ de tir hélicoptères de Talofofo, avec une défense courte portée réaliste : un SA-13 et une équipe de lance-missiles portatifs SA-18, à guidage infrarouge.
+- **H2 Hélico Talofofo — moyen** — Champ de tir hélicoptères de Talofofo : de l'artillerie antiaérienne légère (ZU-23, parfois un Shilka) et une défense courte portée à guidage infrarouge (un SA-13 et une équipe de lance-missiles portatifs SA-18) en plus des cibles du niveau facile.
+- **H3 Hélico Talofofo — difficile** — Champ de tir hélicoptères de Talofofo, avec une défense courte portée à guidage radar en plus du niveau moyen : deux systèmes tirés au sort parmi SA-15 Tor, SA-19 Tunguska et SA-8 Osa, au-delà des cibles. Approchez au ras du relief.
 
 ### Attaque — North West Field (nord de Guam)
 

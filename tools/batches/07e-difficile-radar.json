@@ -1,0 +1,107 @@
+[
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Hard-H3-1",
+   "new_name": "combatZone_Talofofo_Medium-H3-1",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Hard-H3-2",
+   "new_name": "combatZone_Talofofo_Medium-H3-2",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Hard-H3-3",
+   "new_name": "combatZone_Talofofo_Medium-H3-3",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "set_group_properties",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "group_name": "combatZone_Talofofo_Hard-H3-4",
+   "new_name": "combatZone_Talofofo_Medium-H3-4",
+   "acknowledge_conventions": true
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "H4-1",
+   "position": {
+    "x": -14199,
+    "y": -3003
+   },
+   "keep_position": true,
+   "for_combat_zone": "combatZone_Talofofo_Hard",
+   "units": [
+    {
+     "type": "Tor 9A331",
+     "name": "#command=\"-sa15\" #spawngroup=\"H4RAD\" #spawncount=2 #H4-1"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "H4-2",
+   "position": {
+    "x": -17871,
+    "y": -2978
+   },
+   "keep_position": true,
+   "for_combat_zone": "combatZone_Talofofo_Hard",
+   "units": [
+    {
+     "type": "2S6 Tunguska",
+     "name": "#command=\"-sa19\" #spawngroup=\"H4RAD\" #spawncount=2 #H4-2"
+    }
+   ]
+  }
+ },
+ {
+  "name": "add_group",
+  "params": {
+   "mission_path": "D:/dev/_VEAF/VEAF-Open-Training-Mission-Marianas-v6",
+   "coalition": "red",
+   "country_id": 0,
+   "country_name": "Russia",
+   "category": "vehicle",
+   "name": "H4-3",
+   "position": {
+    "x": -16140,
+    "y": -3095
+   },
+   "keep_position": true,
+   "for_combat_zone": "combatZone_Talofofo_Hard",
+   "units": [
+    {
+     "type": "Osa 9A33 ln",
+     "name": "#command=\"-sa8\" #spawngroup=\"H4RAD\" #spawncount=2 #H4-3"
+    }
+   ]
+  }
+ }
+]

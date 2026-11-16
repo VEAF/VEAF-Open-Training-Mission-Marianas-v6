@@ -66,8 +66,11 @@ Portée = `threat_range_m` du lanceur dans la base d'unités DCS (cercles de l'�
 | zone | combatZone_Rota_Medium | Osa 9A33 ln | 10.3 | ARG-1 Tarawa (route) | 66.2 | ✅ |
 | zone | combatZone_Rota_Medium | Tor 9A331 | 12.0 | ARG-1 Tarawa (route) | 66.1 | ✅ |
 | zone | combatZone_Sarigan | Osa 9A33 ln | 10.3 | piste Texaco 2 | 188.7 | ✅ |
-| zone | combatZone_Talofofo_Hard | SA-18 Igla manpad | 5.2 | FARP Merizo | 8.5 | ✅ |
-| zone | combatZone_Talofofo_Hard | Strela-10M3 | 5.0 | FARP Merizo | 9.1 | ✅ |
+| zone | combatZone_Talofofo_Hard | 2S6 Tunguska | 8.0 | FARP Merizo | 10.7 | ✅ |
+| zone | combatZone_Talofofo_Hard | Osa 9A33 ln | 10.3 | FARP Merizo | 11.6 | ✅ |
+| zone | combatZone_Talofofo_Hard | Tor 9A331 | 12.0 | FARP Merizo | 13.0 | ✅ |
+| zone | combatZone_Talofofo_Medium | SA-18 Igla manpad | 5.2 | FARP Merizo | 8.5 | ✅ |
+| zone | combatZone_Talofofo_Medium | Strela-10M3 | 5.0 | FARP Merizo | 9.1 | ✅ |
 | zone | combatZone_Talofofo_Medium | Ural-375 ZU-23 | 2.5 | FARP Merizo | 8.4 | ✅ |
 | zone | combatZone_Talofofo_Medium | ZSU-23-4 Shilka | 2.5 | FARP Merizo | 8.8 | ✅ |
 | zone | combatZone_TinianEst | SA-18 Igla manpad | 5.2 | piste Arco 2 | 57.3 | ✅ |
