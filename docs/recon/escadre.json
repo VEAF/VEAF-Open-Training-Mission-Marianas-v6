@@ -1,0 +1,82 @@
+{
+  "name": "escadre",
+  "title": "Z16 Antinavire — escadre de surface",
+  "heading_deg": 1.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Escadre",
+  "camera": {
+    "position": [
+      329119.75835960935,
+      899.9999999999999,
+      19972.794390802654
+    ],
+    "forward": [
+      0.8658935039207541,
+      -0.49999999999999994,
+      0.01511422733185859
+    ],
+    "up": [
+      0.4999238475781956,
+      0.8660254037844387,
+      0.008726203218641754
+    ],
+    "right": [
+      -0.01745240643728351,
+      0.0,
+      0.9998476951563913
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 330678.3666666667,
+    "z": 20000.0,
+    "alt_m": 0.0,
+    "lat": 16.474400743840853,
+    "lon": 144.95401876038892,
+    "dms": "N16°28'27.84\" E144°57'14.47\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:44",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Escadre [r] combatZone_Escadre-Escadre#10531",
+      "type": "Type_052C",
+      "x": 330078.3,
+      "z": 20000.0,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Escadre [r] combatZone_Escadre-Escadre#10531",
+      "type": "Type_052B",
+      "x": 330678.4,
+      "z": 20000.0,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Escadre [r] combatZone_Escadre-Escadre#10531",
+      "type": "Type_054A",
+      "x": 331278.4,
+      "z": 20000.0,
+      "alt": 0.0
+    }
+  ],
+  "image": "escadre.jpg",
+  "heading": 1,
+  "pitch": -30.0,
+  "x": 329119.75835960935,
+  "y": 19972.794390802654,
+  "altitude_m": 900,
+  "order": 25
+}

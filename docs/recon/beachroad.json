@@ -1,0 +1,122 @@
+{
+  "name": "beachroad",
+  "title": "Z06 Convoi — Saipan, Beach Road",
+  "heading_deg": 27.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_BeachRoad",
+  "camera": {
+    "position": [
+      193930.20692906913,
+      314.16249999999997,
+      106526.02461648926
+    ],
+    "forward": [
+      0.7716342848848006,
+      -0.49999999999999994,
+      0.3931673058512401
+    ],
+    "up": [
+      0.4455032620941839,
+      0.8660254037844387,
+      0.22699524986977335
+    ],
+    "right": [
+      -0.45399049973954675,
+      0.0,
+      0.8910065241883679
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 194393.1875,
+    "z": 106761.925,
+    "alt_m": 14.1625,
+    "lat": 15.248962761101327,
+    "lon": 145.7740284819488,
+    "dms": "N15°14'56.27\" E145°46'26.50\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:38",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_BeachRoad [r] combatZone_BeachRoad-Convoi#10490",
+      "type": "BTR-82A",
+      "x": 194310.4,
+      "z": 106645.6,
+      "alt": 16.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeachRoad [r] combatZone_BeachRoad-Convoi#10490",
+      "type": "KAMAZ Truck",
+      "x": 194353.3,
+      "z": 106688.7,
+      "alt": 14.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeachRoad [r] combatZone_BeachRoad-Convoi#10490",
+      "type": "KAMAZ Truck",
+      "x": 194362.6,
+      "z": 106727.8,
+      "alt": 15.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeachRoad [r] combatZone_BeachRoad-Convoi#10490",
+      "type": "KAMAZ Truck",
+      "x": 194369.4,
+      "z": 106759.1,
+      "alt": 15.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeachRoad [r] combatZone_BeachRoad-Convoi#10490",
+      "type": "KAMAZ Truck",
+      "x": 194383.5,
+      "z": 106788.1,
+      "alt": 14.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeachRoad [r] combatZone_BeachRoad-Convoi#10490",
+      "type": "Ural-375 ZU-23",
+      "x": 194427.0,
+      "z": 106807.9,
+      "alt": 13.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeachRoad [r] combatZone_BeachRoad-Convoi#10490",
+      "type": "Ural-4320-31",
+      "x": 194461.4,
+      "z": 106823.4,
+      "alt": 11.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_BeachRoad [r] combatZone_BeachRoad-Convoi#10490",
+      "type": "Ural-4320-31",
+      "x": 194477.9,
+      "z": 106854.8,
+      "alt": 11.9
+    }
+  ],
+  "image": "beachroad.jpg",
+  "heading": 27,
+  "pitch": -30.0,
+  "x": 193930.20692906913,
+  "y": 106526.02461648926,
+  "altitude_m": 314,
+  "order": 15
+}

@@ -1,0 +1,170 @@
+{
+  "name": "guguan",
+  "title": "Z04 SEAD — Guguan",
+  "heading_deg": 14.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1100.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Guguan",
+  "camera": {
+    "position": [
+      421387.6691770477,
+      757.1714285714285,
+      115193.86701337548
+    ],
+    "forward": [
+      0.8403007481384851,
+      -0.49999999999999994,
+      0.20951050732099907
+    ],
+    "up": [
+      0.4851478631379982,
+      0.8660254037844387,
+      0.12096094779983385
+    ],
+    "right": [
+      -0.24192189559966773,
+      0.0,
+      0.9702957262759965
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 422312.0,
+    "z": 115424.32857142857,
+    "alt_m": 207.17142857142858,
+    "lat": 17.30939496132294,
+    "lon": 145.84266331391643,
+    "dms": "N17°18'33.82\" E145°50'33.59\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:37",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA15#10487",
+      "type": "Tor 9A331",
+      "x": 422048.0,
+      "z": 115653.3,
+      "alt": 285.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA15#10487",
+      "type": "GAZ-66",
+      "x": 422048.0,
+      "z": 115674.3,
+      "alt": 285.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "SA-11 Buk SR 9S18M1",
+      "x": 422357.0,
+      "z": 115411.0,
+      "alt": 195.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "SA-11 Buk CC 9S470M1",
+      "x": 422355.0,
+      "z": 115356.0,
+      "alt": 190.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 422402.0,
+      "z": 115329.0,
+      "alt": 184.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 422405.0,
+      "z": 115384.0,
+      "alt": 191.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 422404.0,
+      "z": 115427.0,
+      "alt": 191.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 422315.0,
+      "z": 115437.0,
+      "alt": 206.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 422304.0,
+      "z": 115363.0,
+      "alt": 189.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "SA-11 Buk LN 9A310M1",
+      "x": 422304.0,
+      "z": 115423.0,
+      "alt": 205.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "ZSU-23-4 Shilka",
+      "x": 422377.0,
+      "z": 115350.0,
+      "alt": 191.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "ZSU-23-4 Shilka",
+      "x": 422354.0,
+      "z": 115336.0,
+      "alt": 188.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "ATZ-5",
+      "x": 422334.0,
+      "z": 115430.0,
+      "alt": 201.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Guguan [r] SA11#10486",
+      "type": "Ural-375",
+      "x": 422361.0,
+      "z": 115367.0,
+      "alt": 192.5
+    }
+  ],
+  "image": "guguan.jpg",
+  "heading": 14,
+  "pitch": -30.0,
+  "x": 421387.6691770477,
+  "y": 115193.86701337548,
+  "altitude_m": 757,
+  "order": 13
+}

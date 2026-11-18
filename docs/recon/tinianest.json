@@ -1,0 +1,210 @@
+{
+  "name": "tinianest",
+  "title": "Z01 Front — Tinian, plages de l'est",
+  "heading_deg": 27.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4200.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_TinianEst",
+  "camera": {
+    "position": [
+      166124.19916137858,
+      2115.2842105263153,
+      92309.82889437217
+    ],
+    "forward": [
+      0.7716342848848006,
+      -0.49999999999999994,
+      0.3931673058512401
+    ],
+    "up": [
+      0.4455032620941839,
+      0.8660254037844387,
+      0.22699524986977335
+    ],
+    "right": [
+      -0.45399049973954675,
+      0.0,
+      0.8910065241883679
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 169365.06315789474,
+    "z": 93961.13157894737,
+    "alt_m": 15.284210526315789,
+    "lat": 15.022060217303943,
+    "lon": 145.65627801961972,
+    "dms": "N15°01'19.42\" E145°39'22.60\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:35",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Infantry Section#10474",
+      "type": "Infantry AK ver3",
+      "x": 169808.1,
+      "z": 93432.6,
+      "alt": 14.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Infantry Section#10474",
+      "type": "Infantry AK ver3",
+      "x": 169574.1,
+      "z": 93480.6,
+      "alt": 19.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Infantry Section#10474",
+      "type": "Infantry AK ver3",
+      "x": 169758.1,
+      "z": 93349.6,
+      "alt": 15.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Infantry Section#10474",
+      "type": "Infantry AK ver2",
+      "x": 169639.1,
+      "z": 93515.6,
+      "alt": 16.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Infantry Section#10474",
+      "type": "Infantry AK ver3",
+      "x": 169566.1,
+      "z": 93383.6,
+      "alt": 18.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Infantry Section#10474",
+      "type": "Infantry AK ver3",
+      "x": 169557.1,
+      "z": 93560.6,
+      "alt": 13.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Infantry Section#10474",
+      "type": "Infantry AK ver3",
+      "x": 169682.1,
+      "z": 93599.6,
+      "alt": 13.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Infantry Section#10474",
+      "type": "BMP-2",
+      "x": 169726.1,
+      "z": 93508.6,
+      "alt": 17.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Ural-375 ZU-23#10472",
+      "type": "Ural-375 ZU-23",
+      "x": 169584.4,
+      "z": 93569.2,
+      "alt": 12.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Armored Platoon#10471",
+      "type": "ZSU-23-4 Shilka",
+      "x": 168710.5,
+      "z": 95190.8,
+      "alt": 14.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Armored Platoon#10471",
+      "type": "T-55",
+      "x": 168750.5,
+      "z": 95155.8,
+      "alt": 10.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Armored Platoon#10471",
+      "type": "T-55",
+      "x": 168819.5,
+      "z": 94994.8,
+      "alt": 21.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Armored Platoon#10471",
+      "type": "BMP-2",
+      "x": 168703.5,
+      "z": 95043.8,
+      "alt": 34.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Armored Platoon#10471",
+      "type": "ZSU_57_2",
+      "x": 168795.5,
+      "z": 95102.8,
+      "alt": 7.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Armored Platoon#10470",
+      "type": "BTR-82A",
+      "x": 169360.7,
+      "z": 93731.5,
+      "alt": 16.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Armored Platoon#10470",
+      "type": "T-55",
+      "x": 169348.7,
+      "z": 93690.5,
+      "alt": 19.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Armored Platoon#10470",
+      "type": "T-55",
+      "x": 169608.7,
+      "z": 93624.5,
+      "alt": 10.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Armored Platoon#10470",
+      "type": "BMP-2",
+      "x": 169465.7,
+      "z": 93740.5,
+      "alt": 0.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_TinianEst [r] Armored Platoon#10470",
+      "type": "VAB_Mephisto",
+      "x": 169477.7,
+      "z": 93586.5,
+      "alt": 14.8
+    }
+  ],
+  "image": "tinianest.jpg",
+  "heading": 27,
+  "pitch": -30.0,
+  "x": 166124.19916137858,
+  "y": 92309.82889437217,
+  "altitude_m": 2115,
+  "order": 10
+}

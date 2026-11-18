@@ -1,0 +1,114 @@
+{
+  "name": "crossisland",
+  "title": "Z08 Convoi — Saipan, Cross Island Road",
+  "heading_deg": 27.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_CrossIsland",
+  "camera": {
+    "position": [
+      192840.70514335486,
+      318.9571428571428,
+      104508.69961648925
+    ],
+    "forward": [
+      0.7716342848848006,
+      -0.49999999999999994,
+      0.3931673058512401
+    ],
+    "up": [
+      0.4455032620941839,
+      0.8660254037844387,
+      0.22699524986977335
+    ],
+    "right": [
+      -0.45399049973954675,
+      0.0,
+      0.8910065241883679
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 193303.68571428573,
+    "z": 104744.59999999999,
+    "alt_m": 18.957142857142856,
+    "lat": 15.239011455295326,
+    "lon": 145.7553044040721,
+    "dms": "N15°14'20.44\" E145°45'19.10\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:39",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_CrossIsland [r] combatZone_CrossIsland-Convoi#10492",
+      "type": "BTR-82A",
+      "x": 193187.8,
+      "z": 104708.6,
+      "alt": 18.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CrossIsland [r] combatZone_CrossIsland-Convoi#10492",
+      "type": "BTR-82A",
+      "x": 193224.9,
+      "z": 104748.9,
+      "alt": 21.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CrossIsland [r] combatZone_CrossIsland-Convoi#10492",
+      "type": "ZBD04A",
+      "x": 193245.7,
+      "z": 104747.4,
+      "alt": 23.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CrossIsland [r] combatZone_CrossIsland-Convoi#10492",
+      "type": "ZBD04A",
+      "x": 193323.7,
+      "z": 104757.2,
+      "alt": 19.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CrossIsland [r] combatZone_CrossIsland-Convoi#10492",
+      "type": "Ural-4320-31",
+      "x": 193353.7,
+      "z": 104761.2,
+      "alt": 18.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CrossIsland [r] combatZone_CrossIsland-Convoi#10492",
+      "type": "Ural-4320-31",
+      "x": 193377.8,
+      "z": 104745.2,
+      "alt": 16.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_CrossIsland [r] combatZone_CrossIsland-Convoi#10492",
+      "type": "Strela-10M3",
+      "x": 193412.2,
+      "z": 104743.7,
+      "alt": 15.7
+    }
+  ],
+  "image": "crossisland.jpg",
+  "heading": 27,
+  "pitch": -30.0,
+  "x": 192840.70514335486,
+  "y": 104508.69961648925,
+  "altitude_m": 319,
+  "order": 17
+}

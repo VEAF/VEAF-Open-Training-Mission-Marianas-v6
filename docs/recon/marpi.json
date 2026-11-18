@@ -1,0 +1,162 @@
+{
+  "name": "marpi",
+  "title": "Z05 SEAD — Saipan, Marpi",
+  "heading_deg": 27.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1550.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Marpi",
+  "camera": {
+    "position": [
+      195000.69762765933,
+      867.3615384615383,
+      108415.55221439211
+    ],
+    "forward": [
+      0.7716342848848006,
+      -0.49999999999999994,
+      0.3931673058512401
+    ],
+    "up": [
+      0.4455032620941839,
+      0.8660254037844387,
+      0.22699524986977335
+    ],
+    "right": [
+      -0.45399049973954675,
+      0.0,
+      0.8910065241883679
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 196196.73076923078,
+    "z": 109024.96153846153,
+    "alt_m": 92.36153846153846,
+    "lat": 15.265379158527356,
+    "lon": 145.79500539335837,
+    "dms": "N15°15'55.36\" E145°47'42.02\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:37",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA8#10489",
+      "type": "Osa 9A33 ln",
+      "x": 195732.0,
+      "z": 108787.0,
+      "alt": 86.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA8#10489",
+      "type": "GAZ-66",
+      "x": 195738.0,
+      "z": 108807.0,
+      "alt": 88.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "Kub 1S91 str",
+      "x": 196272.5,
+      "z": 109055.5,
+      "alt": 92.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "Kub 2P25 ln",
+      "x": 196338.5,
+      "z": 109052.5,
+      "alt": 87.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "Kub 2P25 ln",
+      "x": 196274.5,
+      "z": 109042.5,
+      "alt": 90.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "Kub 2P25 ln",
+      "x": 196275.5,
+      "z": 109103.5,
+      "alt": 97.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "Kub 2P25 ln",
+      "x": 196237.5,
+      "z": 109053.5,
+      "alt": 96.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "ZSU-23-4 Shilka",
+      "x": 196314.5,
+      "z": 109075.5,
+      "alt": 91.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "ZSU-23-4 Shilka",
+      "x": 196272.5,
+      "z": 109076.5,
+      "alt": 95.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "ATZ-5",
+      "x": 196285.5,
+      "z": 109073.5,
+      "alt": 93.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "ZIL-135",
+      "x": 196239.5,
+      "z": 109034.5,
+      "alt": 93.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "ZIL-135",
+      "x": 196331.5,
+      "z": 109099.5,
+      "alt": 93.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Marpi [r] SA6#10488",
+      "type": "Ural-375 PBU",
+      "x": 196245.5,
+      "z": 109063.5,
+      "alt": 96.2
+    }
+  ],
+  "image": "marpi.jpg",
+  "heading": 27,
+  "pitch": -30.0,
+  "x": 195000.69762765933,
+  "y": 108415.55221439211,
+  "altitude_m": 867,
+  "order": 14
+}

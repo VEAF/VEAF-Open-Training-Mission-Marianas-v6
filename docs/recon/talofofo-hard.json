@@ -1,0 +1,226 @@
+{
+  "name": "talofofo-hard",
+  "title": "H3 Hélico Talofofo — difficile",
+  "heading_deg": 211.0,
+  "pitch_deg": 30.0,
+  "slant_m": 6000.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Talofofo_Hard",
+  "camera": {
+    "position": [
+      -14627.304244268005,
+      3068.3619047619045,
+      -1686.3646116509144
+    ],
+    "forward": [
+      -0.7423286577013642,
+      -0.49999999999999994,
+      -0.44603605678833963
+    ],
+    "up": [
+      -0.4285836503510561,
+      0.8660254037844387,
+      -0.257519037455027
+    ],
+    "right": [
+      0.5150380749100542,
+      0.0,
+      -0.8571673007021123
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -19081.27619047619,
+    "z": -4362.580952380952,
+    "alt_m": 68.36190476190475,
+    "lat": 13.312234727687303,
+    "lon": 144.75886007496482,
+    "dms": "N13°18'44.05\" E144°45'31.90\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:31",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] combatZone_Talofofo_Easy-Inert-KAMAZ-6#10411",
+      "type": "KAMAZ Truck",
+      "x": -17581.6,
+      "z": -4213.0,
+      "alt": 31.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] combatZone_Talofofo_Easy-Inert-BTR-82A-3#10410",
+      "type": "BTR-82A",
+      "x": -19027.1,
+      "z": -3942.9,
+      "alt": 108.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] combatZone_Talofofo_Easy-Inert-T-72B3-2#10409",
+      "type": "T-72B3",
+      "x": -19427.5,
+      "z": -4240.0,
+      "alt": 97.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] combatZone_Talofofo_Easy-Inert-T-72B3-1#10408",
+      "type": "T-72B3",
+      "x": -17896.7,
+      "z": -3820.2,
+      "alt": 60.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] ZSU-23-4 Shilka#10406",
+      "type": "ZSU-23-4 Shilka",
+      "x": -19785.6,
+      "z": -4159.0,
+      "alt": 84.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] Red Manpad Squad#10405",
+      "type": "SA-18 Igla manpad",
+      "x": -20171.6,
+      "z": -4920.0,
+      "alt": 70.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] Red Manpad Squad#10405",
+      "type": "SA-18 Igla manpad",
+      "x": -20148.6,
+      "z": -4993.0,
+      "alt": 68.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] Red Manpad Squad#10405",
+      "type": "Infantry AK",
+      "x": -20288.6,
+      "z": -4970.0,
+      "alt": 59.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] Red Manpad Squad#10405",
+      "type": "Infantry AK",
+      "x": -20292.6,
+      "z": -5055.0,
+      "alt": 67.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] Red Manpad Squad#10405",
+      "type": "UAZ-469",
+      "x": -20255.6,
+      "z": -5065.0,
+      "alt": 69.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] combatZone_Talofofo_Easy-Inert-BTR-82A-4#10404",
+      "type": "BTR-82A",
+      "x": -19599.3,
+      "z": -4006.2,
+      "alt": 90.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] combatZone_Talofofo_Easy-Inert-KAMAZ-7#10403",
+      "type": "KAMAZ Truck",
+      "x": -19037.6,
+      "z": -3846.0,
+      "alt": 101.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] SA8#10402",
+      "type": "Osa 9A33 ln",
+      "x": -16408.0,
+      "z": -3951.0,
+      "alt": 11.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] SA8#10402",
+      "type": "GAZ-66",
+      "x": -16439.0,
+      "z": -3941.0,
+      "alt": 11.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] SA19#10401",
+      "type": "2S6 Tunguska",
+      "x": -20334.5,
+      "z": -4102.2,
+      "alt": 87.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] SA19#10401",
+      "type": "Ural-375",
+      "x": -20398.5,
+      "z": -4113.2,
+      "alt": 89.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] Ural-375 ZU-23#10399",
+      "type": "Ural-375 ZU-23",
+      "x": -20165.6,
+      "z": -5089.0,
+      "alt": 71.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] Ural-375 ZU-23#10397",
+      "type": "Ural-375 ZU-23",
+      "x": -20067.3,
+      "z": -4876.3,
+      "alt": 66.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] Strela-10M3#10395",
+      "type": "Strela-10M3",
+      "x": -20024.6,
+      "z": -5078.1,
+      "alt": 66.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard [r] combatZone_Talofofo_Easy-Inert-ZBD04A-5#10394",
+      "type": "ZBD04A",
+      "x": -19241.9,
+      "z": -4028.1,
+      "alt": 105.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Hard-H4-1",
+      "type": "Tor 9A331",
+      "x": -14115.0,
+      "z": -3205.0,
+      "alt": 16.5
+    }
+  ],
+  "image": "talofofo-hard.jpg",
+  "heading": 211,
+  "pitch": -30.0,
+  "x": -14627.304244268005,
+  "y": -1686.3646116509144,
+  "altitude_m": 3068,
+  "order": 3
+}

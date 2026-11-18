@@ -1,0 +1,194 @@
+{
+  "name": "rota-hard",
+  "title": "S3 SEAD Rota — difficile",
+  "heading_deg": 26.0,
+  "pitch_deg": 30.0,
+  "slant_m": 5350.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Rota_Hard",
+  "camera": {
+    "position": [
+      69112.61632524131,
+      3027.3294117647056,
+      42628.04070773962
+    ],
+    "forward": [
+      0.7783784768652856,
+      -0.49999999999999994,
+      0.3796405494054582
+    ],
+    "up": [
+      0.44939702314958346,
+      0.8660254037844387,
+      0.21918557339453867
+    ],
+    "right": [
+      -0.4383711467890774,
+      0.0,
+      0.898794046299167
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 73276.94117647059,
+    "z": 44659.117647058825,
+    "alt_m": 352.3294117647059,
+    "lat": 14.150533940685278,
+    "lon": 145.20486861782612,
+    "dms": "N14°09'01.92\" E145°12'17.53\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:35",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA6#10469",
+      "type": "Kub 1S91 str",
+      "x": 73366.0,
+      "z": 44465.0,
+      "alt": 354.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA6#10469",
+      "type": "Kub 2P25 ln",
+      "x": 73401.0,
+      "z": 44471.0,
+      "alt": 349.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA6#10469",
+      "type": "Kub 2P25 ln",
+      "x": 73367.0,
+      "z": 44417.0,
+      "alt": 358.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA6#10469",
+      "type": "Kub 2P25 ln",
+      "x": 73370.0,
+      "z": 44499.0,
+      "alt": 351.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA6#10469",
+      "type": "Kub 2P25 ln",
+      "x": 73325.0,
+      "z": 44460.0,
+      "alt": 358.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA6#10469",
+      "type": "ZSU-23-4 Shilka",
+      "x": 73410.0,
+      "z": 44484.0,
+      "alt": 345.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA6#10469",
+      "type": "ATZ-5",
+      "x": 73346.0,
+      "z": 44419.0,
+      "alt": 361.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA6#10469",
+      "type": "ZIL-135",
+      "x": 73379.0,
+      "z": 44441.0,
+      "alt": 355.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA6#10469",
+      "type": "ZIL-135",
+      "x": 73323.0,
+      "z": 44489.0,
+      "alt": 356.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA6#10469",
+      "type": "Ural-375 PBU",
+      "x": 73359.0,
+      "z": 44491.0,
+      "alt": 353.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA15#10468",
+      "type": "Tor 9A331",
+      "x": 72932.0,
+      "z": 42902.0,
+      "alt": 463.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA15#10468",
+      "type": "GAZ-66",
+      "x": 72917.0,
+      "z": 42920.0,
+      "alt": 464.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA15#10467",
+      "type": "Tor 9A331",
+      "x": 74613.0,
+      "z": 45632.0,
+      "alt": 203.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] SA15#10467",
+      "type": "GAZ-66",
+      "x": 74639.0,
+      "z": 45610.0,
+      "alt": 202.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] Red EWR#10466",
+      "type": "55G6 EWR",
+      "x": 72341.0,
+      "z": 45810.0,
+      "alt": 371.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] Red EWR#10466",
+      "type": "SA-18 Igla manpad",
+      "x": 72300.0,
+      "z": 45865.0,
+      "alt": 369.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Hard [r] Red EWR#10466",
+      "type": "Ural-375 PBU",
+      "x": 72320.0,
+      "z": 45830.0,
+      "alt": 370.4
+    }
+  ],
+  "image": "rota-hard.jpg",
+  "heading": 26,
+  "pitch": -30.0,
+  "x": 69112.61632524131,
+  "y": 42628.04070773962,
+  "altitude_m": 3027,
+  "order": 9
+}

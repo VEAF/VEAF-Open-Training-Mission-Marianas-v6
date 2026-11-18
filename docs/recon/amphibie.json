@@ -1,0 +1,82 @@
+{
+  "name": "amphibie",
+  "title": "Z15 Antinavire — groupe amphibie de Tinian",
+  "heading_deg": 24.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Amphibie",
+  "camera": {
+    "position": [
+      159734.05690043865,
+      899.9999999999999,
+      78365.96032200343
+    ],
+    "forward": [
+      0.7911535738303732,
+      -0.49999999999999994,
+      0.352244265553647
+    ],
+    "up": [
+      0.4567727288213004,
+      0.8660254037844387,
+      0.20336832153790008
+    ],
+    "right": [
+      -0.4067366430758002,
+      0.0,
+      0.9135454576426009
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 161158.13333333333,
+    "z": 79000.0,
+    "alt_m": 0.0,
+    "lat": 14.94701967417057,
+    "lon": 145.51765362370907,
+    "dms": "N14°56'49.27\" E145°31'03.55\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:43",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Amphibie [r] combatZone_Amphibie-Groupe#10530",
+      "type": "Type_054A",
+      "x": 160556.2,
+      "z": 79000.0,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Amphibie [r] combatZone_Amphibie-Groupe#10530",
+      "type": "BDK-775",
+      "x": 161159.1,
+      "z": 79000.0,
+      "alt": 0.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Amphibie [r] combatZone_Amphibie-Groupe#10530",
+      "type": "BDK-775",
+      "x": 161759.1,
+      "z": 79000.0,
+      "alt": 0.0
+    }
+  ],
+  "image": "amphibie.jpg",
+  "heading": 24,
+  "pitch": -30.0,
+  "x": 159734.05690043865,
+  "y": 78365.96032200343,
+  "altitude_m": 900,
+  "order": 24
+}

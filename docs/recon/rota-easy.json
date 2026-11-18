@@ -1,0 +1,130 @@
+{
+  "name": "rota-easy",
+  "title": "S1 SEAD Rota — facile",
+  "heading_deg": 26.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Rota_Easy",
+  "camera": {
+    "position": [
+      72905.41735832527,
+      652.8999999999999,
+      44246.32678146783
+    ],
+    "forward": [
+      0.7783784768652856,
+      -0.49999999999999994,
+      0.3796405494054582
+    ],
+    "up": [
+      0.44939702314958346,
+      0.8660254037844387,
+      0.21918557339453867
+    ],
+    "right": [
+      -0.4383711467890774,
+      0.0,
+      0.898794046299167
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 73372.44444444444,
+    "z": 44474.11111111111,
+    "alt_m": 352.9,
+    "lat": 14.151384226141433,
+    "lon": 145.20314838967226,
+    "dms": "N14°09'04.98\" E145°12'11.33\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:34",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Easy [r] SA6#10462",
+      "type": "Kub 1S91 str",
+      "x": 73370.0,
+      "z": 44477.0,
+      "alt": 353.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Easy [r] SA6#10462",
+      "type": "Kub 2P25 ln",
+      "x": 73401.0,
+      "z": 44479.0,
+      "alt": 348.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Easy [r] SA6#10462",
+      "type": "Kub 2P25 ln",
+      "x": 73359.0,
+      "z": 44418.0,
+      "alt": 359.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Easy [r] SA6#10462",
+      "type": "Kub 2P25 ln",
+      "x": 73360.0,
+      "z": 44504.0,
+      "alt": 352.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Easy [r] SA6#10462",
+      "type": "Kub 2P25 ln",
+      "x": 73330.0,
+      "z": 44478.0,
+      "alt": 356.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Easy [r] SA6#10462",
+      "type": "ZSU-23-4 Shilka",
+      "x": 73345.0,
+      "z": 44439.0,
+      "alt": 359.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Easy [r] SA6#10462",
+      "type": "ATZ-5",
+      "x": 73403.0,
+      "z": 44496.0,
+      "alt": 346.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Easy [r] SA6#10462",
+      "type": "ZIL-135",
+      "x": 73398.0,
+      "z": 44465.0,
+      "alt": 350.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Easy [r] SA6#10462",
+      "type": "Ural-375 PBU",
+      "x": 73386.0,
+      "z": 44511.0,
+      "alt": 348.9
+    }
+  ],
+  "image": "rota-easy.jpg",
+  "heading": 26,
+  "pitch": -30.0,
+  "x": 72905.41735832527,
+  "y": 44246.32678146783,
+  "altitude_m": 653,
+  "order": 7
+}
