@@ -1,0 +1,155 @@
+{
+  "operation": "Open Training Marianas",
+  "shots": [
+    {
+      "name": "talofofo-easy",
+      "title": "H1 Hélico Talofofo — facile",
+      "image": "talofofo-easy.jpg",
+      "metadata": "talofofo-easy.json"
+    },
+    {
+      "name": "talofofo-medium",
+      "title": "H2 Hélico Talofofo — moyen",
+      "image": "talofofo-medium.jpg",
+      "metadata": "talofofo-medium.json"
+    },
+    {
+      "name": "talofofo-hard",
+      "title": "H3 Hélico Talofofo — difficile",
+      "image": "talofofo-hard.jpg",
+      "metadata": "talofofo-hard.json"
+    },
+    {
+      "name": "nwf-easy",
+      "title": "A1 Attaque North West Field — facile",
+      "image": "nwf-easy.jpg",
+      "metadata": "nwf-easy.json"
+    },
+    {
+      "name": "nwf-medium",
+      "title": "A2 Attaque North West Field — moyen",
+      "image": "nwf-medium.jpg",
+      "metadata": "nwf-medium.json"
+    },
+    {
+      "name": "nwf-hard",
+      "title": "A3 Attaque North West Field — difficile",
+      "image": "nwf-hard.jpg",
+      "metadata": "nwf-hard.json"
+    },
+    {
+      "name": "rota-easy",
+      "title": "S1 SEAD Rota — facile",
+      "image": "rota-easy.jpg",
+      "metadata": "rota-easy.json"
+    },
+    {
+      "name": "rota-medium",
+      "title": "S2 SEAD Rota — moyen",
+      "image": "rota-medium.jpg",
+      "metadata": "rota-medium.json"
+    },
+    {
+      "name": "rota-hard",
+      "title": "S3 SEAD Rota — difficile",
+      "image": "rota-hard.jpg",
+      "metadata": "rota-hard.json"
+    },
+    {
+      "name": "tinianest",
+      "title": "Z01 Front — Tinian, plages de l'est",
+      "image": "tinianest.jpg",
+      "metadata": "tinianest.json"
+    },
+    {
+      "name": "chalankanoa",
+      "title": "Z02 Front — Saipan, plages de Chalan Kanoa",
+      "image": "chalankanoa.jpg",
+      "metadata": "chalankanoa.json"
+    },
+    {
+      "name": "kagman",
+      "title": "Z03 Front — Saipan, artillerie de Kagman",
+      "image": "kagman.jpg",
+      "metadata": "kagman.json"
+    },
+    {
+      "name": "guguan",
+      "title": "Z04 SEAD — Guguan",
+      "image": "guguan.jpg",
+      "metadata": "guguan.json"
+    },
+    {
+      "name": "marpi",
+      "title": "Z05 SEAD — Saipan, Marpi",
+      "image": "marpi.jpg",
+      "metadata": "marpi.json"
+    },
+    {
+      "name": "beachroad",
+      "title": "Z06 Convoi — Saipan, Beach Road",
+      "image": "beachroad.jpg",
+      "metadata": "beachroad.json"
+    },
+    {
+      "name": "broadway",
+      "title": "Z07 Convoi — Tinian, Broadway",
+      "image": "broadway.jpg",
+      "metadata": "broadway.json"
+    },
+    {
+      "name": "crossisland",
+      "title": "Z08 Convoi — Saipan, Cross Island Road",
+      "image": "crossisland.jpg",
+      "metadata": "crossisland.json"
+    },
+    {
+      "name": "anatahan",
+      "title": "Z09 Frappe — Anatahan, missiles côtiers",
+      "image": "anatahan.jpg",
+      "metadata": "anatahan.json"
+    },
+    {
+      "name": "garapan",
+      "title": "Z10 Frappe — Garapan, état-major",
+      "image": "garapan.jpg",
+      "metadata": "garapan.json"
+    },
+    {
+      "name": "sarigan",
+      "title": "Z11 Frappe — Sarigan, station d'écoute",
+      "image": "sarigan.jpg",
+      "metadata": "sarigan.json"
+    },
+    {
+      "name": "alamagan",
+      "title": "Z12 Frappe — Alamagan, dépôt avancé",
+      "image": "alamagan.jpg",
+      "metadata": "alamagan.json"
+    },
+    {
+      "name": "northfield",
+      "title": "Z13 OCA — Tinian, North Field",
+      "image": "northfield.jpg",
+      "metadata": "northfield.json"
+    },
+    {
+      "name": "pagan",
+      "title": "Z14 OCA — Pagan",
+      "image": "pagan.jpg",
+      "metadata": "pagan.json"
+    },
+    {
+      "name": "amphibie",
+      "title": "Z15 Antinavire — groupe amphibie de Tinian",
+      "image": "amphibie.jpg",
+      "metadata": "amphibie.json"
+    },
+    {
+      "name": "escadre",
+      "title": "Z16 Antinavire — escadre de surface",
+      "image": "escadre.jpg",
+      "metadata": "escadre.json"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "name": "broadway",
+  "title": "Z07 Convoi — Tinian, Broadway",
+  "heading_deg": 26.0,
+  "pitch_deg": 30.0,
+  "slant_m": 600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Broadway",
+  "camera": {
+    "position": [
+      168591.97291388083,
+      364.29999999999995,
+      91565.49900369006
+    ],
+    "forward": [
+      0.7783784768652856,
+      -0.49999999999999994,
+      0.3796405494054582
+    ],
+    "up": [
+      0.44939702314958346,
+      0.8660254037844387,
+      0.21918557339453867
+    ],
+    "right": [
+      -0.4383711467890774,
+      0.0,
+      0.898794046299167
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 169059.0,
+    "z": 91793.28333333333,
+    "alt_m": 64.3,
+    "lat": 15.019173800277843,
+    "lon": 145.63613455248023,
+    "dms": "N15°01'09.03\" E145°38'10.08\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:39",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Broadway [r] combatZone_Broadway-Convoi#10491",
+      "type": "GAZ-66",
+      "x": 169141.2,
+      "z": 91802.6,
+      "alt": 65.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Broadway [r] combatZone_Broadway-Convoi#10491",
+      "type": "ATZ-10",
+      "x": 169108.7,
+      "z": 91799.8,
+      "alt": 65.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Broadway [r] combatZone_Broadway-Convoi#10491",
+      "type": "ATZ-10",
+      "x": 169077.8,
+      "z": 91795.0,
+      "alt": 62.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Broadway [r] combatZone_Broadway-Convoi#10491",
+      "type": "ATZ-10",
+      "x": 169044.8,
+      "z": 91792.4,
+      "alt": 62.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Broadway [r] combatZone_Broadway-Convoi#10491",
+      "type": "Ural-375 ZU-23",
+      "x": 169011.2,
+      "z": 91786.8,
+      "alt": 64.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Broadway [r] combatZone_Broadway-Convoi#10491",
+      "type": "ATZ-5",
+      "x": 168970.3,
+      "z": 91783.1,
+      "alt": 65.7
+    }
+  ],
+  "image": "broadway.jpg",
+  "heading": 26,
+  "pitch": -30.0,
+  "x": 168591.97291388083,
+  "y": 91565.49900369006,
+  "altitude_m": 364,
+  "order": 16
+}

@@ -1,0 +1,298 @@
+{
+  "name": "nwf-hard",
+  "title": "A3 Attaque North West Field — difficile",
+  "heading_deg": 305.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_NWF_Hard",
+  "camera": {
+    "position": [
+      12331.627528517662,
+      2560.063333333333,
+      9330.617770264535
+    ],
+    "forward": [
+      0.49673176489215404,
+      -0.49999999999999994,
+      -0.7094064799162225
+    ],
+    "up": [
+      0.28678821817552297,
+      0.8660254037844387,
+      -0.40957602214449584
+    ],
+    "right": [
+      0.8191520442889918,
+      0.0,
+      0.573576436351046
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 14715.94,
+    "z": 5925.466666666666,
+    "alt_m": 160.06333333333333,
+    "lat": 13.618446273530965,
+    "lon": 144.8510574892488,
+    "dms": "N13°37'06.41\" E144°51'03.81\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:33",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Inert-KAMAZ-9#10461",
+      "type": "KAMAZ Truck",
+      "x": 16064.8,
+      "z": 5865.1,
+      "alt": 165.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] ZSU-23-4 Shilka#10459",
+      "type": "ZSU-23-4 Shilka",
+      "x": 15834.9,
+      "z": 5763.0,
+      "alt": 163.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10458",
+      "type": "ZSU_57_2",
+      "x": 14145.1,
+      "z": 5936.6,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10458",
+      "type": "BTR-82A",
+      "x": 13938.1,
+      "z": 5878.6,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10458",
+      "type": "BMP-1",
+      "x": 14023.1,
+      "z": 5735.6,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10458",
+      "type": "BMP-2",
+      "x": 14096.1,
+      "z": 5794.6,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10458",
+      "type": "VAB_Mephisto",
+      "x": 14170.1,
+      "z": 5854.6,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10458",
+      "type": "ZSU-23-4 Shilka",
+      "x": 14063.1,
+      "z": 5761.6,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10458",
+      "type": "BMP-2",
+      "x": 13919.1,
+      "z": 5665.6,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Inert-T-72B3-1#10457",
+      "type": "T-72B3",
+      "x": 16031.8,
+      "z": 5920.9,
+      "alt": 169.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Inert-ZBD04A-6#10455",
+      "type": "ZBD04A",
+      "x": 14442.8,
+      "z": 5438.1,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Inert-T-72B3-3#10454",
+      "type": "T-72B3",
+      "x": 15223.0,
+      "z": 6245.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Inert-T-72B3-2#10453",
+      "type": "T-72B3",
+      "x": 16010.2,
+      "z": 6025.8,
+      "alt": 175.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Inert-KAMAZ-8#10452",
+      "type": "KAMAZ Truck",
+      "x": 15275.1,
+      "z": 5602.4,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10451",
+      "type": "T-55",
+      "x": 14073.7,
+      "z": 6182.8,
+      "alt": 158.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10451",
+      "type": "VAB_Mephisto",
+      "x": 13893.7,
+      "z": 6125.8,
+      "alt": 144.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10451",
+      "type": "BTR-82A",
+      "x": 13831.7,
+      "z": 6138.8,
+      "alt": 155.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10451",
+      "type": "BMP-2",
+      "x": 13739.7,
+      "z": 6069.8,
+      "alt": 156.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10451",
+      "type": "Chieftain_mk3",
+      "x": 14011.7,
+      "z": 5994.8,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10451",
+      "type": "VAB_Mephisto",
+      "x": 13800.7,
+      "z": 5935.8,
+      "alt": 156.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Armored Platoon#10451",
+      "type": "VAB_Mephisto",
+      "x": 13983.7,
+      "z": 5916.8,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Inert-Ural-4320-31-10#10449",
+      "type": "Ural-4320-31",
+      "x": 15312.6,
+      "z": 5715.3,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Strela-10M3#10447",
+      "type": "Strela-10M3",
+      "x": 15747.0,
+      "z": 5873.8,
+      "alt": 167.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Inert-BTR-82A-5#10446",
+      "type": "BTR-82A",
+      "x": 14652.5,
+      "z": 5805.7,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Inert-BTR-82A-4#10445",
+      "type": "BTR-82A",
+      "x": 14811.8,
+      "z": 6219.7,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] Ural-375 ZU-23#10443",
+      "type": "Ural-375 ZU-23",
+      "x": 15990.6,
+      "z": 5786.7,
+      "alt": 163.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Inert-ZBD04A-7#10441",
+      "type": "ZBD04A",
+      "x": 14305.5,
+      "z": 5223.7,
+      "alt": 159.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Static-Fuel-2#10442 #103",
+      "type": "Fuel tank",
+      "x": 14759.0,
+      "z": 6749.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Static-Fuel-1#10450 #102",
+      "type": "Fuel tank",
+      "x": 15004.0,
+      "z": 6580.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NWF_Hard [r] combatZone_NWF_Easy-Static-Command-3#10456 #104",
+      "type": ".Command Center",
+      "x": 16323.0,
+      "z": 5958.0,
+      "alt": 163.1
+    }
+  ],
+  "image": "nwf-hard.jpg",
+  "heading": 305,
+  "pitch": -30.0,
+  "x": 12331.627528517662,
+  "y": 9330.617770264535,
+  "altitude_m": 2560,
+  "order": 6
+}

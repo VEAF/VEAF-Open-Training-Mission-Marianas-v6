@@ -1,0 +1,178 @@
+{
+  "name": "rota-medium",
+  "title": "S2 SEAD Rota — moyen",
+  "heading_deg": 26.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Rota_Medium",
+  "camera": {
+    "position": [
+      69837.25900641968,
+      2638.073333333333,
+      42934.586806068226
+    ],
+    "forward": [
+      0.7783784768652856,
+      -0.49999999999999994,
+      0.3796405494054582
+    ],
+    "up": [
+      0.44939702314958346,
+      0.8660254037844387,
+      0.21918557339453867
+    ],
+    "right": [
+      -0.4383711467890774,
+      0.0,
+      0.898794046299167
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 73417.8,
+    "z": 44680.933333333334,
+    "alt_m": 338.0733333333334,
+    "lat": 14.151808451733448,
+    "lon": 145.20506066962398,
+    "dms": "N14°09'06.51\" E145°12'18.22\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:34",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "Kub 1S91 str",
+      "x": 73364.0,
+      "z": 44462.0,
+      "alt": 355.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "Kub 2P25 ln",
+      "x": 73402.0,
+      "z": 44446.0,
+      "alt": 351.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "Kub 2P25 ln",
+      "x": 73370.0,
+      "z": 44440.0,
+      "alt": 356.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "Kub 2P25 ln",
+      "x": 73370.0,
+      "z": 44502.0,
+      "alt": 351.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "Kub 2P25 ln",
+      "x": 73324.0,
+      "z": 44459.0,
+      "alt": 358.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "ZSU-23-4 Shilka",
+      "x": 73319.0,
+      "z": 44482.0,
+      "alt": 357.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "ZSU-23-4 Shilka",
+      "x": 73359.0,
+      "z": 44482.0,
+      "alt": 354.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "ATZ-5",
+      "x": 73405.0,
+      "z": 44433.0,
+      "alt": 351.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "ZIL-135",
+      "x": 73341.0,
+      "z": 44475.0,
+      "alt": 356.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "ZIL-135",
+      "x": 73380.0,
+      "z": 44487.0,
+      "alt": 351.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA6#10465",
+      "type": "Ural-375 PBU",
+      "x": 73325.0,
+      "z": 44436.0,
+      "alt": 361.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA8#10464",
+      "type": "Osa 9A33 ln",
+      "x": 72536.0,
+      "z": 44928.0,
+      "alt": 379.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA8#10464",
+      "type": "GAZ-66",
+      "x": 72514.0,
+      "z": 44944.0,
+      "alt": 380.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA15#10463",
+      "type": "Tor 9A331",
+      "x": 74618.0,
+      "z": 45635.0,
+      "alt": 203.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Rota_Medium [r] SA15#10463",
+      "type": "GAZ-66",
+      "x": 74640.0,
+      "z": 45603.0,
+      "alt": 202.5
+    }
+  ],
+  "image": "rota-medium.jpg",
+  "heading": 26,
+  "pitch": -30.0,
+  "x": 69837.25900641968,
+  "y": 42934.586806068226,
+  "altitude_m": 2638,
+  "order": 8
+}

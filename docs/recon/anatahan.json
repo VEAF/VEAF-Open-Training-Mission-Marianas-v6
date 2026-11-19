@@ -1,0 +1,106 @@
+{
+  "name": "anatahan",
+  "title": "Z09 Frappe — Anatahan, missiles côtiers",
+  "heading_deg": 16.0,
+  "pitch_deg": 30.0,
+  "slant_m": 1300.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Anatahan",
+  "camera": {
+    "position": [
+      315425.11317045556,
+      1056.0333333333333,
+      99952.011695253
+    ],
+    "forward": [
+      0.8324770483674969,
+      -0.49999999999999994,
+      0.23870895236949172
+    ],
+    "up": [
+      0.4806308479691594,
+      0.8660254037844387,
+      0.13781867790849955
+    ],
+    "right": [
+      -0.27563735581699916,
+      0.0,
+      0.9612616959383189
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 316507.3333333333,
+    "z": 100262.33333333333,
+    "alt_m": 406.0333333333333,
+    "lat": 16.352324813089368,
+    "lon": 145.70652580825296,
+    "dms": "N16°21'08.37\" E145°42'23.49\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:40",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Anatahan [r] SA15#10496",
+      "type": "Tor 9A331",
+      "x": 316118.0,
+      "z": 100131.0,
+      "alt": 355.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Anatahan [r] SA15#10496",
+      "type": "GAZ-66",
+      "x": 316140.0,
+      "z": 100116.0,
+      "alt": 347.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Anatahan [r] combatZone_Anatahan-Batterie#10495",
+      "type": "hy_launcher",
+      "x": 316611.8,
+      "z": 100291.6,
+      "alt": 375.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Anatahan [r] combatZone_Anatahan-Batterie#10495",
+      "type": "hy_launcher",
+      "x": 316631.8,
+      "z": 100291.6,
+      "alt": 375.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Anatahan [r] combatZone_Anatahan-Batterie#10495",
+      "type": "Silkworm_SR",
+      "x": 316651.8,
+      "z": 100291.6,
+      "alt": 376.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Anatahan [r] ZSU-23-4 Shilka#10493",
+      "type": "ZSU-23-4 Shilka",
+      "x": 316890.6,
+      "z": 100452.2,
+      "alt": 607.3
+    }
+  ],
+  "image": "anatahan.jpg",
+  "heading": 16,
+  "pitch": -30.0,
+  "x": 315425.11317045556,
+  "y": 99952.011695253,
+  "altitude_m": 1056,
+  "order": 18
+}

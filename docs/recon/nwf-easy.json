@@ -1,0 +1,162 @@
+{
+  "name": "nwf-easy",
+  "title": "A1 Attaque North West Field — facile",
+  "heading_deg": 305.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3500.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_NWF_Easy",
+  "camera": {
+    "position": [
+      13508.36959210823,
+      1911.6153846153843,
+      8427.053448937548
+    ],
+    "forward": [
+      0.49673176489215404,
+      -0.49999999999999994,
+      -0.7094064799162225
+    ],
+    "up": [
+      0.28678821817552297,
+      0.8660254037844387,
+      -0.40957602214449584
+    ],
+    "right": [
+      0.8191520442889918,
+      0.0,
+      0.573576436351046
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 15246.93076923077,
+    "z": 5944.130769230769,
+    "alt_m": 161.6153846153846,
+    "lat": 13.623245731999026,
+    "lon": 144.85118657041477,
+    "dms": "N13°37'23.68\" E144°51'04.27\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:32",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Inert-BTR-82A-5#10424",
+      "type": "BTR-82A",
+      "x": 14617.5,
+      "z": 5783.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Inert-T-72B3-1#10423",
+      "type": "T-72B3",
+      "x": 16031.8,
+      "z": 5930.8,
+      "alt": 170.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Inert-ZBD04A-7#10422",
+      "type": "ZBD04A",
+      "x": 14327.0,
+      "z": 5236.4,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Inert-T-72B3-2#10421",
+      "type": "T-72B3",
+      "x": 16014.3,
+      "z": 6024.2,
+      "alt": 175.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Inert-BTR-82A-4#10420",
+      "type": "BTR-82A",
+      "x": 14799.7,
+      "z": 6200.8,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Inert-ZBD04A-6#10419",
+      "type": "ZBD04A",
+      "x": 14418.3,
+      "z": 5417.2,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Inert-T-72B3-3#10417",
+      "type": "T-72B3",
+      "x": 15223.0,
+      "z": 6245.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Inert-KAMAZ-9#10416",
+      "type": "KAMAZ Truck",
+      "x": 16105.3,
+      "z": 5867.6,
+      "alt": 161.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Inert-KAMAZ-8#10415",
+      "type": "KAMAZ Truck",
+      "x": 15251.8,
+      "z": 5587.9,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Inert-Ural-4320-31-10#10412",
+      "type": "Ural-4320-31",
+      "x": 15335.4,
+      "z": 5693.8,
+      "alt": 159.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Static-Fuel-2#10413 #103",
+      "type": "Fuel tank",
+      "x": 14759.0,
+      "z": 6749.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Static-Fuel-1#10414 #102",
+      "type": "Fuel tank",
+      "x": 15004.0,
+      "z": 6580.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NWF_Easy [r] combatZone_NWF_Easy-Static-Command-3#10418 #104",
+      "type": ".Command Center",
+      "x": 16323.0,
+      "z": 5958.0,
+      "alt": 163.1
+    }
+  ],
+  "image": "nwf-easy.jpg",
+  "heading": 305,
+  "pitch": -30.0,
+  "x": 13508.36959210823,
+  "y": 8427.053448937548,
+  "altitude_m": 1912,
+  "order": 4
+}

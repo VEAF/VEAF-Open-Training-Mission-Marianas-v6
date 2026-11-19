@@ -1,0 +1,146 @@
+{
+  "name": "northfield",
+  "title": "Z13 OCA — Tinian, North Field",
+  "heading_deg": 26.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2700.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_NorthField",
+  "camera": {
+    "position": [
+      172582.03265791826,
+      1381.2454545454543,
+      91355.60688024163
+    ],
+    "forward": [
+      0.7783784768652856,
+      -0.49999999999999994,
+      0.3796405494054582
+    ],
+    "up": [
+      0.44939702314958346,
+      0.8660254037844387,
+      0.21918557339453867
+    ],
+    "right": [
+      -0.4383711467890774,
+      0.0,
+      0.898794046299167
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 174683.65454545454,
+    "z": 92380.63636363637,
+    "alt_m": 31.245454545454546,
+    "lat": 15.070045698975436,
+    "lon": 145.64127481006727,
+    "dms": "N15°04'12.16\" E145°38'28.59\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:42",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_NorthField [r] ZSU-23-4 Shilka#10522",
+      "type": "ZSU-23-4 Shilka",
+      "x": 174721.2,
+      "z": 91478.0,
+      "alt": 30.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NorthField [r] HQ-7#10519",
+      "type": "HQ-7_STR_SP",
+      "x": 174669.0,
+      "z": 92828.0,
+      "alt": 30.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NorthField [r] HQ-7#10519",
+      "type": "HQ-7_LN_SP",
+      "x": 174684.0,
+      "z": 92796.0,
+      "alt": 30.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NorthField [r] HQ-7#10519",
+      "type": "HQ-7_LN_SP",
+      "x": 174692.0,
+      "z": 92850.0,
+      "alt": 30.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NorthField [r] HQ-7#10519",
+      "type": "HQ-7_LN_SP",
+      "x": 174639.0,
+      "z": 92830.0,
+      "alt": 30.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NorthField [r] HQ-7#10519",
+      "type": "Ural-375",
+      "x": 174642.0,
+      "z": 92812.0,
+      "alt": 30.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NorthField [r] combatZone_NorthField-Static-J-11A-3#10517 #170",
+      "type": "J-11A",
+      "x": 175040.0,
+      "z": 92259.0,
+      "alt": 32.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NorthField [r] combatZone_NorthField-Static-J-11A-1#10518 #168",
+      "type": "J-11A",
+      "x": 174864.0,
+      "z": 92122.0,
+      "alt": 32.3
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NorthField [r] combatZone_NorthField-Static-H-6J-5#10520 #172",
+      "type": "H-6J",
+      "x": 174241.0,
+      "z": 91968.0,
+      "alt": 33.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NorthField [r] combatZone_NorthField-Static-H-6J-4#10521 #171",
+      "type": "H-6J",
+      "x": 174364.0,
+      "z": 92122.0,
+      "alt": 33.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NorthField [r] combatZone_NorthField-Static-J-11A-2#10524 #169",
+      "type": "J-11A",
+      "x": 174964.0,
+      "z": 92122.0,
+      "alt": 32.3
+    }
+  ],
+  "image": "northfield.jpg",
+  "heading": 26,
+  "pitch": -30.0,
+  "x": 172582.03265791826,
+  "y": 91355.60688024163,
+  "altitude_m": 1381,
+  "order": 22
+}

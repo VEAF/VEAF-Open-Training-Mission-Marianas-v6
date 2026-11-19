@@ -1,0 +1,98 @@
+{
+  "name": "sarigan",
+  "title": "Z11 Frappe — Sarigan, station d'écoute",
+  "heading_deg": 15.0,
+  "pitch_deg": 30.0,
+  "slant_m": 800.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Sarigan",
+  "camera": {
+    "position": [
+      354776.1869570098,
+      727.3,
+      108132.4849055664
+    ],
+    "forward": [
+      0.8365163037378079,
+      -0.49999999999999994,
+      0.2241438680420134
+    ],
+    "up": [
+      0.4829629131445341,
+      0.8660254037844387,
+      0.12940952255126034
+    ],
+    "right": [
+      -0.25881904510252074,
+      0.0,
+      0.9659258262890683
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 355445.4,
+    "z": 108311.8,
+    "alt_m": 327.3,
+    "lat": 16.704692291584283,
+    "lon": 145.77966676315566,
+    "dms": "N16°42'16.89\" E145°46'46.80\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:41",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Sarigan [r] SA8#10505",
+      "type": "Osa 9A33 ln",
+      "x": 355469.0,
+      "z": 108528.0,
+      "alt": 323.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Sarigan [r] SA8#10505",
+      "type": "GAZ-66",
+      "x": 355444.0,
+      "z": 108510.0,
+      "alt": 323.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Sarigan [r] combatZone_Sarigan-Static-Comms-1#10506 #156",
+      "type": "Comms tower M",
+      "x": 355588.0,
+      "z": 108145.0,
+      "alt": 311.4
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Sarigan [r] combatZone_Sarigan-Static-Command-3#10507 #158",
+      "type": ".Command Center",
+      "x": 355388.0,
+      "z": 108058.0,
+      "alt": 337.7
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_Sarigan [r] combatZone_Sarigan-Static-Comms-2#10508 #157",
+      "type": "Comms tower M",
+      "x": 355338.0,
+      "z": 108318.0,
+      "alt": 341.0
+    }
+  ],
+  "image": "sarigan.jpg",
+  "heading": 15,
+  "pitch": -30.0,
+  "x": 354776.1869570098,
+  "y": 108132.4849055664,
+  "altitude_m": 727,
+  "order": 20
+}

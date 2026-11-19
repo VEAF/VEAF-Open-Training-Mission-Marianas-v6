@@ -1,0 +1,234 @@
+{
+  "name": "chalankanoa",
+  "title": "Z02 Front — Saipan, plages de Chalan Kanoa",
+  "heading_deg": 26.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2250.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_ChalanKanoa",
+  "camera": {
+    "position": [
+      183100.02569978038,
+      1136.2272727272725,
+      99415.26330929226
+    ],
+    "forward": [
+      0.7783784768652856,
+      -0.49999999999999994,
+      0.3796405494054582
+    ],
+    "up": [
+      0.44939702314958346,
+      0.8660254037844387,
+      0.21918557339453867
+    ],
+    "right": [
+      -0.4383711467890774,
+      0.0,
+      0.898794046299167
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 184851.3772727273,
+    "z": 100269.45454545454,
+    "alt_m": 11.227272727272727,
+    "lat": 15.162378042813486,
+    "lon": 145.7141047617603,
+    "dms": "N15°09'44.56\" E145°42'50.78\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:36",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10479",
+      "type": "BMP-3",
+      "x": 185506.5,
+      "z": 100315.9,
+      "alt": 12.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10479",
+      "type": "BMP-3",
+      "x": 185441.5,
+      "z": 100055.9,
+      "alt": 9.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10479",
+      "type": "Chieftain_mk3",
+      "x": 185416.5,
+      "z": 100155.9,
+      "alt": 11.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10479",
+      "type": "Chieftain_mk3",
+      "x": 185327.5,
+      "z": 100206.9,
+      "alt": 11.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10479",
+      "type": "T-72B",
+      "x": 185365.5,
+      "z": 100239.9,
+      "alt": 16.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10479",
+      "type": "BTR-82A",
+      "x": 185321.5,
+      "z": 100123.9,
+      "alt": 9.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] ZSU-23-4 Shilka#10477",
+      "type": "ZSU-23-4 Shilka",
+      "x": 184735.2,
+      "z": 100474.0,
+      "alt": 19.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10476",
+      "type": "BMP-1",
+      "x": 184322.7,
+      "z": 100792.4,
+      "alt": 18.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10476",
+      "type": "VAB_Mephisto",
+      "x": 184464.7,
+      "z": 100698.4,
+      "alt": 21.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10476",
+      "type": "VAB_Mephisto",
+      "x": 184405.7,
+      "z": 100617.4,
+      "alt": 11.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10476",
+      "type": "BMP-1",
+      "x": 184492.7,
+      "z": 100758.4,
+      "alt": 16.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10476",
+      "type": "BMP-1",
+      "x": 184316.7,
+      "z": 100726.4,
+      "alt": 7.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10476",
+      "type": "BMP-1",
+      "x": 184346.7,
+      "z": 100758.4,
+      "alt": 18.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10476",
+      "type": "BMP-1",
+      "x": 184477.7,
+      "z": 100670.4,
+      "alt": 18.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Armored Platoon#10476",
+      "type": "Ural-375 ZU-23",
+      "x": 184450.7,
+      "z": 100579.4,
+      "alt": 11.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Infantry Section#10475",
+      "type": "BMP-2",
+      "x": 184872.5,
+      "z": 99851.2,
+      "alt": 5.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Infantry Section#10475",
+      "type": "ZSU-23-4 Shilka",
+      "x": 184882.5,
+      "z": 99698.2,
+      "alt": 3.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Infantry Section#10475",
+      "type": "Paratrooper RPG-16",
+      "x": 184919.5,
+      "z": 99780.2,
+      "alt": 3.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Infantry Section#10475",
+      "type": "Paratrooper RPG-16",
+      "x": 184943.5,
+      "z": 99840.2,
+      "alt": 4.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Infantry Section#10475",
+      "type": "ZSU_57_2",
+      "x": 184918.5,
+      "z": 99868.2,
+      "alt": 5.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Infantry Section#10475",
+      "type": "Infantry AK ver3",
+      "x": 184809.5,
+      "z": 99838.2,
+      "alt": 5.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_ChalanKanoa [r] Infantry Section#10475",
+      "type": "Paratrooper RPG-16",
+      "x": 184992.5,
+      "z": 99878.2,
+      "alt": 4.7
+    }
+  ],
+  "image": "chalankanoa.jpg",
+  "heading": 26,
+  "pitch": -30.0,
+  "x": 183100.02569978038,
+  "y": 99415.26330929226,
+  "altitude_m": 1136,
+  "order": 11
+}

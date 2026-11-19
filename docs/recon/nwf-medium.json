@@ -1,0 +1,218 @@
+{
+  "name": "nwf-medium",
+  "title": "A2 Attaque North West Field — moyen",
+  "heading_deg": 305.0,
+  "pitch_deg": 30.0,
+  "slant_m": 4600.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_NWF_Medium",
+  "camera": {
+    "position": [
+      12588.14888149609,
+      2458.9799999999996,
+      9305.119807614625
+    ],
+    "forward": [
+      0.49673176489215404,
+      -0.49999999999999994,
+      -0.7094064799162225
+    ],
+    "up": [
+      0.28678821817552297,
+      0.8660254037844387,
+      -0.40957602214449584
+    ],
+    "right": [
+      0.8191520442889918,
+      0.0,
+      0.573576436351046
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 14873.115,
+    "z": 6041.85,
+    "alt_m": 158.98,
+    "lat": 13.619875777938164,
+    "lon": 144.85211986884408,
+    "dms": "N13°37'11.55\" E144°51'07.63\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:32",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] Ural-375 ZU-23#10439",
+      "type": "Ural-375 ZU-23",
+      "x": 15726.5,
+      "z": 7311.9,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Inert-T-72B3-1#10438",
+      "type": "T-72B3",
+      "x": 16005.7,
+      "z": 5910.0,
+      "alt": 169.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Inert-Ural-4320-31-10#10437",
+      "type": "Ural-4320-31",
+      "x": 15337.1,
+      "z": 5681.4,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Inert-BTR-82A-4#10436",
+      "type": "BTR-82A",
+      "x": 14799.1,
+      "z": 6205.3,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Inert-T-72B3-2#10435",
+      "type": "T-72B3",
+      "x": 16004.0,
+      "z": 6031.8,
+      "alt": 176.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Inert-ZBD04A-6#10434",
+      "type": "ZBD04A",
+      "x": 14448.8,
+      "z": 5436.3,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Inert-BTR-82A-5#10433",
+      "type": "BTR-82A",
+      "x": 14657.2,
+      "z": 5807.9,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Inert-T-72B3-3#10432",
+      "type": "T-72B3",
+      "x": 15223.0,
+      "z": 6245.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Inert-KAMAZ-9#10431",
+      "type": "KAMAZ Truck",
+      "x": 16058.6,
+      "z": 5866.3,
+      "alt": 166.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Inert-KAMAZ-8#10429",
+      "type": "KAMAZ Truck",
+      "x": 15255.0,
+      "z": 5590.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] Armored Platoon#10428",
+      "type": "VAB_Mephisto",
+      "x": 14024.7,
+      "z": 5935.1,
+      "alt": 159.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] Armored Platoon#10428",
+      "type": "VAB_Mephisto",
+      "x": 13765.7,
+      "z": 6068.1,
+      "alt": 155.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] Armored Platoon#10428",
+      "type": "T-55",
+      "x": 14037.7,
+      "z": 6164.1,
+      "alt": 152.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] Armored Platoon#10428",
+      "type": "BMP-2",
+      "x": 13913.7,
+      "z": 6119.1,
+      "alt": 141.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] Armored Platoon#10428",
+      "type": "BMP-2",
+      "x": 13961.7,
+      "z": 5993.1,
+      "alt": 158.3
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] Armored Platoon#10428",
+      "type": "Chieftain_mk3",
+      "x": 13840.7,
+      "z": 5949.1,
+      "alt": 148.9
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Inert-ZBD04A-7#10425",
+      "type": "ZBD04A",
+      "x": 14317.1,
+      "z": 5235.5,
+      "alt": 159.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Static-Fuel-2#10426 #103",
+      "type": "Fuel tank",
+      "x": 14759.0,
+      "z": 6749.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Static-Fuel-1#10427 #102",
+      "type": "Fuel tank",
+      "x": 15004.0,
+      "z": 6580.0,
+      "alt": 159.0
+    },
+    {
+      "kind": "static",
+      "group": "combatZone_NWF_Medium [r] combatZone_NWF_Easy-Static-Command-3#10430 #104",
+      "type": ".Command Center",
+      "x": 16323.0,
+      "z": 5958.0,
+      "alt": 163.1
+    }
+  ],
+  "image": "nwf-medium.jpg",
+  "heading": 305,
+  "pitch": -30.0,
+  "x": 12588.14888149609,
+  "y": 9305.119807614625,
+  "altitude_m": 2459,
+  "order": 5
+}

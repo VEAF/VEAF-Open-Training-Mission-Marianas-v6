@@ -1,0 +1,114 @@
+{
+  "name": "talofofo-easy",
+  "title": "H1 Hélico Talofofo — facile",
+  "heading_deg": 211.0,
+  "pitch_deg": 30.0,
+  "slant_m": 3700.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Talofofo_Easy",
+  "camera": {
+    "position": [
+      -16085.983966504955,
+      1934.8285714285712,
+      -2362.938018454572
+    ],
+    "forward": [
+      -0.7423286577013642,
+      -0.49999999999999994,
+      -0.44603605678833963
+    ],
+    "up": [
+      -0.4285836503510561,
+      0.8660254037844387,
+      -0.257519037455027
+    ],
+    "right": [
+      0.5150380749100542,
+      0.0,
+      -0.8571673007021123
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": -18832.600000000002,
+    "z": -4013.2714285714287,
+    "alt_m": 84.82857142857142,
+    "lat": 13.31451007679616,
+    "lon": 144.76206221286952,
+    "dms": "N13°18'52.24\" E144°45'43.42\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:30",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Easy [r] combatZone_Talofofo_Easy-Inert-BTR-82A-4#10377",
+      "type": "BTR-82A",
+      "x": -19594.7,
+      "z": -4006.4,
+      "alt": 90.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Easy [r] combatZone_Talofofo_Easy-Inert-KAMAZ-7#10376",
+      "type": "KAMAZ Truck",
+      "x": -19041.8,
+      "z": -3848.3,
+      "alt": 101.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Easy [r] combatZone_Talofofo_Easy-Inert-KAMAZ-6#10375",
+      "type": "KAMAZ Truck",
+      "x": -17609.2,
+      "z": -4223.4,
+      "alt": 29.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Easy [r] combatZone_Talofofo_Easy-Inert-T-72B3-1#10374",
+      "type": "T-72B3",
+      "x": -17895.8,
+      "z": -3816.8,
+      "alt": 59.7
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Easy [r] combatZone_Talofofo_Easy-Inert-BTR-82A-3#10373",
+      "type": "BTR-82A",
+      "x": -19030.5,
+      "z": -3942.4,
+      "alt": 108.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Easy [r] combatZone_Talofofo_Easy-Inert-T-72B3-2#10372",
+      "type": "T-72B3",
+      "x": -19423.1,
+      "z": -4229.3,
+      "alt": 97.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Talofofo_Easy [r] combatZone_Talofofo_Easy-Inert-ZBD04A-5#10371",
+      "type": "ZBD04A",
+      "x": -19233.1,
+      "z": -4026.3,
+      "alt": 107.0
+    }
+  ],
+  "image": "talofofo-easy.jpg",
+  "heading": 211,
+  "pitch": -30.0,
+  "x": -16085.983966504955,
+  "y": -2362.938018454572,
+  "altitude_m": 1935,
+  "order": 1
+}

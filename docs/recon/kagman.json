@@ -1,0 +1,170 @@
+{
+  "name": "kagman",
+  "title": "Z03 Front — Saipan, artillerie de Kagman",
+  "heading_deg": 28.0,
+  "pitch_deg": 30.0,
+  "slant_m": 2500.0,
+  "mark": "groups",
+  "labels": {},
+  "zone": "combatZone_Kagman",
+  "camera": {
+    "position": [
+      184073.6766716489,
+      1317.835714285714,
+      106021.77853639689
+    ],
+    "forward": [
+      0.7646550456261504,
+      -0.49999999999999994,
+      0.4065742997269626
+    ],
+    "up": [
+      0.44147379642946344,
+      0.8660254037844387,
+      0.23473578139294538
+    ],
+    "right": [
+      -0.4694715627858908,
+      0.0,
+      0.882947592858927
+    ],
+    "hfov_deg": 80.0
+  },
+  "window": {
+    "width": 2650,
+    "height": 1660,
+    "cropped_bottom": 40
+  },
+  "target": {
+    "x": 185985.31428571427,
+    "z": 107038.21428571429,
+    "alt_m": 67.83571428571429,
+    "lat": 15.172978137236143,
+    "lon": 145.77703930912992,
+    "dms": "N15°10'22.72\" E145°46'37.34\""
+  },
+  "theatre": "MarianaIslands",
+  "date": "2026-03-15",
+  "time": "11:36",
+  "units": [
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] PLZ05 artillery battery#10485",
+      "type": "PLZ05",
+      "x": 186561.5,
+      "z": 106929.7,
+      "alt": 66.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] PLZ05 artillery battery#10485",
+      "type": "PLZ05",
+      "x": 186486.5,
+      "z": 106914.7,
+      "alt": 72.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] PLZ05 artillery battery#10485",
+      "type": "PLZ05",
+      "x": 186564.5,
+      "z": 106877.7,
+      "alt": 72.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] PLZ05 artillery battery#10485",
+      "type": "Grad_FDDM",
+      "x": 186494.5,
+      "z": 106795.7,
+      "alt": 76.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] PLZ05 artillery battery#10485",
+      "type": "Ural-375",
+      "x": 186500.5,
+      "z": 106858.7,
+      "alt": 77.2
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] Ural-375 ZU-23#10483",
+      "type": "Ural-375 ZU-23",
+      "x": 186212.6,
+      "z": 106236.1,
+      "alt": 67.5
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] Grad MLRS artillery battery#10482",
+      "type": "Grad-URAL",
+      "x": 185581.7,
+      "z": 107267.8,
+      "alt": 71.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] Grad MLRS artillery battery#10482",
+      "type": "Grad-URAL",
+      "x": 185644.7,
+      "z": 107371.8,
+      "alt": 63.6
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] Grad MLRS artillery battery#10482",
+      "type": "Grad-URAL",
+      "x": 185622.7,
+      "z": 107327.8,
+      "alt": 65.1
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] Grad MLRS artillery battery#10482",
+      "type": "Grad-URAL",
+      "x": 185582.7,
+      "z": 107383.8,
+      "alt": 58.8
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] Grad MLRS artillery battery#10482",
+      "type": "Grad_FDDM",
+      "x": 185639.7,
+      "z": 107306.8,
+      "alt": 66.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] Grad MLRS artillery battery#10482",
+      "type": "Ural-375",
+      "x": 185655.7,
+      "z": 107269.7,
+      "alt": 66.4
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] Grad MLRS artillery battery#10482",
+      "type": "Ural-375",
+      "x": 185616.7,
+      "z": 107446.8,
+      "alt": 55.0
+    },
+    {
+      "kind": "unit",
+      "group": "combatZone_Kagman [r] Strela-10M3#10480",
+      "type": "Strela-10M3",
+      "x": 185630.4,
+      "z": 106547.9,
+      "alt": 71.9
+    }
+  ],
+  "image": "kagman.jpg",
+  "heading": 28,
+  "pitch": -30.0,
+  "x": 184073.6766716489,
+  "y": 106021.77853639689,
+  "altitude_m": 1318,
+  "order": 12
+}
