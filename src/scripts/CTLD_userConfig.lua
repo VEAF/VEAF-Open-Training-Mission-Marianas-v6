@@ -8,7 +8,7 @@ ctld.configUser = [[
 # Sections mm_facing / advanced are for readability; the generator merges them.
 # configVersion: the schema/catalogue version this document is authored against. A
 # configUser carries it too, so the tool can detect a version gap on a CTLD upgrade.
-configVersion: "2.3.0"
+configVersion: "2.5.0"
 mm_facing:
   AASystemCrateStacking: false
   AASystemLimitBLUE: 20
@@ -405,6 +405,7 @@ mm_facing:
   fobLogisticZoneRadius: 150
   fobMinDistanceFromZones: 500
   fobTroopPickupRadius: 150
+  forbidUnpackInLogisticZone: false
   groundVehicleWeights:
     BTR_D: 8000
     Hummer: 2400
@@ -476,6 +477,7 @@ mm_facing:
   maxTransportWeight: 0
   maximumDistanceLogistic: 200
   maximumDistancePackableUnitsSearch: 200
+  maximumMoveDistance: 2000
   maximumSearchDistance: 3000
   nbLimitSpawnedTroops:
   - 0
@@ -490,6 +492,7 @@ mm_facing:
   showMinefieldOnF10Map: true
   slingCutDestroyHeight: 40
   slingLoad: false
+  spawnedUnitsPlayerCanDrive: true
   unpackSearchRadius: 300
   spawnableCrates:
     Combat Vehicles:
